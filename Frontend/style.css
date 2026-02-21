@@ -150,7 +150,7 @@ details summary:focus {
 details[open]>summary {
 	background: var(--brand);
 	color: var(--bground);
-	border-bottom: border-bottom: 1px dashed var(--mground);
+	border-bottom: border-bottom 1px dashed var(--mground);
 }
 
 details summary span {
