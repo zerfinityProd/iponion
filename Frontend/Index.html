@@ -227,8 +227,8 @@
 
                     // Sort data: Active IPOs on top, then by GMP, then by Applications
                     data.sort((a, b) => {
-                        const aIsActive = a['IPO / Stock'] && a['IPO / Stock'].includes('Open');
-                        const bIsActive = b['IPO / Stock'] && b['IPO / Stock'].includes('Open');
+                        const aIsActive = new Date(a['Closing Date']) >= new Date();
+                        const bIsActive = new Date(b['Closing Date']) >= new Date();
 
                         if (aIsActive && !bIsActive) {
                             return -1;
@@ -237,14 +237,14 @@
                             return 1;
                         }
 
-                        const gmpA = a['IPO GMP'] || 0;
-                        const gmpB = b['IPO GMP'] || 0;
+                        const gmpA = a['GMP'] || 0;
+                        const gmpB = b['GMP'] || 0;
                         if (gmpB !== gmpA) {
                             return gmpB - gmpA;
                         }
 
-                        const appsA = a['Applications'] || 0;
-                        const appsB = b['Applications'] || 0;
+                        const appsA = a['Total (X)'] || 0;
+                        const appsB = b['Total (X)'] || 0;
                         return appsB - appsA;
                     });
 
@@ -253,19 +253,39 @@
                     const thead = document.createElement('thead');
                     const tbody = document.createElement('tbody');
 
+                    const dataFields = [
+                        "IPO_sub",
+                        "Type",
+                        "Opening Date",
+                        "Closing Date",
+                        "QIB  (X)",
+                        "NII  (X)",
+                        "Retail  (X)",
+                        "Total (X)",
+                        "Normalized_IPO_Name",
+                        "IPO_gmp",
+                        "GMP",
+                        "Price Band",
+                        "Listing Gain",
+                        "Date"
+                    ];
+
                     // Define the exact column order
                     const columns = [
-                        "IPO / Stock",
+                        "IPO_sub",
                         "Type",
-                        "IPO Date",
-                        "IPO Price",
-                        "QIB",
-                        "NII",
-                        "RII",
-                        "Total",
-                        "Applications",
-                        "IPO GMP",
-                        "Listing Gain"
+                        "Opening Date",
+                        "Closing Date",
+                        "QIB  (X)",
+                        "NII  (X)",
+                        "Retail  (X)",
+                        "Total (X)",
+                        "Normalized_IPO_Name",
+                        "IPO_gmp",
+                        "GMP",
+                        "Price Band",
+                        "Listing Gain",
+                        "Date"
                     ];
 
                     // Create table header
