@@ -85,7 +85,7 @@ header img {
 }
 
 .wrap>* {
-	padding: 1.5rem;
+	padding: .5rem;
 }
 
 header {
@@ -233,7 +233,6 @@ footer {
 /* Table container: responsive and scrollable */
 #ipo-table-container {
 	width: 100%;
-	margin-top: 1.5rem;
 	padding: 0 0.5rem;
 	overflow-x: auto;
 	-webkit-overflow-scrolling: touch;
@@ -443,4 +442,281 @@ tbody tr:hover {
 		margin: 0.5rem auto;
 		padding: 0.8rem;
 	}
+}
+
+/* Moved from index.html */
+:root {
+	--bg-color: #ffffff;
+	--text-color: #333333;
+	--header-bg: #ffffff;
+	--table-bg: #ffffff;
+	--border-color: #ddd;
+	--highlight-bg: #e8f5e8;
+	--scroll-info-bg: #f0f0f0;
+}
+
+body.dark-mode {
+	--bg-color: #121212;
+	--text-color: #ffffff;
+	--header-bg: #1e1e1e;
+	--table-bg: #1e1e1e;
+	--border-color: #333;
+	--highlight-bg: #2e4d2e;
+	--scroll-info-bg: #2a2a2a;
+}
+
+body {
+	background-color: var(--bg-color);
+	color: var(--text-color);
+	transition: background-color 0.3s, color 0.3s;
+}
+
+header {
+	background-color: var(--header-bg);
+}
+
+.table-wrapper th,
+.table-wrapper td {
+	background-color: var(--table-bg);
+	border-color: var(--border-color);
+}
+
+.highlight-top-5,
+.highlight-active {
+	background-color: var(--highlight-bg);
+}
+
+.scroll-info {
+	background-color: var(--scroll-info-bg);
+}
+
+#theme-toggle {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	background: none;
+	border: none;
+	font-size: 24px;
+	cursor: pointer;
+	color: var(--text-color);
+	transition: color 0.3s;
+}
+
+#theme-toggle:hover {
+	opacity: 0.8;
+}
+
+.element-pdf-highlight {
+	outline: 3px solid #2196F3 !important;
+	outline-offset: 2px !important;
+	box-shadow: 0 0 0 2px rgba(33, 150, 243, 0.3),
+		0 0 8px rgba(33, 150, 243, 0.6) !important;
+	position: relative !important;
+	z-index: 999999 !important;
+}
+
+.element-pdf-label {
+	position: fixed !important;
+	background-color: #2196F3 !important;
+	color: white !important;
+	padding: 4px 8px !important;
+	border-radius: 4px !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+	font-size: 12px !important;
+	pointer-events: none !important;
+	z-index: 999999 !important;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+	max-width: 300px !important;
+	white-space: nowrap !important;
+	overflow: hidden !important;
+	text-overflow: ellipsis !important;
+}
+
+.element-pdf-overlay {
+	position: fixed !important;
+	top: 0 !important;
+	left: 0 !important;
+	width: 100% !important;
+	height: 100% !important;
+	z-index: 999990 !important;
+	pointer-events: none !important;
+	background-color: transparent !important;
+	/* Ensure no dimming */
+}
+
+.element-pdf-selected {
+	position: relative !important;
+	outline: 3px solid #4CAF50 !important;
+	outline-offset: 2px !important;
+	box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.3),
+		0 0 8px rgba(76, 175, 80, 0.6) !important;
+	z-index: 999998 !important;
+}
+
+.element-pdf-selected-badge {
+	position: absolute !important;
+	top: 0 !important;
+	left: 0 !important;
+	background-color: #4CAF50 !important;
+	color: white !important;
+	padding: 2px 6px !important;
+	font-size: 10px !important;
+	border-radius: 3px !important;
+	z-index: 999999 !important;
+	pointer-events: none !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+.element-pdf-controls {
+	position: fixed !important;
+	bottom: 20px !important;
+	left: 50% !important;
+	transform: translateX(-50%) !important;
+	background-color: #fff !important;
+	border-radius: 8px !important;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+	padding: 12px !important;
+	z-index: 9999999 !important;
+	display: flex !important;
+	flex-direction: column !important;
+	min-width: 300px !important;
+}
+
+.element-pdf-controls-header {
+	display: flex !important;
+	justify-content: space-between !important;
+	align-items: center !important;
+	margin-bottom: 10px !important;
+	padding-bottom: 10px !important;
+	border-bottom: 1px solid #eee !important;
+}
+
+.element-pdf-controls-title {
+	font-weight: bold !important;
+	font-size: 14px !important;
+	color: #333 !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+.element-pdf-controls-count {
+	font-size: 12px !important;
+	color: #666 !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+.element-pdf-controls-buttons {
+	display: flex !important;
+	gap: 8px !important;
+	margin-top: 10px !important;
+}
+
+.element-pdf-controls-button {
+	padding: 8px 16px !important;
+	border-radius: 4px !important;
+	border: none !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+	font-size: 12px !important;
+	font-weight: 600 !important;
+	cursor: pointer !important;
+	transition: background-color 0.2s !important;
+	flex: 1 !important;
+}
+
+.element-pdf-controls-button-primary {
+	background-color: #2196F3 !important;
+	color: white !important;
+}
+
+.element-pdf-controls-button-primary:hover {
+	background-color: #1976D2 !important;
+}
+
+.element-pdf-controls-button-secondary {
+	background-color: #f5f5f5 !important;
+	color: #333 !important;
+}
+
+.element-pdf-controls-button-secondary:hover {
+	background-color: #e0e0e0 !important;
+}
+
+.element-pdf-controls-button-danger {
+	background-color: #f44336 !important;
+	color: white !important;
+}
+
+.element-pdf-controls-button-danger:hover {
+	background-color: #d32f2f !important;
+}
+
+.element-pdf-selected-list {
+	max-height: 150px !important;
+	overflow-y: auto !important;
+	margin: 10px 0 !important;
+	border: 1px solid #eee !important;
+	border-radius: 4px !important;
+	padding: 8px !important;
+}
+
+.element-pdf-selected-item {
+	display: flex !important;
+	justify-content: space-between !important;
+	align-items: center !important;
+	padding: 6px 8px !important;
+	border-bottom: 1px solid #f0f0f0 !important;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+	font-size: 12px !important;
+}
+
+.element-pdf-selected-item:last-child {
+	border-bottom: none !important;
+}
+
+.element-pdf-selected-item-text {
+	flex: 1 !important;
+	white-space: nowrap !important;
+	overflow: hidden !important;
+	text-overflow: ellipsis !important;
+}
+
+.element-pdf-selected-item-remove {
+	background: none !important;
+	border: none !important;
+	color: #f44336 !important;
+	cursor: pointer !important;
+	font-size: 16px !important;
+	padding: 0 4px !important;
+}
+
+.ipo-section {
+	margin-bottom: 20px;
+}
+
+.ipo-section h3 {
+	margin-top: 10px;
+	margin-bottom: 5px;
+	font-size: 20px;
+	color: #333;
+}
+
+.ipo-section table {
+	margin-bottom: 20px;
+}
+
+#ipo-table-container {
+	width: 100%;
+}
+
+.table-wrapper {
+	width: 100%;
+	max-height: 225px;
+	overflow-y: auto;
+	overflow-x: auto;
+}
+
+.closed-ipo-section .table-wrapper {
+	max-height: 360px;
+	overflow-y: auto;
+	border: 1px solid #ddd;
+	border-radius: 4px;
 }
