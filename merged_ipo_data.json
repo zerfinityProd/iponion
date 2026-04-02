@@ -10,14 +10,14 @@
         "Total (X)":"3.41",
         "Normalized_IPO_Name":"Amir Chand",
         "IPO Name":"Amir Chand",
-        "IPO GMP":3.0,
+        "IPO GMP":5.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9212",
-        "Est. Listing":"\u20b9215 (1.42%)",
+        "Est. Listing":"\u20b9217 (2.35%)",
         "Date":"24-27 March",
         "Type_gmp":"Mainboard",
         "Status":"Close",
-        "Last Updated":"1 Apr, 11:00"
+        "Last Updated":"2 Apr, 08:00"
     },
     {
         "IPO":"Emiac Technologies",
@@ -25,9 +25,9 @@
         "Opening Date":"March 27, 2026",
         "Closing Date":"April 8, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"0.45",
-        "Retail  (X)":"0.25",
-        "Total (X)":"0.22",
+        "NII  (X)":"0.46",
+        "Retail  (X)":"0.38",
+        "Total (X)":"0.29",
         "Normalized_IPO_Name":"Emiac Technologies",
         "IPO Name":"Emiac Technologies",
         "IPO GMP":0.0,
@@ -37,7 +37,7 @@
         "Date":"27-8 April",
         "Type_gmp":"SME",
         "Status":"Open",
-        "Last Updated":"1 Apr, 08:00"
+        "Last Updated":"2 Apr, 08:00"
     },
     {
         "IPO":"Highness Microelectronics",
@@ -50,14 +50,14 @@
         "Total (X)":"193.91",
         "Normalized_IPO_Name":"Highness Microelectronics",
         "IPO Name":"Highness Microelectronics",
-        "IPO GMP":20.0,
-        "Trend":"\ud83d\udd34",
+        "IPO GMP":29.0,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9120",
-        "Est. Listing":"\u20b9140 (16.67%)",
+        "Est. Listing":"\u20b9149 (24.16%)",
         "Date":"24-27 March",
         "Type_gmp":"SME",
         "Status":"Close",
-        "Last Updated":"1 Apr, 08:00"
+        "Last Updated":"2 Apr, 08:00"
     },
     {
         "IPO":"Powerica",
@@ -70,14 +70,14 @@
         "Total (X)":"1.53",
         "Normalized_IPO_Name":"Powerica",
         "IPO Name":"Powerica",
-        "IPO GMP":5.0,
+        "IPO GMP":10.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9395",
-        "Est. Listing":"\u20b9400 (1.27%)",
+        "Est. Listing":"\u20b9405 (2.53%)",
         "Date":"24-27 March",
         "Type_gmp":"Mainboard",
         "Status":"Close",
-        "Last Updated":"1 Apr, 11:00"
+        "Last Updated":"2 Apr, 08:00"
     },
     {
         "IPO":"Propshare Celestia",
@@ -97,7 +97,7 @@
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"1 Apr, 08:00"
+        "Last Updated":"2 Apr, 08:00"
     },
     {
         "IPO":"Safety Controls",
@@ -117,7 +117,7 @@
         "Date":"6-8 April",
         "Type_gmp":"SME",
         "Status":"Upcoming",
-        "Last Updated":"1 Apr, 08:00"
+        "Last Updated":"2 Apr, 08:00"
     },
     {
         "IPO":"Sai Parenteral\u2019s",
@@ -137,27 +137,7 @@
         "Date":"24-27 March",
         "Type_gmp":"Mainboard",
         "Status":"Close",
-        "Last Updated":"1 Apr, 08:00"
-    },
-    {
-        "IPO":"Tipco Engineering",
-        "Type_sub":"SME",
-        "Opening Date":"March 23, 2026",
-        "Closing Date":"March 25, 2026",
-        "QIB  (X)":"3.20",
-        "NII  (X)":"2.12",
-        "Retail  (X)":"0.66",
-        "Total (X)":"1.70",
-        "Normalized_IPO_Name":"Tipco Engineering",
-        "IPO Name":"Tipco Engineering",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b989",
-        "Est. Listing":"\u20b989 (0.00%)",
-        "Date":"23-25 March",
-        "Type_gmp":"SME",
-        "Status":"Close",
-        "Last Updated":"1 Apr, 08:00"
+        "Last Updated":"2 Apr, 08:00"
     },
     {
         "IPO":"Vivid Electromech",
@@ -177,6 +157,6 @@
         "Date":"25-30 March",
         "Type_gmp":"SME",
         "Status":"Close",
-        "Last Updated":"1 Apr, 08:00"
+        "Last Updated":"2 Apr, 08:00"
     }
 ]
