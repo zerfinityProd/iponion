@@ -4,10 +4,10 @@
         "Type_sub":"SME",
         "Opening Date":"March 27, 2026",
         "Closing Date":"April 8, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"0.63",
-        "Retail  (X)":"0.70",
-        "Total (X)":"0.48",
+        "QIB  (X)":"1.02",
+        "NII  (X)":"1.28",
+        "Retail  (X)":"1.35",
+        "Total (X)":"1.24",
         "Normalized_IPO_Name":"Emiac Technologies",
         "IPO Name":"Emiac Technologies",
         "IPO GMP":0.0,
@@ -17,7 +17,7 @@
         "Date":"27-8 April",
         "Type_gmp":"SME",
         "Status":"Open",
-        "Last Updated":"6 Apr, 07:40"
+        "Last Updated":"7 Apr, 07:45"
     },
     {
         "IPO":"Om Power Transmission",
@@ -30,14 +30,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Om Power Transmission",
         "IPO Name":"Om Power Transmission",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":1.5,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9175",
-        "Est. Listing":"\u20b9175 (0.00%)",
+        "Est. Listing":"\u20b9176.5 (0.86%)",
         "Date":"9-13 April",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"6 Apr, 07:40"
+        "Last Updated":"7 Apr, 07:45"
     },
     {
         "IPO":"Propshare Celestia",
@@ -57,17 +57,17 @@
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"6 Apr, 07:40"
+        "Last Updated":"7 Apr, 07:45"
     },
     {
         "IPO":"Safety Controls",
         "Type_sub":"SME",
         "Opening Date":"April 6, 2026",
         "Closing Date":"April 8, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"0.10",
-        "Retail  (X)":"0.10",
-        "Total (X)":"0.07",
+        "QIB  (X)":"0.21",
+        "NII  (X)":"1.49",
+        "Retail  (X)":"0.50",
+        "Total (X)":"0.62",
         "Normalized_IPO_Name":"Safety Controls",
         "IPO Name":"Safety Controls",
         "IPO GMP":0.0,
@@ -77,7 +77,7 @@
         "Date":"6-8 April",
         "Type_gmp":"SME",
         "Status":"Open",
-        "Last Updated":"6 Apr, 07:40"
+        "Last Updated":"7 Apr, 07:45"
     },
     {
         "IPO":"Vivid Electromech",
@@ -97,6 +97,6 @@
         "Date":"25-30 March",
         "Type_gmp":"SME",
         "Status":"Close",
-        "Last Updated":"6 Apr, 07:40"
+        "Last Updated":"7 Apr, 07:45"
     }
 ]
