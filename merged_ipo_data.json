@@ -5,9 +5,9 @@
         "Opening Date":"March 27, 2026",
         "Closing Date":"April 8, 2026",
         "QIB  (X)":"1.02",
-        "NII  (X)":"1.28",
-        "Retail  (X)":"1.35",
-        "Total (X)":"1.24",
+        "NII  (X)":"2.57",
+        "Retail  (X)":"2.80",
+        "Total (X)":"2.24",
         "Normalized_IPO_Name":"Emiac Technologies",
         "IPO Name":"Emiac Technologies",
         "IPO GMP":0.0,
@@ -17,7 +17,7 @@
         "Date":"27-8 April",
         "Type_gmp":"SME",
         "Status":"Open",
-        "Last Updated":"7 Apr, 07:45"
+        "Last Updated":"8 Apr, 07:15"
     },
     {
         "IPO":"Om Power Transmission",
@@ -31,13 +31,13 @@
         "Normalized_IPO_Name":"Om Power Transmission",
         "IPO Name":"Om Power Transmission",
         "IPO GMP":1.5,
-        "Trend":"\ud83d\udfe2",
+        "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9175",
         "Est. Listing":"\u20b9176.5 (0.86%)",
         "Date":"9-13 April",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"7 Apr, 07:45"
+        "Last Updated":"8 Apr, 07:15"
     },
     {
         "IPO":"Propshare Celestia",
@@ -57,17 +57,17 @@
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"7 Apr, 07:45"
+        "Last Updated":"8 Apr, 07:15"
     },
     {
         "IPO":"Safety Controls",
         "Type_sub":"SME",
         "Opening Date":"April 6, 2026",
         "Closing Date":"April 8, 2026",
-        "QIB  (X)":"0.21",
-        "NII  (X)":"1.49",
-        "Retail  (X)":"0.50",
-        "Total (X)":"0.62",
+        "QIB  (X)":"0.31",
+        "NII  (X)":"2.31",
+        "Retail  (X)":"0.62",
+        "Total (X)":"0.88",
         "Normalized_IPO_Name":"Safety Controls",
         "IPO Name":"Safety Controls",
         "IPO GMP":0.0,
@@ -77,26 +77,6 @@
         "Date":"6-8 April",
         "Type_gmp":"SME",
         "Status":"Open",
-        "Last Updated":"7 Apr, 07:45"
-    },
-    {
-        "IPO":"Vivid Electromech",
-        "Type_sub":"SME",
-        "Opening Date":"March 25, 2026",
-        "Closing Date":"March 30, 2026",
-        "QIB  (X)":"1.95",
-        "NII  (X)":"1.50",
-        "Retail  (X)":"0.36",
-        "Total (X)":"1.06",
-        "Normalized_IPO_Name":"Vivid Electromech",
-        "IPO Name":"Vivid Electromech",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9555",
-        "Est. Listing":"\u20b9555 (0.00%)",
-        "Date":"25-30 March",
-        "Type_gmp":"SME",
-        "Status":"Close",
-        "Last Updated":"7 Apr, 07:45"
+        "Last Updated":"8 Apr, 07:15"
     }
 ]
