@@ -17,7 +17,7 @@
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"9 Apr, 11:29"
+        "Last Updated":"10 Apr, 07:30"
     },
     {
         "IPO":"Emiac Technologies",
@@ -37,37 +37,37 @@
         "Date":"27-8 April",
         "Type_gmp":"SME",
         "Status":"Closed",
-        "Last Updated":"9 Apr, 11:29"
+        "Last Updated":"10 Apr, 07:30"
     },
     {
         "IPO":"Om Power Transmission",
         "Type_sub":"Mainboard",
         "Opening Date":"April 9, 2026",
         "Closing Date":"April 13, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"0.02",
-        "Retail  (X)":"0.12",
-        "Total (X)":"0.06",
+        "QIB  (X)":"0.78",
+        "NII  (X)":"0.21",
+        "Retail  (X)":"0.51",
+        "Total (X)":"0.52",
         "Normalized_IPO_Name":"Om Power Transmission",
         "IPO Name":"Om Power Transmission",
-        "IPO GMP":7.0,
+        "IPO GMP":3.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9175",
-        "Est. Listing":"\u20b9182 (4.00%)",
+        "Est. Listing":"\u20b9178 (1.71%)",
         "Date":"9-13 April",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"9 Apr, 11:29"
+        "Last Updated":"10 Apr, 07:30"
     },
     {
         "IPO":"Propshare Celestia",
         "Type_sub":"Mainboard",
         "Opening Date":"April 10, 2026",
         "Closing Date":"April 16, 2026",
-        "QIB  (X)":"",
-        "NII  (X)":"",
-        "Retail  (X)":"",
-        "Total (X)":"",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"0.00",
+        "Retail  (X)":"0.23",
+        "Total (X)":"0.06",
         "Normalized_IPO_Name":"Propshare Celestia",
         "IPO Name":"Propshare Celestia",
         "IPO GMP":0.0,
@@ -76,8 +76,8 @@
         "Est. Listing":"\u20b91050000 (0.00%)",
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
-        "Status":"Upcoming",
-        "Last Updated":"9 Apr, 11:29"
+        "Status":"Open",
+        "Last Updated":"10 Apr, 07:30"
     },
     {
         "IPO":"Safety Controls",
@@ -97,6 +97,6 @@
         "Date":"6-8 April",
         "Type_gmp":"SME",
         "Status":"Closed",
-        "Last Updated":"9 Apr, 11:29"
+        "Last Updated":"10 Apr, 07:30"
     }
 ]
