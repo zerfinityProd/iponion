@@ -17,7 +17,7 @@
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"10 Apr, 07:30"
+        "Last Updated":"11 Apr, 07:40"
     },
     {
         "IPO":"Emiac Technologies",
@@ -35,19 +35,59 @@
         "Price Band":"\u20b998",
         "Est. Listing":"\u20b998 (0.00%)",
         "Date":"27-8 April",
-        "Type_gmp":"SME",
+        "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"10 Apr, 07:30"
+        "Last Updated":"11 Apr, 07:40"
+    },
+    {
+        "IPO":"Leapfrog Engineering",
+        "Type_sub":"SME",
+        "Opening Date":"April 23, 2026",
+        "Closing Date":"April 27, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Leapfrog Engineering",
+        "IPO Name":"Leapfrog Engineering",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"23-27 April",
+        "Type_gmp":"BSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"11 Apr, 07:40"
+    },
+    {
+        "IPO":"Mehul Telecom",
+        "Type_sub":"SME",
+        "Opening Date":"April 17, 2026",
+        "Closing Date":"April 21, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Mehul Telecom",
+        "IPO Name":"Mehul Telecom",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b998",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"17-21 April",
+        "Type_gmp":"BSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"11 Apr, 07:40"
     },
     {
         "IPO":"Om Power Transmission",
         "Type_sub":"Mainboard",
         "Opening Date":"April 9, 2026",
         "Closing Date":"April 13, 2026",
-        "QIB  (X)":"0.78",
-        "NII  (X)":"0.21",
-        "Retail  (X)":"0.51",
-        "Total (X)":"0.52",
+        "QIB  (X)":"1.18",
+        "NII  (X)":"0.38",
+        "Retail  (X)":"0.59",
+        "Total (X)":"0.71",
         "Normalized_IPO_Name":"Om Power Transmission",
         "IPO Name":"Om Power Transmission",
         "IPO GMP":3.0,
@@ -57,17 +97,17 @@
         "Date":"9-13 April",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"10 Apr, 07:30"
+        "Last Updated":"11 Apr, 07:40"
     },
     {
         "IPO":"Propshare Celestia",
         "Type_sub":"Mainboard",
         "Opening Date":"April 10, 2026",
         "Closing Date":"April 16, 2026",
-        "QIB  (X)":"0.00",
+        "QIB  (X)":"292.00",
         "NII  (X)":"0.00",
-        "Retail  (X)":"0.23",
-        "Total (X)":"0.06",
+        "Retail  (X)":"1.38",
+        "Total (X)":"0.47",
         "Normalized_IPO_Name":"Propshare Celestia",
         "IPO Name":"Propshare Celestia",
         "IPO GMP":0.0,
@@ -77,7 +117,7 @@
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"10 Apr, 07:30"
+        "Last Updated":"11 Apr, 07:40"
     },
     {
         "IPO":"Safety Controls",
@@ -95,8 +135,8 @@
         "Price Band":"\u20b980",
         "Est. Listing":"\u20b980 (0.00%)",
         "Date":"6-8 April",
-        "Type_gmp":"SME",
+        "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"10 Apr, 07:30"
+        "Last Updated":"11 Apr, 07:40"
     }
 ]
