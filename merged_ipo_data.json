@@ -16,8 +16,8 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
-        "Status":"Upcoming",
-        "Last Updated":"16 Apr, 13:38"
+        "Status":"Open",
+        "Last Updated":"17 Apr, 07:50"
     },
     {
         "IPO":"Leapfrog Engineering",
@@ -37,27 +37,27 @@
         "Date":"23-27 April",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 Apr, 13:38"
+        "Last Updated":"17 Apr, 07:50"
     },
     {
         "IPO":"Mehul Telecom",
         "Type_sub":"SME",
         "Opening Date":"April 17, 2026",
         "Closing Date":"April 21, 2026",
-        "QIB  (X)":"",
-        "NII  (X)":"",
-        "Retail  (X)":"",
-        "Total (X)":"",
+        "QIB  (X)":"1.34",
+        "NII  (X)":"3.77",
+        "Retail  (X)":"1.14",
+        "Total (X)":"1.76",
         "Normalized_IPO_Name":"Mehul Telecom",
         "IPO Name":"Mehul Telecom",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":4.5,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b998",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9102.5 (4.59%)",
         "Date":"17-21 April",
         "Type_gmp":"BSE SME",
-        "Status":"Upcoming",
-        "Last Updated":"16 Apr, 13:38"
+        "Status":"Open",
+        "Last Updated":"17 Apr, 07:50"
     },
     {
         "IPO":"Om Power Transmission",
@@ -70,14 +70,14 @@
         "Total (X)":"3.33",
         "Normalized_IPO_Name":"Om Power Transmission",
         "IPO Name":"Om Power Transmission",
-        "IPO GMP":1.0,
+        "IPO GMP":2.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9175",
-        "Est. Listing":"\u20b9176 (0.57%)",
+        "Est. Listing":"\u20b9177 (1.14%)",
         "Date":"9-13 April",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"16 Apr, 13:38"
+        "Last Updated":"17 Apr, 07:50"
     },
     {
         "IPO":"Propshare Celestia",
@@ -85,9 +85,9 @@
         "Opening Date":"April 10, 2026",
         "Closing Date":"April 16, 2026",
         "QIB  (X)":"0.17",
-        "NII  (X)":"3.40",
+        "NII  (X)":"4.81",
         "Retail  (X)":"0.00",
-        "Total (X)":"0.98",
+        "Total (X)":"1.33",
         "Normalized_IPO_Name":"Propshare Celestia",
         "IPO Name":"Propshare Celestia",
         "IPO GMP":0.0,
@@ -96,7 +96,7 @@
         "Est. Listing":"\u20b91050000 (0.00%)",
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
-        "Status":"Open",
-        "Last Updated":"16 Apr, 13:38"
+        "Status":"Closed",
+        "Last Updated":"17 Apr, 07:50"
     }
 ]
