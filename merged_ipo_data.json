@@ -17,7 +17,7 @@
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"17 Apr, 07:50"
+        "Last Updated":"18 Apr, 08:00"
     },
     {
         "IPO":"Leapfrog Engineering",
@@ -37,7 +37,7 @@
         "Date":"23-27 April",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"17 Apr, 07:50"
+        "Last Updated":"18 Apr, 08:00"
     },
     {
         "IPO":"Mehul Telecom",
@@ -45,9 +45,9 @@
         "Opening Date":"April 17, 2026",
         "Closing Date":"April 21, 2026",
         "QIB  (X)":"1.34",
-        "NII  (X)":"3.77",
-        "Retail  (X)":"1.14",
-        "Total (X)":"1.76",
+        "NII  (X)":"9.82",
+        "Retail  (X)":"2.34",
+        "Total (X)":"3.64",
         "Normalized_IPO_Name":"Mehul Telecom",
         "IPO Name":"Mehul Telecom",
         "IPO GMP":4.5,
@@ -57,27 +57,7 @@
         "Date":"17-21 April",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"17 Apr, 07:50"
-    },
-    {
-        "IPO":"Om Power Transmission",
-        "Type_sub":"Mainboard",
-        "Opening Date":"April 9, 2026",
-        "Closing Date":"April 13, 2026",
-        "QIB  (X)":"3.65",
-        "NII  (X)":"7.06",
-        "Retail  (X)":"1.54",
-        "Total (X)":"3.33",
-        "Normalized_IPO_Name":"Om Power Transmission",
-        "IPO Name":"Om Power Transmission",
-        "IPO GMP":2.0,
-        "Trend":"\ud83d\udfe2",
-        "Price Band":"\u20b9175",
-        "Est. Listing":"\u20b9177 (1.14%)",
-        "Date":"9-13 April",
-        "Type_gmp":"Mainboard",
-        "Status":"Closed",
-        "Last Updated":"17 Apr, 07:50"
+        "Last Updated":"18 Apr, 08:00"
     },
     {
         "IPO":"Propshare Celestia",
@@ -97,6 +77,6 @@
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"17 Apr, 07:50"
+        "Last Updated":"18 Apr, 08:00"
     }
 ]
