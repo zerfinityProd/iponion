@@ -8,6 +8,26 @@
         "NII  (X)":null,
         "Retail  (X)":null,
         "Total (X)":null,
+        "Normalized_IPO_Name":"Adisoft Technologies",
+        "IPO Name":"Adisoft Technologies",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9172",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"23-27 April",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"20 Apr, 10:29"
+    },
+    {
+        "IPO":null,
+        "Type_sub":null,
+        "Opening Date":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
         "Normalized_IPO_Name":"Citius Transnet\u00a0InvIT",
         "IPO Name":"Citius Transnet\u00a0InvIT",
         "IPO GMP":0.0,
@@ -17,7 +37,7 @@
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"18 Apr, 08:00"
+        "Last Updated":"20 Apr, 08:38"
     },
     {
         "IPO":"Leapfrog Engineering",
@@ -37,7 +57,27 @@
         "Date":"23-27 April",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"18 Apr, 08:00"
+        "Last Updated":"20 Apr, 08:38"
+    },
+    {
+        "IPO":"Leapfrog Engineering",
+        "Type_sub":"SME",
+        "Opening Date":"April 23, 2026",
+        "Closing Date":"April 27, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Leapfrog Engineering",
+        "IPO Name":"Leapfrog Engineering",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b923",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"23-27 April",
+        "Type_gmp":"BSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"20 Apr, 08:38"
     },
     {
         "IPO":"Mehul Telecom",
@@ -45,9 +85,9 @@
         "Opening Date":"April 17, 2026",
         "Closing Date":"April 21, 2026",
         "QIB  (X)":"1.34",
-        "NII  (X)":"9.82",
-        "Retail  (X)":"2.34",
-        "Total (X)":"3.64",
+        "NII  (X)":"15.84",
+        "Retail  (X)":"6.37",
+        "Total (X)":"6.93",
         "Normalized_IPO_Name":"Mehul Telecom",
         "IPO Name":"Mehul Telecom",
         "IPO GMP":4.5,
@@ -57,7 +97,7 @@
         "Date":"17-21 April",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"18 Apr, 08:00"
+        "Last Updated":"20 Apr, 08:38"
     },
     {
         "IPO":"Propshare Celestia",
@@ -77,6 +117,6 @@
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"18 Apr, 08:00"
+        "Last Updated":"20 Apr, 08:38"
     }
 ]
