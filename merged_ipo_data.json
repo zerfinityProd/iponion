@@ -4,20 +4,20 @@
         "Type_sub":"SME",
         "Opening Date":"April 23, 2026",
         "Closing Date":"April 27, 2026",
-        "QIB  (X)":"",
-        "NII  (X)":"",
-        "Retail  (X)":"",
-        "Total (X)":"",
+        "QIB  (X)":"3.50",
+        "NII  (X)":"0.64",
+        "Retail  (X)":"0.54",
+        "Total (X)":"1.41",
         "Normalized_IPO_Name":"Adisoft Technologies",
         "IPO Name":"Adisoft Technologies",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":10.0,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9172",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9182 (5.81%)",
         "Date":"23-27 April",
         "Type_gmp":"NSE SME",
-        "Status":"Upcoming",
-        "Last Updated":"22 Apr, 14:07"
+        "Status":"Open",
+        "Last Updated":"23 Apr, 14:02"
     },
     {
         "IPO":"Amba Auto Sales",
@@ -37,7 +37,7 @@
         "Date":"27-29 April",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"22 Apr, 14:07"
+        "Last Updated":"23 Apr, 14:02"
     },
     {
         "IPO":null,
@@ -50,34 +50,14 @@
         "Total (X)":null,
         "Normalized_IPO_Name":"Citius Transnet\u00a0InvIT",
         "IPO Name":"Citius Transnet\u00a0InvIT",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":2.0,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9100",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9102 (2.00%)",
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"22 Apr, 14:07"
-    },
-    {
-        "IPO":"Leapfrog Engineering",
-        "Type_sub":"SME",
-        "Opening Date":"April 23, 2026",
-        "Closing Date":"April 27, 2026",
-        "QIB  (X)":"",
-        "NII  (X)":"",
-        "Retail  (X)":"",
-        "Total (X)":"",
-        "Normalized_IPO_Name":"Leapfrog Engineering",
-        "IPO Name":"Leapfrog Engineering",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b923",
-        "Est. Listing":"\u20b9- (0.00%)",
-        "Date":"23-27 April",
-        "Type_gmp":"BSE SME",
-        "Status":"Upcoming",
-        "Last Updated":"22 Apr, 14:07"
+        "Last Updated":"23 Apr, 14:02"
     },
     {
         "IPO":"Mehul Telecom",
@@ -97,7 +77,7 @@
         "Date":"17-21 April",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"22 Apr, 14:07"
+        "Last Updated":"23 Apr, 14:02"
     },
     {
         "IPO":"Propshare Celestia",
@@ -117,6 +97,6 @@
         "Date":"10-16 April",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"22 Apr, 14:07"
+        "Last Updated":"23 Apr, 14:02"
     }
 ]
