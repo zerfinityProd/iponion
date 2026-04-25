@@ -5,9 +5,9 @@
         "Opening Date":"April 23, 2026",
         "Closing Date":"April 27, 2026",
         "QIB  (X)":"3.67",
-        "NII  (X)":"2.91",
-        "Retail  (X)":"2.27",
-        "Total (X)":"2.81",
+        "NII  (X)":"3.89",
+        "Retail  (X)":"2.90",
+        "Total (X)":"3.33",
         "Normalized_IPO_Name":"Adisoft Technologies",
         "IPO Name":"Adisoft Technologies",
         "IPO GMP":10.0,
@@ -17,7 +17,7 @@
         "Date":"23-27 April",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated":"24 Apr, 07:58"
+        "Last Updated":"25 Apr, 07:30"
     },
     {
         "IPO":"Amba Auto Sales",
@@ -37,7 +37,7 @@
         "Date":"27-29 April",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"24 Apr, 07:58"
+        "Last Updated":"25 Apr, 07:30"
     },
     {
         "IPO":null,
@@ -50,53 +50,13 @@
         "Total (X)":null,
         "Normalized_IPO_Name":"Citius Transnet\u00a0InvIT",
         "IPO Name":"Citius Transnet\u00a0InvIT",
-        "IPO GMP":3.0,
+        "IPO GMP":3.5,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9100",
-        "Est. Listing":"\u20b9103 (3.00%)",
+        "Est. Listing":"\u20b9103.5 (3.50%)",
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"24 Apr, 07:58"
-    },
-    {
-        "IPO":"Mehul Telecom",
-        "Type_sub":"SME",
-        "Opening Date":"April 17, 2026",
-        "Closing Date":"April 21, 2026",
-        "QIB  (X)":"32.50",
-        "NII  (X)":"79.38",
-        "Retail  (X)":"37.41",
-        "Total (X)":"44.91",
-        "Normalized_IPO_Name":"Mehul Telecom",
-        "IPO Name":"Mehul Telecom",
-        "IPO GMP":3.0,
-        "Trend":"\ud83d\udfe2",
-        "Price Band":"\u20b998",
-        "Est. Listing":"\u20b9101 (3.06%)",
-        "Date":"17-21 April",
-        "Type_gmp":"BSE SME",
-        "Status":"Closed",
-        "Last Updated":"24 Apr, 07:58"
-    },
-    {
-        "IPO":"Propshare Celestia",
-        "Type_sub":"Mainboard",
-        "Opening Date":"April 10, 2026",
-        "Closing Date":"April 16, 2026",
-        "QIB  (X)":"0.17",
-        "NII  (X)":"4.81",
-        "Retail  (X)":"0.00",
-        "Total (X)":"1.33",
-        "Normalized_IPO_Name":"Propshare Celestia",
-        "IPO Name":"Propshare Celestia",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b91050000",
-        "Est. Listing":"\u20b91050000 (0.00%)",
-        "Date":"10-16 April",
-        "Type_gmp":"Mainboard",
-        "Status":"Closed",
-        "Last Updated":"24 Apr, 07:58"
+        "Last Updated":"25 Apr, 07:30"
     }
 ]
