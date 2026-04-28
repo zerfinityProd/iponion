@@ -4,20 +4,20 @@
         "Type_sub":"SME",
         "Opening Date":"April 23, 2026",
         "Closing Date":"April 27, 2026",
-        "QIB  (X)":"89.83",
-        "NII  (X)":"117.83",
-        "Retail  (X)":"42.99",
-        "Total (X)":"72.41",
+        "QIB  (X)":"98.23",
+        "NII  (X)":"120.16",
+        "Retail  (X)":"47.27",
+        "Total (X)":"77.45",
         "Normalized_IPO_Name":"Adisoft Technologies",
         "IPO Name":"Adisoft Technologies",
-        "IPO GMP":16.5,
+        "IPO GMP":17.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9172",
-        "Est. Listing":"\u20b9188.5 (9.59%)",
+        "Est. Listing":"\u20b9189 (9.59%)",
         "Date":"23-27 April",
         "Type_gmp":"NSE SME",
-        "Status":"Open",
-        "Last Updated":"27 Apr, 07:50"
+        "Status":"Closed",
+        "Last Updated":"28 Apr, 15:43"
     },
     {
         "IPO":"Amba Auto Sales",
@@ -25,9 +25,9 @@
         "Opening Date":"April 27, 2026",
         "Closing Date":"April 29, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"0.15",
-        "Retail  (X)":"0.09",
-        "Total (X)":"0.11",
+        "NII  (X)":"0.66",
+        "Retail  (X)":"0.21",
+        "Total (X)":"0.41",
         "Normalized_IPO_Name":"Amba Auto Sales",
         "IPO Name":"Amba Auto Sales",
         "IPO GMP":0.0,
@@ -36,8 +36,28 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"27-29 April",
         "Type_gmp":"NSE SME",
+        "Status":"Open",
+        "Last Updated":"28 Apr, 15:43"
+    },
+    {
+        "IPO":null,
+        "Type_sub":null,
+        "Opening Date":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Normalized_IPO_Name":"Bagmane REIT",
+        "IPO Name":"Bagmane REIT",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"5-7 May",
+        "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"27 Apr, 07:50"
+        "Last Updated":"28 Apr, 15:43"
     },
     {
         "IPO":null,
@@ -57,7 +77,7 @@
         "Date":"17-21 April",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"27 Apr, 07:50"
+        "Last Updated":"28 Apr, 15:43"
     },
     {
         "IPO":"Kissht",
@@ -70,14 +90,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Kissht",
         "IPO Name":"Kissht",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "IPO GMP":7.5,
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b9171",
+        "Est. Listing":"\u20b9178.5 (4.39%)",
         "Date":"30-5 May",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"27 Apr, 07:50"
+        "Last Updated":"28 Apr, 15:43"
     },
     {
         "IPO":"Value 360 Communications",
@@ -92,11 +112,11 @@
         "IPO Name":"Value 360 Communications",
         "IPO GMP":0.0,
         "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
+        "Price Band":"\u20b998",
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"4-6 May",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"27 Apr, 07:50"
+        "Last Updated":"28 Apr, 15:43"
     }
 ]
