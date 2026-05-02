@@ -17,7 +17,7 @@
         "Date":"27-29 April",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"1 May, 12:22"
+        "Last Updated":"2 May, 07:50"
     },
     {
         "IPO":"Bagmane REIT",
@@ -30,14 +30,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Bagmane REIT",
         "IPO Name":"Bagmane REIT",
-        "IPO GMP":3.0,
+        "IPO GMP":4.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9100",
-        "Est. Listing":"\u20b9103 (3.00%)",
+        "Est. Listing":"\u20b9104 (4.00%)",
         "Date":"5-7 May",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"1 May, 14:30"
+        "Last Updated":"2 May, 07:50"
     },
     {
         "IPO":"Kissht",
@@ -50,14 +50,14 @@
         "Total (X)":"0.25",
         "Normalized_IPO_Name":"Kissht",
         "IPO Name":"Kissht",
-        "IPO GMP":4.5,
+        "IPO GMP":4.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9171",
-        "Est. Listing":"\u20b9175.5 (2.63%)",
+        "Est. Listing":"\u20b9175 (2.34%)",
         "Date":"30-5 May",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"1 May, 12:22"
+        "Last Updated":"2 May, 07:50"
     },
     {
         "IPO":"Recode Studios",
@@ -70,14 +70,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Recode Studios",
         "IPO Name":"Recode Studios",
-        "IPO GMP":35.0,
+        "IPO GMP":40.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9158",
-        "Est. Listing":"\u20b9193 (22.15%)",
+        "Est. Listing":"\u20b9198 (25.32%)",
         "Date":"5-7 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"1 May, 12:22"
+        "Last Updated":"2 May, 07:50"
     },
     {
         "IPO":"Value 360 Communications",
@@ -97,6 +97,6 @@
         "Date":"4-6 May",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"1 May, 12:22"
+        "Last Updated":"2 May, 07:50"
     }
 ]
