@@ -17,7 +17,7 @@
         "Date":"27-29 April",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"2 May, 07:50"
+        "Last Updated":"2 May, 16:07"
     },
     {
         "IPO":"Bagmane REIT",
@@ -37,7 +37,7 @@
         "Date":"5-7 May",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"2 May, 07:50"
+        "Last Updated":"2 May, 16:07"
     },
     {
         "IPO":"Kissht",
@@ -57,7 +57,7 @@
         "Date":"30-5 May",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"2 May, 07:50"
+        "Last Updated":"2 May, 16:07"
     },
     {
         "IPO":"Recode Studios",
@@ -70,14 +70,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Recode Studios",
         "IPO Name":"Recode Studios",
-        "IPO GMP":40.0,
+        "IPO GMP":37.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9158",
-        "Est. Listing":"\u20b9198 (25.32%)",
+        "Est. Listing":"\u20b9195 (23.42%)",
         "Date":"5-7 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"2 May, 07:50"
+        "Last Updated":"2 May, 16:07"
     },
     {
         "IPO":"Value 360 Communications",
@@ -97,6 +97,6 @@
         "Date":"4-6 May",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"2 May, 07:50"
+        "Last Updated":"2 May, 16:07"
     }
 ]
