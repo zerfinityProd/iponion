@@ -17,7 +17,7 @@
         "Date":"27-29 April",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"2 May, 16:07"
+        "Last Updated":"4 May, 15:15"
     },
     {
         "IPO":"Bagmane REIT",
@@ -37,27 +37,27 @@
         "Date":"5-7 May",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"2 May, 16:07"
+        "Last Updated":"4 May, 15:15"
     },
     {
         "IPO":"Kissht",
         "Type_sub":"Mainboard",
         "Opening Date":"April 30, 2026",
         "Closing Date":"May 5, 2026",
-        "QIB  (X)":"0.69",
-        "NII  (X)":"0.11",
-        "Retail  (X)":"0.06",
-        "Total (X)":"0.25",
+        "QIB  (X)":"1.26",
+        "NII  (X)":"0.25",
+        "Retail  (X)":"0.15",
+        "Total (X)":"0.49",
         "Normalized_IPO_Name":"Kissht",
         "IPO Name":"Kissht",
-        "IPO GMP":4.0,
+        "IPO GMP":1.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9171",
-        "Est. Listing":"\u20b9175 (2.34%)",
+        "Est. Listing":"\u20b9172 (0.58%)",
         "Date":"30-5 May",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"2 May, 16:07"
+        "Last Updated":"4 May, 15:15"
     },
     {
         "IPO":"Recode Studios",
@@ -70,24 +70,44 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Recode Studios",
         "IPO Name":"Recode Studios",
-        "IPO GMP":37.0,
+        "IPO GMP":45.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9158",
-        "Est. Listing":"\u20b9195 (23.42%)",
+        "Est. Listing":"\u20b9203 (28.48%)",
         "Date":"5-7 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"2 May, 16:07"
+        "Last Updated":"4 May, 15:15"
+    },
+    {
+        "IPO":"Simca Advertising",
+        "Type_sub":"SME",
+        "Opening Date":"May 8, 2026",
+        "Closing Date":"May 12, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Simca Advertising",
+        "IPO Name":"Simca Advertising",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9183",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"8-12 May",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"4 May, 15:15"
     },
     {
         "IPO":"Value 360 Communications",
         "Type_sub":"SME",
         "Opening Date":"May 4, 2026",
         "Closing Date":"May 6, 2026",
-        "QIB  (X)":"",
-        "NII  (X)":"",
-        "Retail  (X)":"",
-        "Total (X)":"",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"0.01",
+        "Retail  (X)":"0.04",
+        "Total (X)":"0.03",
         "Normalized_IPO_Name":"Value 360 Communications",
         "IPO Name":"Value 360 Communications",
         "IPO GMP":0.0,
@@ -96,7 +116,7 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"4-6 May",
         "Type_gmp":"NSE SME",
-        "Status":"Upcoming",
-        "Last Updated":"2 May, 16:07"
+        "Status":"Open",
+        "Last Updated":"4 May, 15:15"
     }
 ]
