@@ -4,10 +4,10 @@
         "Type_sub":"Mainboard",
         "Opening Date":"May 5, 2026",
         "Closing Date":"May 7, 2026",
-        "QIB  (X)":"22.92",
-        "NII  (X)":"20.98",
+        "QIB  (X)":"26.58",
+        "NII  (X)":"22.82",
         "Retail  (X)":"0",
-        "Total (X)":"22.12",
+        "Total (X)":"24.96",
         "Normalized_IPO_Name":"Bagmane REIT",
         "IPO Name":"Bagmane REIT",
         "IPO GMP":4.5,
@@ -16,8 +16,8 @@
         "Est. Listing":"\u20b9104.5 (4.50%)",
         "Date":"5-7 May",
         "Type_gmp":"Mainboard",
-        "Status":"Open",
-        "Last Updated":"7 May, 15:33"
+        "Status":"Closed",
+        "Last Updated":"8 May, 07:30"
     },
     {
         "IPO":"Goldline Pharmaceutical",
@@ -37,7 +37,7 @@
         "Date":"12-14 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"7 May, 15:33"
+        "Last Updated":"8 May, 07:30"
     },
     {
         "IPO":"Kissht",
@@ -50,14 +50,14 @@
         "Total (X)":"9.96",
         "Normalized_IPO_Name":"Kissht",
         "IPO Name":"Kissht",
-        "IPO GMP":25.0,
+        "IPO GMP":27.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9171",
-        "Est. Listing":"\u20b9196 (14.62%)",
+        "Est. Listing":"\u20b9198 (15.79%)",
         "Date":"30-5 May",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"7 May, 15:33"
+        "Last Updated":"8 May, 07:30"
     },
     {
         "IPO":"RFBL Flexi Pack",
@@ -77,37 +77,37 @@
         "Date":"12-14 May",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"7 May, 15:33"
+        "Last Updated":"8 May, 07:30"
     },
     {
         "IPO":"Recode Studios",
         "Type_sub":"SME",
         "Opening Date":"May 5, 2026",
         "Closing Date":"May 7, 2026",
-        "QIB  (X)":"125.53",
-        "NII  (X)":"402.17",
-        "Retail  (X)":"205.58",
-        "Total (X)":"224.99",
+        "QIB  (X)":"137.99",
+        "NII  (X)":"404.76",
+        "Retail  (X)":"216.64",
+        "Total (X)":"234.63",
         "Normalized_IPO_Name":"Recode Studios",
         "IPO Name":"Recode Studios",
-        "IPO GMP":44.0,
+        "IPO GMP":42.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9158",
-        "Est. Listing":"\u20b9202 (27.85%)",
+        "Est. Listing":"\u20b9200 (26.58%)",
         "Date":"5-7 May",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated":"7 May, 15:33"
+        "Status":"Closed",
+        "Last Updated":"8 May, 07:30"
     },
     {
         "IPO":"Simca Advertising",
         "Type_sub":"SME",
         "Opening Date":"May 8, 2026",
         "Closing Date":"May 12, 2026",
-        "QIB  (X)":"",
-        "NII  (X)":"",
-        "Retail  (X)":"",
-        "Total (X)":"",
+        "QIB  (X)":"1.28",
+        "NII  (X)":"0.41",
+        "Retail  (X)":"0.16",
+        "Total (X)":"0.47",
         "Normalized_IPO_Name":"Simca Advertising",
         "IPO Name":"Simca Advertising",
         "IPO GMP":0.0,
@@ -116,8 +116,8 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"8-12 May",
         "Type_gmp":"NSE SME",
-        "Status":"Upcoming",
-        "Last Updated":"7 May, 15:33"
+        "Status":"Open",
+        "Last Updated":"8 May, 07:30"
     },
     {
         "IPO":"Value 360 Communications",
@@ -137,6 +137,6 @@
         "Date":"4-6 May",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"7 May, 15:33"
+        "Last Updated":"8 May, 07:30"
     }
 ]
