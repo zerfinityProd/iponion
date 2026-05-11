@@ -17,7 +17,7 @@
         "Date":"5-7 May",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"9 May, 16:16"
+        "Last Updated":"11 May, 14:05"
     },
     {
         "IPO":"Goldline Pharmaceutical",
@@ -30,14 +30,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Goldline Pharmaceutical",
         "IPO Name":"Goldline Pharmaceutical",
-        "IPO GMP":8.0,
+        "IPO GMP":16.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b943",
-        "Est. Listing":"\u20b951 (18.60%)",
+        "Est. Listing":"\u20b959 (37.21%)",
         "Date":"12-14 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"9 May, 16:16"
+        "Last Updated":"11 May, 14:05"
     },
     {
         "IPO":"RFBL Flexi Pack",
@@ -57,7 +57,7 @@
         "Date":"12-14 May",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"9 May, 16:16"
+        "Last Updated":"11 May, 14:05"
     },
     {
         "IPO":"Recode Studios",
@@ -70,34 +70,34 @@
         "Total (X)":"234.63",
         "Normalized_IPO_Name":"Recode Studios",
         "IPO Name":"Recode Studios",
-        "IPO GMP":43.0,
+        "IPO GMP":50.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9158",
-        "Est. Listing":"\u20b9201 (27.22%)",
+        "Est. Listing":"\u20b9208 (31.65%)",
         "Date":"5-7 May",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"9 May, 16:16"
+        "Last Updated":"11 May, 14:05"
     },
     {
         "IPO":"Simca Advertising",
         "Type_sub":"SME",
         "Opening Date":"May 8, 2026",
         "Closing Date":"May 12, 2026",
-        "QIB  (X)":"1.84",
-        "NII  (X)":"0.52",
-        "Retail  (X)":"0.23",
-        "Total (X)":"0.65",
+        "QIB  (X)":"6.50",
+        "NII  (X)":"2.13",
+        "Retail  (X)":"2.94",
+        "Total (X)":"3.29",
         "Normalized_IPO_Name":"Simca Advertising",
         "IPO Name":"Simca Advertising",
-        "IPO GMP":11.0,
+        "IPO GMP":21.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9183",
-        "Est. Listing":"\u20b9194 (6.01%)",
+        "Est. Listing":"\u20b9204 (11.48%)",
         "Date":"8-12 May",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated":"9 May, 16:16"
+        "Last Updated":"11 May, 14:05"
     },
     {
         "IPO":"Value 360 Communications",
@@ -117,6 +117,6 @@
         "Date":"4-6 May",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"9 May, 16:16"
+        "Last Updated":"11 May, 14:05"
     }
 ]
