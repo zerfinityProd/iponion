@@ -17,7 +17,7 @@
         "Date":"21-25 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":"Bio Medica Laboratories",
@@ -37,7 +37,7 @@
         "Date":"21-25 May",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":"Goldline Pharmaceutical",
@@ -57,7 +57,7 @@
         "Date":"12-14 May",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":"Harikanta Overseas",
@@ -77,7 +77,7 @@
         "Date":"20-22 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":null,
@@ -97,27 +97,47 @@
         "Date":"22-26 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":"NFP Sampoorna Foods",
         "Type_sub":"SME",
         "Opening Date":"May 18, 2026",
         "Closing Date":"May 20, 2026",
-        "QIB  (X)":"",
-        "NII  (X)":"",
-        "Retail  (X)":"",
-        "Total (X)":"",
+        "QIB  (X)":"1.00",
+        "NII  (X)":"0.18",
+        "Retail  (X)":"0.54",
+        "Total (X)":"0.37",
         "Normalized_IPO_Name":"NFP Sampoorna Foods",
         "IPO Name":"NFP Sampoorna Foods",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":6.0,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b955",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b961 (10.91%)",
         "Date":"18-20 May",
         "Type_gmp":"NSE SME",
+        "Status":"Open",
+        "Last Updated":"18 May, 08:00"
+    },
+    {
+        "IPO":null,
+        "Type_sub":null,
+        "Opening Date":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Normalized_IPO_Name":"Q-Line Biotec",
+        "IPO Name":"Q-Line Biotec",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9343",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"21-25 May",
+        "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":"RFBL Flexi Pack",
@@ -137,7 +157,7 @@
         "Date":"12-14 May",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":null,
@@ -157,7 +177,7 @@
         "Date":"8-12 May",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":"Teamtech Formwork",
@@ -177,7 +197,7 @@
         "Date":"19-21 May",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     },
     {
         "IPO":"Vegorama Punjabi Angithi",
@@ -190,13 +210,13 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Vegorama Punjabi Angithi",
         "IPO Name":"Vegorama Punjabi Angithi",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":7.5,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b977",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b984.5 (9.74%)",
         "Date":"20-22 May",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"16 May, 18:30"
+        "Last Updated":"18 May, 08:00"
     }
 ]
