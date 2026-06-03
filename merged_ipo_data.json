@@ -5,19 +5,19 @@
         "Opening Date":"May 29, 2026",
         "Closing Date":"June 2, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"0.44",
-        "Retail  (X)":"2.32",
-        "Total (X)":"1.38",
+        "NII  (X)":"0.45",
+        "Retail  (X)":"2.42",
+        "Total (X)":"1.43",
         "Normalized_IPO_Name":"Aureate Tradde",
         "IPO Name":"Aureate Tradde",
-        "IPO GMP":7.0,
+        "IPO GMP":1.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b970",
-        "Est. Listing":"\u20b977 (10.00%)",
+        "Est. Listing":"\u20b971 (1.43%)",
         "Date":"29-2 June",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated":"2 June, 17:21"
+        "Status":"Closed",
+        "Last Updated":"3 June, 17:10"
     },
     {
         "IPO":null,
@@ -30,14 +30,14 @@
         "Total (X)":null,
         "Normalized_IPO_Name":"CMR Green",
         "IPO Name":"CMR Green",
-        "IPO GMP":64.0,
+        "IPO GMP":67.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9192",
-        "Est. Listing":"\u20b9256 (33.33%)",
+        "Est. Listing":"\u20b9259 (34.90%)",
         "Date":"3-5 June",
         "Type_gmp":"Mainboard",
-        "Status":"Upcoming",
-        "Last Updated":"2 June, 17:21"
+        "Status":"Open",
+        "Last Updated":"3 June, 17:38"
     },
     {
         "IPO":null,
@@ -57,27 +57,7 @@
         "Date":"5-9 June",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"2 June, 17:21"
-    },
-    {
-        "IPO":"Harikanta Overseas",
-        "Type_sub":"SME",
-        "Opening Date":"May 20, 2026",
-        "Closing Date":"May 27, 2026",
-        "QIB  (X)":"21.33",
-        "NII  (X)":"0.70",
-        "Retail  (X)":"0.66",
-        "Total (X)":"1.12",
-        "Normalized_IPO_Name":"Harikanta Overseas",
-        "IPO Name":"Harikanta Overseas",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b991",
-        "Est. Listing":"\u20b9- (0.00%)",
-        "Date":"20-27 May",
-        "Type_gmp":"BSE SME",
-        "Status":"Closed",
-        "Last Updated":"2 June, 17:21"
+        "Last Updated":"3 June, 17:10"
     },
     {
         "IPO":"Hexagon Nutrition",
@@ -97,27 +77,27 @@
         "Date":"5-9 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"2 June, 17:21"
+        "Last Updated":"3 June, 17:10"
     },
     {
         "IPO":"Merritronix",
         "Type_sub":"SME",
         "Opening Date":"June 1, 2026",
         "Closing Date":"June 3, 2026",
-        "QIB  (X)":"3.07",
-        "NII  (X)":"77.69",
-        "Retail  (X)":"73.60",
-        "Total (X)":"54.37",
+        "QIB  (X)":"224.91",
+        "NII  (X)":"476.59",
+        "Retail  (X)":"297.67",
+        "Total (X)":"315.36",
         "Normalized_IPO_Name":"Merritronix",
         "IPO Name":"Merritronix",
-        "IPO GMP":90.0,
+        "IPO GMP":85.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9149",
-        "Est. Listing":"\u20b9239 (60.40%)",
+        "Est. Listing":"\u20b9234 (57.05%)",
         "Date":"1-3 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"2 June, 17:21"
+        "Last Updated":"3 June, 17:10"
     },
     {
         "IPO":"Rajnandini Fashion",
@@ -137,17 +117,17 @@
         "Date":"26-29 May",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"2 June, 17:21"
+        "Last Updated":"3 June, 17:10"
     },
     {
         "IPO":"SMR Jewels",
         "Type_sub":"SME",
         "Opening Date":"May 26, 2026",
         "Closing Date":"June 3, 2026",
-        "QIB  (X)":"2.35",
-        "NII  (X)":"0.05",
-        "Retail  (X)":"0.17",
-        "Total (X)":"0.34",
+        "QIB  (X)":"5.41",
+        "NII  (X)":"1.00",
+        "Retail  (X)":"0.30",
+        "Total (X)":"1.09",
         "Normalized_IPO_Name":"SMR Jewels",
         "IPO Name":"SMR Jewels",
         "IPO GMP":0.0,
@@ -157,7 +137,7 @@
         "Date":"26-3 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"2 June, 17:21"
+        "Last Updated":"3 June, 17:10"
     },
     {
         "IPO":"UHM Vacation",
@@ -177,7 +157,7 @@
         "Date":"4-8 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"2 June, 17:21"
+        "Last Updated":"3 June, 17:10"
     },
     {
         "IPO":"Vahh Chemicals",
@@ -197,26 +177,6 @@
         "Date":"4-8 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"2 June, 17:21"
-    },
-    {
-        "IPO":"Yaashvi Jewellers",
-        "Type_sub":"SME",
-        "Opening Date":"May 25, 2026",
-        "Closing Date":"May 27, 2026",
-        "QIB  (X)":"0",
-        "NII  (X)":"3.40",
-        "Retail  (X)":"1.76",
-        "Total (X)":"5.64",
-        "Normalized_IPO_Name":"Yaashvi Jewellers",
-        "IPO Name":"Yaashvi Jewellers",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b983",
-        "Est. Listing":"\u20b9- (0.00%)",
-        "Date":"25-27 May",
-        "Type_gmp":"BSE SME",
-        "Status":"Closed",
-        "Last Updated":"2 June, 17:21"
+        "Last Updated":"3 June, 17:10"
     }
 ]
