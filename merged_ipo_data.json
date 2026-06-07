@@ -10,14 +10,14 @@
         "Total (X)":null,
         "Normalized_IPO_Name":"CMR Green",
         "IPO Name":"CMR Green",
-        "IPO GMP":71.0,
+        "IPO GMP":68.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9192",
-        "Est. Listing":"\u20b9263 (36.98%)",
+        "Est. Listing":"\u20b9260 (35.42%)",
         "Date":"3-5 June",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
     },
     {
         "IPO":null,
@@ -37,7 +37,7 @@
         "Date":"5-9 June",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
     },
     {
         "IPO":"Hexagon Nutrition",
@@ -57,7 +57,7 @@
         "Date":"5-9 June",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
     },
     {
         "IPO":"Horizon Reclaim",
@@ -77,7 +77,7 @@
         "Date":"12-16 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
     },
     {
         "IPO":"Merritronix",
@@ -90,14 +90,14 @@
         "Total (X)":"315.36",
         "Normalized_IPO_Name":"Merritronix",
         "IPO Name":"Merritronix",
-        "IPO GMP":68.0,
+        "IPO GMP":61.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9149",
-        "Est. Listing":"\u20b9217 (45.64%)",
+        "Est. Listing":"\u20b9210 (40.94%)",
         "Date":"1-3 June",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
     },
     {
         "IPO":"SMR Jewels",
@@ -117,7 +117,7 @@
         "Date":"26-3 June",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
     },
     {
         "IPO":"UHM Vacation",
@@ -137,7 +137,27 @@
         "Date":"4-8 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
+    },
+    {
+        "IPO":"Utkal Speciality Industries",
+        "Type_sub":"SME",
+        "Opening Date":"June 10, 2026",
+        "Closing Date":"June 12, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Utkal Speciality Industries",
+        "IPO Name":"Utkal Speciality Industries",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"10-12 June",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"6 June, 17:16"
     },
     {
         "IPO":"Vahh Chemicals",
@@ -157,6 +177,6 @@
         "Date":"4-8 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"6 June, 13:46"
+        "Last Updated":"6 June, 17:16"
     }
 ]
