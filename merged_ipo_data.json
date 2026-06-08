@@ -17,7 +17,7 @@
         "Date":"3-5 June",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     },
     {
         "IPO":null,
@@ -31,33 +31,33 @@
         "Normalized_IPO_Name":"GenXAI Analytics",
         "IPO Name":"GenXAI Analytics",
         "IPO GMP":3.0,
-        "Trend":"\ud83d\udfe2",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9116",
         "Est. Listing":"\u20b9119 (2.59%)",
         "Date":"5-9 June",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     },
     {
         "IPO":"Hexagon Nutrition",
         "Type_sub":"Mainboard",
         "Opening Date":"June 5, 2026",
         "Closing Date":"June 9, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"2.03",
-        "Retail  (X)":"2.43",
-        "Total (X)":"1.65",
+        "QIB  (X)":"0.17",
+        "NII  (X)":"6.70",
+        "Retail  (X)":"6.22",
+        "Total (X)":"4.60",
         "Normalized_IPO_Name":"Hexagon Nutrition",
         "IPO Name":"Hexagon Nutrition",
-        "IPO GMP":12.0,
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP":7.0,
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b945",
-        "Est. Listing":"\u20b957 (26.67%)",
+        "Est. Listing":"\u20b952 (15.56%)",
         "Date":"5-9 June",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     },
     {
         "IPO":"Horizon Reclaim",
@@ -70,14 +70,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Horizon Reclaim",
         "IPO Name":"Horizon Reclaim",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":10.0,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9103",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9113 (9.71%)",
         "Date":"12-16 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     },
     {
         "IPO":"Merritronix",
@@ -90,14 +90,14 @@
         "Total (X)":"315.36",
         "Normalized_IPO_Name":"Merritronix",
         "IPO Name":"Merritronix",
-        "IPO GMP":61.0,
+        "IPO GMP":74.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9149",
-        "Est. Listing":"\u20b9210 (40.94%)",
+        "Est. Listing":"\u20b9223 (49.66%)",
         "Date":"1-3 June",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     },
     {
         "IPO":"SMR Jewels",
@@ -117,7 +117,27 @@
         "Date":"26-3 June",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
+    },
+    {
+        "IPO":"Susan Electricals",
+        "Type_sub":"SME",
+        "Opening Date":"June 11, 2026",
+        "Closing Date":"June 15, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Susan Electricals",
+        "IPO Name":"Susan Electricals",
+        "IPO GMP":8.0,
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b9127",
+        "Est. Listing":"\u20b9135 (6.30%)",
+        "Date":"11-15 June",
+        "Type_gmp":"BSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"8 June, 17:30"
     },
     {
         "IPO":"UHM Vacation",
@@ -125,19 +145,19 @@
         "Opening Date":"June 4, 2026",
         "Closing Date":"June 8, 2026",
         "QIB  (X)":"1.00",
-        "NII  (X)":"0.36",
-        "Retail  (X)":"0.93",
-        "Total (X)":"0.66",
+        "NII  (X)":"0.86",
+        "Retail  (X)":"3.86",
+        "Total (X)":"2.36",
         "Normalized_IPO_Name":"UHM Vacation",
         "IPO Name":"UHM Vacation",
-        "IPO GMP":34.0,
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP":1.0,
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9166",
-        "Est. Listing":"\u20b9200 (20.48%)",
+        "Est. Listing":"\u20b9167 (0.60%)",
         "Date":"4-8 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     },
     {
         "IPO":"Utkal Speciality Industries",
@@ -152,12 +172,12 @@
         "IPO Name":"Utkal Speciality Industries",
         "IPO GMP":0.0,
         "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
+        "Price Band":"\u20b966",
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"10-12 June",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     },
     {
         "IPO":"Vahh Chemicals",
@@ -165,18 +185,18 @@
         "Opening Date":"June 4, 2026",
         "Closing Date":"June 8, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"4.28",
-        "Retail  (X)":"8.68",
-        "Total (X)":"6.48",
+        "NII  (X)":"74.08",
+        "Retail  (X)":"100.18",
+        "Total (X)":"87.17",
         "Normalized_IPO_Name":"Vahh Chemicals",
         "IPO Name":"Vahh Chemicals",
-        "IPO GMP":12.0,
+        "IPO GMP":14.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b960",
-        "Est. Listing":"\u20b972 (20.00%)",
+        "Est. Listing":"\u20b974 (23.33%)",
         "Date":"4-8 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"6 June, 17:16"
+        "Last Updated":"8 June, 17:09"
     }
 ]
