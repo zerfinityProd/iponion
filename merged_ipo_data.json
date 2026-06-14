@@ -10,14 +10,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Advit Jewels",
         "IPO Name":"Advit Jewels",
-        "IPO GMP":56.0,
+        "IPO GMP":70.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9-",
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"23-25 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Clay Craft",
@@ -37,7 +37,7 @@
         "Date":"17-19 June",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Diksha Polymers",
@@ -57,7 +57,7 @@
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Horizon Reclaim",
@@ -77,7 +77,7 @@
         "Date":"12-16 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Leapfrog Engineering",
@@ -97,7 +97,7 @@
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Liotech Industries",
@@ -117,7 +117,7 @@
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Susan Electricals",
@@ -137,7 +137,7 @@
         "Date":"11-15 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Turtlemint Fintech",
@@ -157,7 +157,7 @@
         "Date":"19-23 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     },
     {
         "IPO":"Utkal Speciality Industries",
@@ -177,6 +177,6 @@
         "Date":"10-12 June",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"13 June, 12:55"
+        "Last Updated":"13 June, 17:46"
     }
 ]
