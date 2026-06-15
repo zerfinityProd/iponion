@@ -10,14 +10,34 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Advit Jewels",
         "IPO Name":"Advit Jewels",
-        "IPO GMP":70.0,
+        "IPO GMP":80.0,
         "Trend":"\ud83d\udfe2",
-        "Price Band":"\u20b9-",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Price Band":"\u20b9138",
+        "Est. Listing":"\u20b9218 (57.97%)",
         "Date":"23-25 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:25"
+    },
+    {
+        "IPO":"Avience Biomedicals",
+        "Type_sub":"SME",
+        "Opening Date":"June 18, 2026",
+        "Closing Date":"June 22, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Avience Biomedicals",
+        "IPO Name":"Avience Biomedicals",
+        "IPO GMP":40.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9208",
+        "Est. Listing":"\u20b9248 (19.23%)",
+        "Date":"18-22 June",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"15 June, 17:26"
     },
     {
         "IPO":"Clay Craft",
@@ -30,14 +50,14 @@
         "Total (X)":"",
         "Normalized_IPO_Name":"Clay Craft",
         "IPO Name":"Clay Craft",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP":72.0,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9203",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9275 (35.47%)",
         "Date":"17-19 June",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:27"
     },
     {
         "IPO":"Diksha Polymers",
@@ -57,27 +77,27 @@
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:27"
     },
     {
         "IPO":"Horizon Reclaim",
         "Type_sub":"SME",
         "Opening Date":"June 12, 2026",
         "Closing Date":"June 16, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"12.63",
-        "Retail  (X)":"11.37",
-        "Total (X)":"8.39",
+        "QIB  (X)":"0.08",
+        "NII  (X)":"139.71",
+        "Retail  (X)":"90.39",
+        "Total (X)":"75.17",
         "Normalized_IPO_Name":"Horizon Reclaim",
         "IPO Name":"Horizon Reclaim",
-        "IPO GMP":53.0,
+        "IPO GMP":57.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9103",
-        "Est. Listing":"\u20b9156 (51.46%)",
+        "Est. Listing":"\u20b9160 (55.34%)",
         "Date":"12-16 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:29"
     },
     {
         "IPO":"Leapfrog Engineering",
@@ -97,7 +117,7 @@
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:28"
     },
     {
         "IPO":"Liotech Industries",
@@ -117,17 +137,37 @@
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:28"
+    },
+    {
+        "IPO":"Riyaasat Lifestyle",
+        "Type_sub":"SME",
+        "Opening Date":"June 18, 2026",
+        "Closing Date":"June 22, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"Riyaasat Lifestyle",
+        "IPO Name":"Riyaasat Lifestyle",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"18-22 June",
+        "Type_gmp":"BSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"15 June, 17:26"
     },
     {
         "IPO":"Susan Electricals",
         "Type_sub":"SME",
         "Opening Date":"June 11, 2026",
         "Closing Date":"June 15, 2026",
-        "QIB  (X)":"7.31",
-        "NII  (X)":"21.91",
-        "Retail  (X)":"19.16",
-        "Total (X)":"16.37",
+        "QIB  (X)":"142.65",
+        "NII  (X)":"336.00",
+        "Retail  (X)":"207.56",
+        "Total (X)":"216.63",
         "Normalized_IPO_Name":"Susan Electricals",
         "IPO Name":"Susan Electricals",
         "IPO GMP":64.0,
@@ -137,7 +177,7 @@
         "Date":"11-15 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:29"
     },
     {
         "IPO":"Turtlemint Fintech",
@@ -157,7 +197,7 @@
         "Date":"19-23 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:25"
     },
     {
         "IPO":"Utkal Speciality Industries",
@@ -177,6 +217,6 @@
         "Date":"10-12 June",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated":"13 June, 17:46"
+        "Last Updated":"15 June, 17:30"
     }
 ]
