@@ -17,7 +17,7 @@
         "Date":"29-1 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Advit Jewels",
@@ -31,13 +31,13 @@
         "Normalized_IPO_Name":"Advit Jewels",
         "IPO Name":"Advit Jewels",
         "IPO GMP":55.0,
-        "Trend":"\ud83d\udd34",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9138",
         "Est. Listing":"\u20b9193 (39.86%)",
         "Date":"23-25 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Anubhav Plast",
@@ -45,9 +45,9 @@
         "Opening Date":"June 19, 2026",
         "Closing Date":"June 23, 2026",
         "QIB  (X)":"1.01",
-        "NII  (X)":"1.50",
-        "Retail  (X)":"1.07",
-        "Total (X)":"1.15",
+        "NII  (X)":"1.53",
+        "Retail  (X)":"1.20",
+        "Total (X)":"1.21",
         "Normalized_IPO_Name":"Anubhav Plast",
         "IPO Name":"Anubhav Plast",
         "IPO GMP":0.0,
@@ -57,17 +57,17 @@
         "Date":"19-23 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Avience Biomedicals",
         "Type_sub":"SME",
         "Opening Date":"June 18, 2026",
         "Closing Date":"June 22, 2026",
-        "QIB  (X)":"0.01",
-        "NII  (X)":"56.19",
-        "Retail  (X)":"51.05",
-        "Total (X)":"37.64",
+        "QIB  (X)":"0.03",
+        "NII  (X)":"66.30",
+        "Retail  (X)":"58.63",
+        "Total (X)":"43.61",
         "Normalized_IPO_Name":"Avience Biomedicals",
         "IPO Name":"Avience Biomedicals",
         "IPO GMP":85.0,
@@ -77,7 +77,7 @@
         "Date":"18-22 June",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"CSM Technologies",
@@ -97,7 +97,7 @@
         "Date":"24-29 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Clay Craft",
@@ -105,9 +105,9 @@
         "Opening Date":"June 17, 2026",
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"119.19",
-        "NII  (X)":"153.04",
-        "Retail  (X)":"68.19",
-        "Total (X)":"101.08",
+        "NII  (X)":"153.95",
+        "Retail  (X)":"71.76",
+        "Total (X)":"103.06",
         "Normalized_IPO_Name":"Clay Craft",
         "IPO Name":"Clay Craft",
         "IPO GMP":40.0,
@@ -116,8 +116,8 @@
         "Est. Listing":"\u20b9243 (19.70%)",
         "Date":"17-19 June",
         "Type_gmp":"NSE SME",
-        "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Status":"Closed",
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Dhanwel Hybrid Seeds",
@@ -137,7 +137,7 @@
         "Date":"24-29 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Diksha Polymers",
@@ -145,9 +145,9 @@
         "Opening Date":"June 17, 2026",
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"2.62",
-        "Retail  (X)":"3.05",
-        "Total (X)":"2.84",
+        "NII  (X)":"2.63",
+        "Retail  (X)":"3.14",
+        "Total (X)":"2.88",
         "Normalized_IPO_Name":"Diksha Polymers",
         "IPO Name":"Diksha Polymers",
         "IPO GMP":0.0,
@@ -156,28 +156,28 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Status":"Closed",
+        "Last Updated":"20 June, 09:03"
     },
     {
-        "IPO":"Horizon Reclaim",
+        "IPO":"IC Electricals",
         "Type_sub":"SME",
-        "Opening Date":"June 12, 2026",
-        "Closing Date":"June 16, 2026",
-        "QIB  (X)":"186.72",
-        "NII  (X)":"450.74",
-        "Retail  (X)":"308.30",
-        "Total (X)":"304.11",
-        "Normalized_IPO_Name":"Horizon Reclaim",
-        "IPO Name":"Horizon Reclaim",
-        "IPO GMP":75.0,
+        "Opening Date":"June 25, 2026",
+        "Closing Date":"June 30, 2026",
+        "QIB  (X)":"",
+        "NII  (X)":"",
+        "Retail  (X)":"",
+        "Total (X)":"",
+        "Normalized_IPO_Name":"IC Electricals",
+        "IPO Name":"IC Electricals",
+        "IPO GMP":26.0,
         "Trend":"\ud83d\udfe2",
-        "Price Band":"\u20b9103",
-        "Est. Listing":"\u20b9178 (72.82%)",
-        "Date":"12-16 June",
-        "Type_gmp":"BSE SME",
-        "Status":"Closed",
-        "Last Updated":"19 June, 14:45"
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"25-30 June",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Jivial Industries",
@@ -197,7 +197,7 @@
         "Date":"23-25 June",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Leapfrog Engineering",
@@ -206,8 +206,8 @@
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"20.32",
         "NII  (X)":"5.10",
-        "Retail  (X)":"0.81",
-        "Total (X)":"2.68",
+        "Retail  (X)":"0.84",
+        "Total (X)":"2.70",
         "Normalized_IPO_Name":"Leapfrog Engineering",
         "IPO Name":"Leapfrog Engineering",
         "IPO GMP":0.0,
@@ -216,8 +216,8 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Status":"Closed",
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Liotech Industries",
@@ -225,9 +225,9 @@
         "Opening Date":"June 17, 2026",
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"0.84",
-        "Retail  (X)":"2.90",
-        "Total (X)":"1.87",
+        "NII  (X)":"0.85",
+        "Retail  (X)":"2.97",
+        "Total (X)":"1.91",
         "Normalized_IPO_Name":"Liotech Industries",
         "IPO Name":"Liotech Industries",
         "IPO GMP":45.0,
@@ -236,8 +236,8 @@
         "Est. Listing":"\u20b9366 (14.02%)",
         "Date":"17-19 June",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Status":"Closed",
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Riyaasat Lifestyle",
@@ -247,7 +247,7 @@
         "QIB  (X)":"1.01",
         "NII  (X)":"0.00",
         "Retail  (X)":"0.04",
-        "Total (X)":"0.07",
+        "Total (X)":"0.08",
         "Normalized_IPO_Name":"Riyaasat Lifestyle",
         "IPO Name":"Riyaasat Lifestyle",
         "IPO GMP":0.0,
@@ -257,7 +257,7 @@
         "Date":"18-22 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":"Shreedhar Spinners",
@@ -277,7 +277,27 @@
         "Date":"23-25 June",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
+    },
+    {
+        "IPO":null,
+        "Type_sub":null,
+        "Opening Date":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Normalized_IPO_Name":"Sri Priyanka Geo Commex",
+        "IPO Name":"Sri Priyanka Geo Commex",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9212",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"24-29 June",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated":"20 June, 09:38"
     },
     {
         "IPO":"Turtlemint Fintech",
@@ -286,7 +306,7 @@
         "Closing Date":"June 23, 2026",
         "QIB  (X)":"0.75",
         "NII  (X)":"0.01",
-        "Retail  (X)":"0.27",
+        "Retail  (X)":"0.30",
         "Total (X)":"0.46",
         "Normalized_IPO_Name":"Turtlemint Fintech",
         "IPO Name":"Turtlemint Fintech",
@@ -297,7 +317,7 @@
         "Date":"19-23 June",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     },
     {
         "IPO":null,
@@ -310,13 +330,13 @@
         "Total (X)":null,
         "Normalized_IPO_Name":"Waterways Leisure",
         "IPO Name":"Waterways Leisure",
-        "IPO GMP":20.0,
-        "Trend":"\ud83d\udd34",
+        "IPO GMP":45.0,
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9808",
-        "Est. Listing":"\u20b9828 (2.48%)",
+        "Est. Listing":"\u20b9853 (5.57%)",
         "Date":"23-25 June",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated":"19 June, 14:45"
+        "Last Updated":"20 June, 09:03"
     }
 ]
