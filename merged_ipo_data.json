@@ -10,14 +10,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Aastha Spintex",
         "IPO Name":"Aastha Spintex",
-        "IPO GMP":3.0,
+        "IPO GMP":4.5,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9136",
-        "Est. Listing":"\u20b9139 (2.20%)",
+        "Est. Listing":"\u20b9140.5 (3.31%)",
         "Date":"29-1 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -37,27 +37,27 @@
         "Date":"29-1 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Advit Jewels",
         "Type_sub":"Mainboard",
         "Closing Date":"June 25, 2026",
-        "QIB  (X)":"160.77",
-        "NII  (X)":"520.54",
-        "Retail  (X)":"87.68",
-        "Total (X)":"201.36",
-        "Last Updated_sub":"15:43",
+        "QIB  (X)":"174.98",
+        "NII  (X)":"536.38",
+        "Retail  (X)":"95.30",
+        "Total (X)":"212.63",
+        "Last Updated_sub":"17:36",
         "Normalized_IPO_Name":"Advit Jewels",
         "IPO Name":"Advit Jewels",
-        "IPO GMP":52.0,
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP":44.0,
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9138",
-        "Est. Listing":"\u20b9190 (37.68%)",
+        "Est. Listing":"\u20b9182 (31.88%)",
         "Date":"23-25 June",
         "Type_gmp":"Mainboard",
-        "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Status":"Closed",
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Anubhav Plast",
@@ -77,7 +77,7 @@
         "Date":"19-23 June",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -97,37 +97,17 @@
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
-    },
-    {
-        "IPO":"Avience Biomedicals",
-        "Type_sub":"SME",
-        "Closing Date":"June 22, 2026",
-        "QIB  (X)":"196.77",
-        "NII  (X)":"597.23",
-        "Retail  (X)":"401.21",
-        "Total (X)":"385.24",
-        "Last Updated_sub":"17:00",
-        "Normalized_IPO_Name":"Avience Biomedicals",
-        "IPO Name":"Avience Biomedicals",
-        "IPO GMP":145.0,
-        "Trend":"\ud83d\udfe2",
-        "Price Band":"\u20b9208",
-        "Est. Listing":"\u20b9353 (69.71%)",
-        "Date":"18-22 June",
-        "Type_gmp":"NSE SME",
-        "Status":"Closed",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"CSM Technologies",
         "Type_sub":"Mainboard",
         "Closing Date":"June 29, 2026",
-        "QIB  (X)":"0.29",
-        "NII  (X)":"1.02",
-        "Retail  (X)":"0.71",
-        "Total (X)":"0.59",
-        "Last Updated_sub":"15:43",
+        "QIB  (X)":"0.38",
+        "NII  (X)":"1.09",
+        "Retail  (X)":"0.75",
+        "Total (X)":"0.66",
+        "Last Updated_sub":"17:36",
         "Normalized_IPO_Name":"CSM Technologies",
         "IPO Name":"CSM Technologies",
         "IPO GMP":4.0,
@@ -137,17 +117,17 @@
         "Date":"24-29 June",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Crazy Snacks",
         "Type_sub":"SME",
         "Closing Date":"June 30, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"0.11",
+        "NII  (X)":"0.31",
         "Retail  (X)":"0.04",
-        "Total (X)":"0.07",
-        "Last Updated_sub":"15:43",
+        "Total (X)":"0.17",
+        "Last Updated_sub":"17:36",
         "Normalized_IPO_Name":"Crazy Snacks",
         "IPO Name":"Crazy Snacks",
         "IPO GMP":0.0,
@@ -157,17 +137,17 @@
         "Date":"25-30 June",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Jivial Industries",
         "Type_sub":"SME",
         "Closing Date":"June 25, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"1.52",
-        "Retail  (X)":"0.18",
-        "Total (X)":"0.89",
-        "Last Updated_sub":"15:43",
+        "NII  (X)":"1.57",
+        "Retail  (X)":"0.22",
+        "Total (X)":"0.93",
+        "Last Updated_sub":"17:36",
         "Normalized_IPO_Name":"Jivial Industries",
         "IPO Name":"Jivial Industries",
         "IPO GMP":0.0,
@@ -176,8 +156,8 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"23-25 June",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Status":"Closed",
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -197,7 +177,7 @@
         "Date":"1-3 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -217,17 +197,17 @@
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Riyaasat Lifestyle",
         "Type_sub":"SME",
         "Closing Date":"June 25, 2026",
         "QIB  (X)":"20.33",
-        "NII  (X)":"0.08",
-        "Retail  (X)":"0.39",
-        "Total (X)":"1.29",
-        "Last Updated_sub":"15:43",
+        "NII  (X)":"0.09",
+        "Retail  (X)":"0.44",
+        "Total (X)":"1.32",
+        "Last Updated_sub":"17:36",
         "Normalized_IPO_Name":"Riyaasat Lifestyle",
         "IPO Name":"Riyaasat Lifestyle",
         "IPO GMP":0.0,
@@ -236,8 +216,8 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"18-25 June",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Status":"Closed",
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -257,7 +237,7 @@
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -277,17 +257,17 @@
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Shreedhar Spinners",
         "Type_sub":"SME",
         "Closing Date":"June 25, 2026",
-        "QIB  (X)":"2.16",
-        "NII  (X)":"13.66",
-        "Retail  (X)":"4.87",
-        "Total (X)":"5.98",
-        "Last Updated_sub":"15:43",
+        "QIB  (X)":"2.51",
+        "NII  (X)":"14.58",
+        "Retail  (X)":"5.71",
+        "Total (X)":"6.70",
+        "Last Updated_sub":"17:36",
         "Normalized_IPO_Name":"Shreedhar Spinners",
         "IPO Name":"Shreedhar Spinners",
         "IPO GMP":0.0,
@@ -296,18 +276,18 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"23-25 June",
         "Type_gmp":"NSE SME",
-        "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Status":"Closed",
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Sri Priyanka Geo Commex",
         "Type_sub":"SME",
         "Closing Date":"June 29, 2026",
-        "QIB  (X)":"1.48",
-        "NII  (X)":"0.14",
-        "Retail  (X)":"0.13",
-        "Total (X)":"0.15",
-        "Last Updated_sub":"15:43",
+        "QIB  (X)":"13.14",
+        "NII  (X)":"0.16",
+        "Retail  (X)":"0.14",
+        "Total (X)":"0.28",
+        "Last Updated_sub":"17:36",
         "Normalized_IPO_Name":"Sri Priyanka Geo Commex",
         "IPO Name":"Sri Priyanka Geo Commex",
         "IPO GMP":0.0,
@@ -317,7 +297,7 @@
         "Date":"24-29 June",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -337,7 +317,7 @@
         "Date":"30-2 July",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":"Turtlemint Fintech",
@@ -357,7 +337,7 @@
         "Date":"19-23 June",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -370,14 +350,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Twinkle Papers",
         "IPO Name":"Twinkle Papers",
-        "IPO GMP":7.0,
+        "IPO GMP":8.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b969",
-        "Est. Listing":"\u20b976 (10.14%)",
+        "Est. Listing":"\u20b977 (11.59%)",
         "Date":"29-1 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -397,7 +377,7 @@
         "Date":"30-2 July",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Last Updated_gmp":"26 June, 11:59"
     },
     {
         "IPO":null,
@@ -410,13 +390,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Waterways Leisure",
         "IPO Name":"Waterways Leisure",
-        "IPO GMP":6.0,
-        "Trend":"\ud83d\udd34",
+        "IPO GMP":0.0,
+        "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9808",
-        "Est. Listing":"\u20b9814 (0.74%)",
+        "Est. Listing":"\u20b9- (0.00%)",
         "Date":"23-25 June",
         "Type_gmp":"Mainboard",
-        "Status":"Open",
-        "Last Updated_gmp":"25 June, 14:16"
+        "Status":"Closed",
+        "Last Updated_gmp":"26 June, 11:59"
     }
 ]
