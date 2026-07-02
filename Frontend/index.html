@@ -343,64 +343,73 @@
 
                     // Filter active, upcoming, and closed IPOs
                     const activeIPOs = data.filter(ipo => {
+                        if (ipo['Status']) {
+                            const st = String(ipo['Status']).trim().toLowerCase();
+                            return st === 'open' || st === 'active';
+                        }
                         const opening = new Date(ipo['Opening Date']);
                         const closing = new Date(ipo['Closing Date']);
-                        return opening <= today && today <= closing;
+                        return !isNaN(opening) && !isNaN(closing) && opening <= today && today <= closing;
                     });
                     const upcomingIPOs = data.filter(ipo => {
+                        if (ipo['Status']) {
+                            const st = String(ipo['Status']).trim().toLowerCase();
+                            return st === 'upcoming';
+                        }
                         const opening = new Date(ipo['Opening Date']);
-                        return opening > today;
+                        return !isNaN(opening) && opening > today;
                     });
                     const closedIPOs = data.filter(ipo => {
+                        if (ipo['Status']) {
+                            const st = String(ipo['Status']).trim().toLowerCase();
+                            return st === 'closed';
+                        }
                         const opening = new Date(ipo['Opening Date']);
                         const closing = new Date(ipo['Closing Date']);
-                        return opening <= today && closing < today;
+                        return !isNaN(closing) && (closing < today || (!isNaN(opening) && opening <= today && closing < today));
                     });
+
+                    // Helper to get numeric value for sorting
+                    const getGMP = ipo => {
+                        if (ipo['IPO GMP'] !== undefined && ipo['IPO GMP'] !== null) return Number(ipo['IPO GMP']) || 0;
+                        return Number(ipo['GMP']) || 0;
+                    };
+                    const getApps = ipo => Number(ipo['Total (X)']) || 0;
 
                     // Sort active IPOs by GMP descending, then by Applications descending
                     activeIPOs.sort((a, b) => {
-                        const gmpA = a['GMP'] || 0;
-                        const gmpB = b['GMP'] || 0;
-                        if (gmpB !== gmpA) {
-                            return gmpB - gmpA;
-                        }
-                        const appsA = a['Total (X)'] || 0;
-                        const appsB = b['Total (X)'] || 0;
-                        return appsB - appsA;
+                        const gmpA = getGMP(a);
+                        const gmpB = getGMP(b);
+                        if (gmpB !== gmpA) return gmpB - gmpA;
+                        return getApps(b) - getApps(a);
                     });
 
-                    // Sort upcoming IPOs by Opening Date ascending, then by GMP descending, then by Applications descending
+                    // Sort upcoming IPOs by Date ascending, then by GMP descending, then by Applications descending
                     upcomingIPOs.sort((a, b) => {
-                        const dateA = new Date(a['Opening Date']);
-                        const dateB = new Date(b['Opening Date']);
-                        if (dateA < dateB) return -1;
-                        if (dateA > dateB) return 1;
-
-                        const gmpA = a['GMP'] || 0;
-                        const gmpB = b['GMP'] || 0;
-                        if (gmpB !== gmpA) {
-                            return gmpB - gmpA;
+                        const dateA = new Date(a['Opening Date'] || a['Closing Date']);
+                        const dateB = new Date(b['Opening Date'] || b['Closing Date']);
+                        if (!isNaN(dateA) && !isNaN(dateB)) {
+                            if (dateA < dateB) return -1;
+                            if (dateA > dateB) return 1;
                         }
-                        const appsA = a['Total (X)'] || 0;
-                        const appsB = b['Total (X)'] || 0;
-                        return appsB - appsA;
+                        const gmpA = getGMP(a);
+                        const gmpB = getGMP(b);
+                        if (gmpB !== gmpA) return gmpB - gmpA;
+                        return getApps(b) - getApps(a);
                     });
 
                     // Sort closed IPOs by Closing Date descending, then by GMP descending, then by Applications descending
                     closedIPOs.sort((a, b) => {
-                        const dateA = new Date(a['Closing Date']);
-                        const dateB = new Date(b['Closing Date']);
-                        if (dateB > dateA) return 1;
-                        if (dateA > dateB) return -1;
-
-                        const gmpA = a['GMP'] || 0;
-                        const gmpB = b['GMP'] || 0;
-                        if (gmpB !== gmpA) {
-                            return gmpB - gmpA;
+                        const dateA = new Date(a['Closing Date'] || a['Opening Date']);
+                        const dateB = new Date(b['Closing Date'] || b['Opening Date']);
+                        if (!isNaN(dateA) && !isNaN(dateB)) {
+                            if (dateB > dateA) return 1;
+                            if (dateA > dateB) return -1;
                         }
-                        const appsA = a['Total (X)'] || 0;
-                        const appsB = b['Total (X)'] || 0;
-                        return appsB - appsA;
+                        const gmpA = getGMP(a);
+                        const gmpB = getGMP(b);
+                        if (gmpB !== gmpA) return gmpB - gmpA;
+                        return getApps(b) - getApps(a);
                     });
 
                     const tableContainer = document.getElementById('ipo-table-container');
@@ -438,10 +447,9 @@
                             columns = [
                                 "IPO",
                                 "Type_sub",
-                                "Opening Date",
+                                "Date",
                                 "Closing Date",
                                 "Price Band",
-                                "Date",
                                 "Status",
                                 "Last Updated"
                             ];
@@ -449,7 +457,7 @@
                             columns = [
                                 "IPO",
                                 "Type_sub",
-                                "Opening Date",
+                                "Date",
                                 "Closing Date",
                                 "QIB  (X)",
                                 "NII  (X)",
@@ -490,7 +498,14 @@
 
                             columns.forEach(colName => {
                                 const td = document.createElement('td');
-                                td.textContent = ipo[colName];
+                                let val = ipo[colName];
+                                if (val === undefined || val === null || val === '') {
+                                    if (colName === "Date") val = ipo['Opening Date'] || ipo['Date'] || '-';
+                                    else if (colName === "Last Updated") val = ipo['Last Updated'] || ipo['Last Updated_sub'] || ipo['Last Updated_gmp'] || '-';
+                                    else if (colName === "IPO GMP") val = (ipo['IPO GMP'] !== undefined && ipo['IPO GMP'] !== null) ? ipo['IPO GMP'] : (ipo['GMP'] || '-');
+                                    else val = '-';
+                                }
+                                td.textContent = val;
                                 row.appendChild(td);
                             });
                             tbody.appendChild(row);
