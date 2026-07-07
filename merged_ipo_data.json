@@ -1,45 +1,5 @@
 [
     {
-        "IPO":"Aastha Spintex",
-        "Type_sub":"Mainboard",
-        "Closing Date":"July 1, 2026",
-        "QIB  (X)":"3.59",
-        "NII  (X)":"8.29",
-        "Retail  (X)":"2.54",
-        "Total (X)":"5.05",
-        "Last Updated_sub":"17:45",
-        "Normalized_IPO_Name":"Aastha Spintex",
-        "IPO Name":"Aastha Spintex",
-        "IPO GMP":5.0,
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9136",
-        "Est. Listing":"\u20b9141 (3.68%)",
-        "Date":"29-1 July",
-        "Type_gmp":"Mainboard",
-        "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
-    },
-    {
-        "IPO":"Adon Agro Commodities",
-        "Type_sub":"SME",
-        "Closing Date":"July 1, 2026",
-        "QIB  (X)":"22.47",
-        "NII  (X)":"1.41",
-        "Retail  (X)":"0.84",
-        "Total (X)":"1.35",
-        "Last Updated_sub":"17:45",
-        "Normalized_IPO_Name":"Adon Agro Commodities",
-        "IPO Name":"Adon Agro Commodities",
-        "IPO GMP":0.0,
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b970",
-        "Est. Listing":"\u20b9- (0.00%)",
-        "Date":"29-1 July",
-        "Type_gmp":"BSE SME",
-        "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
-    },
-    {
         "IPO":"Atharva Polyplast",
         "Type_sub":"SME",
         "Closing Date":"July 2, 2026",
@@ -50,14 +10,14 @@
         "Last Updated_sub":"18:38",
         "Normalized_IPO_Name":"Atharva Polyplast",
         "IPO Name":"Atharva Polyplast",
-        "IPO GMP":5.0,
+        "IPO GMP":10.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b960",
-        "Est. Listing":"\u20b965 (8.33%)",
+        "Est. Listing":"\u20b970 (16.67%)",
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":null,
@@ -70,14 +30,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Devson Catalyst",
         "IPO Name":"Devson Catalyst",
-        "IPO GMP":44.0,
+        "IPO GMP":46.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9118",
-        "Est. Listing":"\u20b9162 (37.29%)",
+        "Est. Listing":"\u20b9164 (38.98%)",
         "Date":"9-13 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":null,
@@ -97,27 +57,27 @@
         "Date":"9-13 July",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":"IC Electricals",
         "Type_sub":"SME",
         "Closing Date":"July 7, 2026",
-        "QIB  (X)":"3.12",
-        "NII  (X)":"91.34",
-        "Retail  (X)":"92.56",
-        "Total (X)":"66.87",
-        "Last Updated_sub":"17:35",
+        "QIB  (X)":"228.93",
+        "NII  (X)":"749.53",
+        "Retail  (X)":"353.08",
+        "Total (X)":"403.53",
+        "Last Updated_sub":"15:33",
         "Normalized_IPO_Name":"IC Electricals",
         "IPO Name":"IC Electricals",
-        "IPO GMP":45.0,
+        "IPO GMP":49.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b999",
-        "Est. Listing":"\u20b9144 (45.45%)",
+        "Est. Listing":"\u20b9148 (49.49%)",
         "Date":"3-7 July",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":"Knack Packaging",
@@ -130,14 +90,14 @@
         "Last Updated_sub":"17:37",
         "Normalized_IPO_Name":"Knack Packaging",
         "IPO Name":"Knack Packaging",
-        "IPO GMP":18.0,
+        "IPO GMP":16.0,
         "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9188",
-        "Est. Listing":"\u20b9206 (10.59%)",
+        "Price Band":"\u20b9170",
+        "Est. Listing":"\u20b9186 (9.41%)",
         "Date":"1-3 July",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":"Kratikal Tech",
@@ -150,14 +110,14 @@
         "Last Updated_sub":"18:38",
         "Normalized_IPO_Name":"Kratikal Tech",
         "IPO Name":"Kratikal Tech",
-        "IPO GMP":75.0,
+        "IPO GMP":78.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9135",
-        "Est. Listing":"\u20b9210 (55.56%)",
+        "Est. Listing":"\u20b9213 (57.78%)",
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":null,
@@ -170,14 +130,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Kusumgar",
         "IPO Name":"Kusumgar",
-        "IPO GMP":171.0,
+        "IPO GMP":160.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9419",
-        "Est. Listing":"\u20b9590 (40.81%)",
+        "Est. Listing":"\u20b9579 (38.19%)",
         "Date":"8-10 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":null,
@@ -190,14 +150,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Laser Power & Infra",
         "IPO Name":"Laser Power & Infra",
-        "IPO GMP":45.0,
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP":30.0,
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9214",
-        "Est. Listing":"\u20b9259 (21.03%)",
+        "Est. Listing":"\u20b9244 (14.01%)",
         "Date":"9-13 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":null,
@@ -210,14 +170,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"SBI Funds Management",
         "IPO Name":"SBI Funds Management",
-        "IPO GMP":125.0,
+        "IPO GMP":143.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9575",
-        "Est. Listing":"\u20b9700 (21.74%)",
+        "Est. Listing":"\u20b9718 (24.87%)",
         "Date":"14-16 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":"Sampark India Logistics",
@@ -237,7 +197,7 @@
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":"Seemax Resources",
@@ -257,7 +217,7 @@
         "Date":"30-2 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":"Teja Engineering",
@@ -270,14 +230,14 @@
         "Last Updated_sub":"18:38",
         "Normalized_IPO_Name":"Teja Engineering",
         "IPO Name":"Teja Engineering",
-        "IPO GMP":15.0,
+        "IPO GMP":36.0,
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9220",
-        "Est. Listing":"\u20b9235 (6.82%)",
+        "Est. Listing":"\u20b9256 (16.36%)",
         "Date":"30-2 July",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     },
     {
         "IPO":"Vinit Mobile",
@@ -297,6 +257,6 @@
         "Date":"30-2 July",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"6 July, 16:36"
+        "Last Updated_gmp":"7 July, 13:21"
     }
 ]
