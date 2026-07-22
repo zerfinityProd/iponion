@@ -120,6 +120,26 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":null,
+        "Type_sub":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Advance Technoforge",
+        "IPO Name":"Advance Technoforge",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b995",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"27-29 July",
+        "Type_gmp":"BSE SME",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"22 July, 15:27"
+    },
+    {
         "IPO":"Advit Jewels",
         "Type_sub":"Mainboard",
         "Closing Date":"June 25, 2026",
@@ -149,15 +169,15 @@
         "Total (X)":"1.40",
         "Last Updated_sub":"17:42",
         "Normalized_IPO_Name":"Alpine Texworld",
-        "IPO Name":"Alpine Texworld",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9105",
-        "Est. Listing":"\u20b9- (0.00%)",
-        "Date":"14-16 July",
-        "Type_gmp":"Mainboard",
-        "Status":"Closed",
-        "Last Updated_gmp":"21 July, 07:45"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Type_gmp":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Amagi Media Labs",
@@ -583,21 +603,21 @@
         "IPO":"Caliber Mining",
         "Type_sub":"Mainboard",
         "Closing Date":"July 21, 2026",
-        "QIB  (X)":"2.12",
-        "NII  (X)":"121.97",
-        "Retail  (X)":"22.49",
-        "Total (X)":"37.99",
-        "Last Updated_sub":"10:48",
+        "QIB  (X)":"253.88",
+        "NII  (X)":"281.99",
+        "Retail  (X)":"43.40",
+        "Total (X)":"154.66",
+        "Last Updated_sub":"17:39",
         "Normalized_IPO_Name":"Caliber Mining",
         "IPO Name":"Caliber Mining",
-        "IPO GMP*":"\u20b994",
+        "IPO GMP*":"\u20b971",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9424",
-        "Est. Listing":"\u20b9518 (22.17%)",
+        "Est. Listing":"\u20b9495 (16.75%)",
         "Date":"17-21 July",
         "Type_gmp":"Mainboard",
-        "Status":"Open",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Status":"Closed",
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Central Mine Planning",
@@ -716,8 +736,28 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"22-24 July",
         "Type_gmp":"Mainboard",
-        "Status":"Upcoming",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Status":"Open",
+        "Last Updated_gmp":"22 July, 15:27"
+    },
+    {
+        "IPO":"Cube Highways Trust InvIT",
+        "Type_sub":"Mainboard",
+        "Closing Date":"July 24, 2026",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"0.07",
+        "Retail  (X)":"0.00",
+        "Total (X)":"0.03",
+        "Last Updated_sub":"15:40",
+        "Normalized_IPO_Name":"Cube Highways Trust InvIT",
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Type_gmp":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Defrail Technologies",
@@ -1024,20 +1064,20 @@
         "Type_sub":"SME",
         "Closing Date":"July 22, 2026",
         "QIB  (X)":"0.0",
-        "NII  (X)":"1.44",
-        "Retail  (X)":"10.57",
-        "Total (X)":"6.00",
-        "Last Updated_sub":"10:48",
+        "NII  (X)":"2.78",
+        "Retail  (X)":"18.42",
+        "Total (X)":"10.60",
+        "Last Updated_sub":"15:40",
         "Normalized_IPO_Name":"Gulf Lloyds",
         "IPO Name":"Gulf Lloyds",
-        "IPO GMP*":"\u20b915",
+        "IPO GMP*":"\u20b93",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9100",
-        "Est. Listing":"\u20b9115 (15.00%)",
+        "Est. Listing":"\u20b9103 (3.00%)",
         "Date":"20-22 July",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Hannah Joseph Hospital",
@@ -1210,14 +1250,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Indo-MIM",
         "IPO Name":"Indo-MIM",
-        "IPO GMP*":"\u20b9200",
+        "IPO GMP*":"\u20b9195",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9485",
-        "Est. Listing":"\u20b9685 (41.23%)",
+        "Est. Listing":"\u20b9680 (40.21%)",
         "Date":"23-27 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Innovision",
@@ -1490,14 +1530,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Lohia Corp",
         "IPO Name":"Lohia Corp",
-        "IPO GMP*":"\u20b956",
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP*":"\u20b940",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9425",
-        "Est. Listing":"\u20b9481 (13.18%)",
+        "Est. Listing":"\u20b9465 (9.41%)",
         "Date":"23-27 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"M R Maniveni Foods",
@@ -1557,7 +1597,7 @@
         "Date":"27-29 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Marushika Technology",
@@ -1623,11 +1663,11 @@
         "IPO":"Metalic Technoforge",
         "Type_sub":"SME",
         "Closing Date":"July 23, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"0.03",
-        "Retail  (X)":"0.15",
-        "Total (X)":"0.08",
-        "Last Updated_sub":"10:48",
+        "QIB  (X)":"0.48",
+        "NII  (X)":"0.59",
+        "Retail  (X)":"1.07",
+        "Total (X)":"0.80",
+        "Last Updated_sub":"15:40",
         "Normalized_IPO_Name":"Metalic Technoforge",
         "IPO Name":"Metalic Technoforge",
         "IPO GMP*":"\u20b90",
@@ -1637,7 +1677,7 @@
         "Date":"21-23 July",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Millworks Technologies",
@@ -1649,15 +1689,15 @@
         "Total (X)":"219.54",
         "Last Updated_sub":"17:42",
         "Normalized_IPO_Name":"Millworks Technologies",
-        "IPO Name":"Millworks Technologies",
-        "IPO GMP*":"\u20b9395",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9331",
-        "Est. Listing":"\u20b9726 (119.33%)",
-        "Date":"14-16 July",
-        "Type_gmp":"BSE SME",
-        "Status":"Closed",
-        "Last Updated_gmp":"21 July, 07:45"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Type_gmp":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Mobilise App",
@@ -1880,6 +1920,26 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":null,
+        "Type_sub":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Propshop Events",
+        "IPO Name":"Propshop Events",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b969",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"27-29 July",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"22 July, 15:27"
+    },
+    {
         "IPO":"Q-Line Biotech",
         "Type_sub":"SME",
         "Closing Date":"May 25, 2026",
@@ -2029,15 +2089,15 @@
         "Total (X)":"41.73",
         "Last Updated_sub":"17:42",
         "Normalized_IPO_Name":"SBI Funds Management",
-        "IPO Name":"SBI Funds Management",
-        "IPO GMP*":"\u20b996",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9574",
-        "Est. Listing":"\u20b9670 (16.72%)",
-        "Date":"14-16 July",
-        "Type_gmp":"Mainboard",
-        "Status":"Closed",
-        "Last Updated_gmp":"21 July, 07:45"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Type_gmp":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"SEDEMAC Mechatronics",
@@ -2200,6 +2260,26 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":"Shree Balaji (Mala) Textiles",
+        "Type_sub":"SME",
+        "Closing Date":"July 24, 2026",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"1.52",
+        "Retail  (X)":"4.23",
+        "Total (X)":"2.45",
+        "Last Updated_sub":"15:40",
+        "Normalized_IPO_Name":"Shree Balaji (Mala) Textiles",
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Type_gmp":null,
+        "Status":null,
+        "Last Updated_gmp":null
+    },
+    {
         "IPO":null,
         "Type_sub":null,
         "Closing Date":null,
@@ -2210,14 +2290,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Shree Balaji Textiles",
         "IPO Name":"Shree Balaji Textiles",
-        "IPO GMP*":"\u20b914",
+        "IPO GMP*":"\u20b915",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b970",
-        "Est. Listing":"\u20b990 (20.00%)",
+        "Est. Listing":"\u20b985 (21.43%)",
         "Date":"22-24 July",
         "Type_gmp":"BSE SME",
-        "Status":"Upcoming",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Status":"Open",
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Shree Ram Twistex",
@@ -2277,7 +2357,7 @@
         "Date":"24-28 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Simca Advertising",
@@ -2317,7 +2397,7 @@
         "Date":"16-20 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Speciality Medicines",
@@ -2670,14 +2750,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Xtranet Technologies",
         "IPO Name":"Xtranet Technologies",
-        "IPO GMP*":"\u20b926",
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP*":"\u20b918",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9127",
-        "Est. Listing":"\u20b9153 (20.47%)",
+        "Est. Listing":"\u20b9145 (14.17%)",
         "Date":"23-27 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 July, 07:45"
+        "Last Updated_gmp":"22 July, 15:27"
     },
     {
         "IPO":"Yaap Digital",
