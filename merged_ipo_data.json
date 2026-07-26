@@ -137,7 +137,7 @@
         "Date":"27-29 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Advit Jewels",
@@ -737,7 +737,7 @@
         "Date":"22-24 July",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Cube Highways Trust InvIT",
@@ -817,7 +817,7 @@
         "Date":"30-3 August",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Digilogic Systems",
@@ -957,7 +957,7 @@
         "Date":"31-4 August",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"GRE Renew Enertech",
@@ -1117,7 +1117,27 @@
         "Date":"20-22 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
+    },
+    {
+        "IPO":null,
+        "Type_sub":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"H.R. Hygiene Products",
+        "IPO Name":"H.R. Hygiene Products",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b988",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"29-31 July",
+        "Type_gmp":"BSE SME",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Hannah Joseph Hospital",
@@ -1297,7 +1317,7 @@
         "Date":"23-27 July",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Innovision",
@@ -1357,7 +1377,7 @@
         "Date":"30-3 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"KRM Ayurveda",
@@ -1597,7 +1617,7 @@
         "Date":"23-27 July",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"M R Maniveni Foods",
@@ -1618,6 +1638,26 @@
         "Type_gmp":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type_sub":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"MV Electrosystems",
+        "IPO Name":"MV Electrosystems",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"30-3 August",
+        "Type_gmp":"Mainboard",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"25 July, 16:46"
     },
     {
         "IPO":"Manilam Industries",
@@ -1657,7 +1697,7 @@
         "Date":"29-31 July",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Marushika Technology",
@@ -1737,7 +1777,7 @@
         "Date":"21-23 July",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Millworks Technologies",
@@ -1957,7 +1997,7 @@
         "Date":"28-30 July",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Powerica",
@@ -2017,7 +2057,7 @@
         "Date":"27-29 July",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Q-Line Biotech",
@@ -2377,7 +2417,7 @@
         "Date":"22-24 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Shree Ram Twistex",
@@ -2437,7 +2477,7 @@
         "Date":"24-28 July",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Simca Advertising",
@@ -2837,7 +2877,7 @@
         "Date":"23-27 July",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated_gmp":"25 July, 12:45"
+        "Last Updated_gmp":"25 July, 15:57"
     },
     {
         "IPO":"Yaap Digital",
