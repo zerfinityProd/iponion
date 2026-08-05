@@ -163,11 +163,11 @@
         "IPO":"Aegeus Technologies",
         "Type_sub":"SME",
         "Closing Date":"August 6, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"0.19",
-        "Retail  (X)":"0.52",
-        "Total (X)":"0.30",
-        "Last Updated_sub":"15:46",
+        "QIB  (X)":"0.59",
+        "NII  (X)":"1.09",
+        "Retail  (X)":"1.96",
+        "Total (X)":"1.21",
+        "Last Updated_sub":"15:49",
         "Normalized_IPO_Name":"Aegeus Technologies",
         "IPO Name":"Aegeus Technologies",
         "IPO GMP*":"\u20b90",
@@ -177,7 +177,7 @@
         "Date":"4-6 August",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Alpine Texworld",
@@ -263,11 +263,11 @@
         "IPO":"Anawil Wire & Engineering",
         "Type_sub":"SME",
         "Closing Date":"August 5, 2026",
-        "QIB  (X)":"7.14",
-        "NII  (X)":"7.44",
-        "Retail  (X)":"11.48",
-        "Total (X)":"9.37",
-        "Last Updated_sub":"15:46",
+        "QIB  (X)":"161.06",
+        "NII  (X)":"231.95",
+        "Retail  (X)":"99.11",
+        "Total (X)":"145.28",
+        "Last Updated_sub":"15:49",
         "Normalized_IPO_Name":"Anawil Wire & Engineering",
         "IPO Name":"Anawil Wire & Engineering",
         "IPO GMP*":"\u20b980",
@@ -277,7 +277,7 @@
         "Date":"3-5 August",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Anubhav Plast",
@@ -320,24 +320,24 @@
         "Last Updated_gmp":null
     },
     {
-        "IPO":null,
-        "Type_sub":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated_sub":null,
+        "IPO":"Ardee Industries",
+        "Type_sub":"Mainboard",
+        "Closing Date":"August 7, 2026",
+        "QIB  (X)":"1.13",
+        "NII  (X)":"4.05",
+        "Retail  (X)":"2.83",
+        "Total (X)":"2.61",
+        "Last Updated_sub":"15:49",
         "Normalized_IPO_Name":"Ardee Industries",
         "IPO Name":"Ardee Industries",
-        "IPO GMP*":"\u20b97",
+        "IPO GMP*":"\u20b913",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b953",
-        "Est. Listing":"\u20b960 (13.20%)",
+        "Est. Listing":"\u20b966 (24.53%)",
         "Date":"5-7 August",
         "Type_gmp":"Mainboard",
-        "Status":"Upcoming",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Status":"Open",
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Aritas Vinyl",
@@ -850,14 +850,14 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"Dhaval Packaging",
         "IPO Name":"Dhaval Packaging",
-        "IPO GMP*":"\u20b98",
+        "IPO GMP*":"\u20b910",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b997",
-        "Est. Listing":"\u20b9105 (8.25%)",
+        "Est. Listing":"\u20b9107 (10.31%)",
         "Date":"30-3 August",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":null,
@@ -870,14 +870,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Dhoot Transmission",
         "IPO Name":"Dhoot Transmission",
-        "IPO GMP*":"\u20b9245",
+        "IPO GMP*":"\u20b9255",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9871",
-        "Est. Listing":"\u20b91,116 (28.13%)",
+        "Est. Listing":"\u20b91,126 (29.28%)",
         "Date":"10-12 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Digilogic Systems",
@@ -1004,40 +1004,40 @@
         "Type_sub":"SME",
         "Closing Date":"August 4, 2026",
         "QIB  (X)":"1.00",
-        "NII  (X)":"1.31",
-        "Retail  (X)":"1.72",
-        "Total (X)":"1.42",
-        "Last Updated_sub":"15:46",
+        "NII  (X)":"1.47",
+        "Retail  (X)":"1.80",
+        "Total (X)":"1.50",
+        "Last Updated_sub":"17:41",
         "Normalized_IPO_Name":"Fusion Klassroom",
         "IPO Name":"Fusion Klassroom",
-        "IPO GMP*":"\u20b94",
-        "Trend":"\ud83d\udd34",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9159",
-        "Est. Listing":"\u20b9163 (2.52%)",
+        "Est. Listing":"\u20b9- (0.00%)",
         "Date":"31-4 August",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Status":"Closed",
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"G.V. Electricals",
         "Type_sub":"SME",
-        "Closing Date":"August 4, 2026",
-        "QIB  (X)":"52.59",
-        "NII  (X)":"233.70",
-        "Retail  (X)":"137.84",
-        "Total (X)":"134.32",
-        "Last Updated_sub":"15:46",
+        "Closing Date":"August 7, 2026",
+        "QIB  (X)":"62.90",
+        "NII  (X)":"234.54",
+        "Retail  (X)":"81.77",
+        "Total (X)":"109.42",
+        "Last Updated_sub":"15:49",
         "Normalized_IPO_Name":"G.V. Electricals",
         "IPO Name":"G.V. Electricals",
         "IPO GMP*":"\u20b926",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9130",
         "Est. Listing":"\u20b9156 (20.00%)",
-        "Date":"31-4 August",
+        "Date":"31-7 August",
         "Type_gmp":"BSE SME",
-        "Status":"Open",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Status":"Closed",
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"GRE Renew Enertech",
@@ -1210,14 +1210,14 @@
         "Last Updated_sub":"17:53",
         "Normalized_IPO_Name":"H.R. Hygiene Products",
         "IPO Name":"H.R. Hygiene Products",
-        "IPO GMP*":"\u20b92",
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP*":"\u20b91",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b988",
-        "Est. Listing":"\u20b990 (2.27%)",
+        "Est. Listing":"\u20b989 (1.14%)",
         "Date":"29-31 July",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Hannah Joseph Hospital",
@@ -1450,14 +1450,14 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"Juniper Green Energy",
         "IPO Name":"Juniper Green Energy",
-        "IPO GMP*":"\u20b99",
+        "IPO GMP*":"\u20b913",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9225",
-        "Est. Listing":"\u20b9234 (4.00%)",
+        "Est. Listing":"\u20b9238 (5.78%)",
         "Date":"30-3 August",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"KRM Ayurveda",
@@ -1637,7 +1637,7 @@
         "Date":"6-10 August",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":null,
@@ -1657,7 +1657,7 @@
         "Date":"7-11 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Laser Power & Infra",
@@ -1770,14 +1770,14 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"MV Electrosystems",
         "IPO Name":"MV Electrosystems",
-        "IPO GMP*":"\u20b9100",
+        "IPO GMP*":"\u20b9102",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9425",
-        "Est. Listing":"\u20b9525 (23.53%)",
+        "Est. Listing":"\u20b9527 (24.00%)",
         "Date":"30-3 August",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Manilam Industries",
@@ -1810,14 +1810,14 @@
         "Last Updated_sub":"17:53",
         "Normalized_IPO_Name":"Manipal Health",
         "IPO Name":"Manipal Health",
-        "IPO GMP*":"\u20b90",
+        "IPO GMP*":"\u20b93",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9590",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9593 (0.51%)",
         "Date":"29-31 July",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Marushika Technology",
@@ -1900,6 +1900,26 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":null,
+        "Type_sub":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Milky Mist",
+        "IPO Name":"Milky Mist",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"11-13 August",
+        "Type_gmp":"Mainboard",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"5 Aug, 15:57"
+    },
+    {
         "IPO":"Millworks Technologies",
         "Type_sub":"SME",
         "Closing Date":"July 16, 2026",
@@ -1952,12 +1972,12 @@
         "IPO Name":"Molbio Diagnostics",
         "IPO GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
+        "Price Band":"\u20b9807",
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"10-12 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Msafe Equipments",
@@ -2090,14 +2110,14 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"Oneindig Technologies",
         "IPO Name":"Oneindig Technologies",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b97",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b996",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9103 (7.29%)",
         "Date":"30-3 August",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":null,
@@ -2117,7 +2137,7 @@
         "Date":"7-11 August",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"PAN HR Solutions",
@@ -2169,15 +2189,15 @@
         "Total (X)":"278.83",
         "Last Updated_sub":"18:08",
         "Normalized_IPO_Name":"Poojaa Precision",
-        "IPO Name":"Poojaa Precision",
-        "IPO GMP*":"\u20b9235",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9301",
-        "Est. Listing":"\u20b9536 (78.07%)",
-        "Date":"28-30 July",
-        "Type_gmp":"BSE SME",
-        "Status":"Closed",
-        "Last Updated_gmp":"4 Aug, 07:35"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Type_gmp":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Powerica",
@@ -2198,6 +2218,26 @@
         "Type_gmp":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type_sub":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Pramodini Medicare",
+        "IPO Name":"Pramodini Medicare",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9118",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"12-13 August",
+        "Type_gmp":"NSE SME",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Propshare Celestia",
@@ -2797,7 +2837,7 @@
         "Date":"7-11 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"4 Aug, 14:00"
+        "Last Updated_gmp":"5 Aug, 15:57"
     },
     {
         "IPO":"Teja Engineering",
