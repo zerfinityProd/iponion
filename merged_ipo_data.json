@@ -177,7 +177,7 @@
         "Date":"4-6 August",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Alpine Texworld",
@@ -277,7 +277,7 @@
         "Date":"3-5 August",
         "Type_gmp":"NSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Anubhav Plast",
@@ -337,7 +337,7 @@
         "Date":"5-7 August",
         "Type_gmp":"Mainboard",
         "Status":"Closed",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Aritas Vinyl",
@@ -533,11 +533,11 @@
         "IPO GMP*":"\u20b930",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9285",
-        "Est. Listing":"\u20b9315 (17.14%)",
+        "Est. Listing":"\u20b9315 (10.53%)",
         "Date":"12-14 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Bharat Coking Coal",
@@ -897,7 +897,7 @@
         "Date":"10-12 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Digilogic Systems",
@@ -997,7 +997,7 @@
         "Date":"11-13 August",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Fractal Analytics",
@@ -1077,7 +1077,7 @@
         "Date":"31-7 August",
         "Type_gmp":"BSE SME",
         "Status":"Closed",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"GRE Renew Enertech",
@@ -1677,7 +1677,7 @@
         "Date":"6-10 August",
         "Type_gmp":"BSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"LEAP India",
@@ -1697,7 +1697,7 @@
         "Date":"7-11 August",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Laser Power & Infra",
@@ -1950,14 +1950,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Milky Mist",
         "IPO Name":"Milky Mist",
-        "IPO GMP*":"\u20b926",
+        "IPO GMP*":"\u20b925",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9140",
-        "Est. Listing":"\u20b9166 (18.57%)",
+        "Est. Listing":"\u20b9165 (17.86%)",
         "Date":"11-13 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Millworks Technologies",
@@ -2017,7 +2017,7 @@
         "Date":"10-12 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Msafe Equipments",
@@ -2177,7 +2177,7 @@
         "Date":"7-11 August",
         "Type_gmp":"NSE SME",
         "Status":"Open",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"PAN HR Solutions",
@@ -2277,7 +2277,7 @@
         "Date":"12-14 August",
         "Type_gmp":"NSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Propshare Celestia",
@@ -2330,14 +2330,14 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Q&T Foods",
         "IPO Name":"Q&T Foods",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b96",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9115",
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"12-14 August",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Q-Line Biotech",
@@ -2657,7 +2657,7 @@
         "Date":"11-13 August",
         "Type_gmp":"BSE SME",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Shayona Engineering",
@@ -2697,7 +2697,7 @@
         "Date":"12-14 August",
         "Type_gmp":"Mainboard",
         "Status":"Upcoming",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Shree Balaji (Mala) Textiles",
@@ -2937,7 +2937,7 @@
         "Date":"7-11 August",
         "Type_gmp":"Mainboard",
         "Status":"Open",
-        "Last Updated_gmp":"8 Aug, 12:44"
+        "Last Updated_gmp":"8 Aug, 16:42"
     },
     {
         "IPO":"Teja Engineering",
