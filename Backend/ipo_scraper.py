@@ -141,6 +141,7 @@ def main():
     elif len(gmp_headers) > max_cols_gmp:
         gmp_headers = gmp_headers[:max_cols_gmp]
 
+    gmp_headers = ['IPO GMP' if header == 'IPO GMP*' else header for header in gmp_headers]
     gmp_df = pd.DataFrame(gmp_rows, columns=gmp_headers)
     print("GMP data fetched successfully.")
 

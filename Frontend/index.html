@@ -371,8 +371,8 @@
 
                     // Helper to get numeric value for sorting
                     const getGMP = ipo => {
-                        if (ipo['IPO GMP'] !== undefined && ipo['IPO GMP'] !== null) return Number(ipo['IPO GMP']) || 0;
-                        return Number(ipo['GMP']) || 0;
+                        const value = ipo['IPO GMP'] ?? ipo['IPO GMP*'] ?? ipo['GMP'];
+                        return Number(value) || 0;
                     };
                     const getApps = ipo => Number(ipo['Total (X)']) || 0;
 
@@ -502,7 +502,7 @@
                                 if (val === undefined || val === null || val === '') {
                                     if (colName === "Date") val = ipo['Opening Date'] || ipo['Date'] || '-';
                                     else if (colName === "Last Updated") val = ipo['Last Updated'] || ipo['Last Updated_sub'] || ipo['Last Updated_gmp'] || '-';
-                                    else if (colName === "IPO GMP") val = (ipo['IPO GMP'] !== undefined && ipo['IPO GMP'] !== null) ? ipo['IPO GMP'] : (ipo['GMP'] || '-');
+                                    else if (colName === "IPO GMP") val = ipo['IPO GMP'] ?? ipo['IPO GMP*'] ?? ipo['GMP'] ?? '-';
                                     else val = '-';
                                 }
                                 td.textContent = val;
