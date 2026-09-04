@@ -434,7 +434,7 @@
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"9-11 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Atharva Polyplast",
@@ -922,13 +922,13 @@
         "Last Updated_sub":"17:49",
         "Normalized_IPO_Name":"Deepa Jewellers",
         "IPO Name":"Deepa Jewellers",
-        "IPO GMP*":"\u20b928",
+        "IPO GMP*":"\u20b918",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9177",
-        "Est. Listing":"\u20b9205 (15.82%)",
+        "Est. Listing":"\u20b9195 (10.17%)",
         "Date":"1-3 Sept",
-        "Status":"Open",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Status":"Closed",
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Defrail Technologies",
@@ -1092,14 +1092,14 @@
         "Total (X)":"142.88",
         "Last Updated_sub":"17:54",
         "Normalized_IPO_Name":"ESDS Software",
-        "IPO Name":"ESDS Software",
-        "IPO GMP*":"\u20b9255",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9429",
-        "Est. Listing":"\u20b9684 (59.44%)",
-        "Date":"28-1 Sept",
-        "Status":"Closed",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Elfin Agro",
@@ -1397,13 +1397,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Glass Wall Systems",
         "IPO Name":"Glass Wall Systems",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b920",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9182",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9202 (10.99%)",
         "Date":"8-10 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Goldline Pharmaceutical",
@@ -1796,13 +1796,32 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Kanohar Electricals",
         "IPO Name":"Kanohar Electricals",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b9200",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9632",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9832 (31.65%)",
         "Date":"8-10 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Karamtara Engineering",
+        "IPO Name":"Karamtara Engineering",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9254",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"9-11 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Kasturi Metal Composite",
@@ -1969,11 +1988,11 @@
         "IPO Name":"LCC Projects",
         "IPO GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
+        "Price Band":"\u20b9146",
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"9-11 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"LEAP India",
@@ -2099,14 +2118,14 @@
         "Total (X)":"123.79",
         "Last Updated_sub":"17:54",
         "Normalized_IPO_Name":"Lumino Industries",
-        "IPO Name":"Lumino Industries",
-        "IPO GMP*":"\u20b940",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b982",
-        "Est. Listing":"\u20b9122 (48.78%)",
-        "Date":"27-31 Aug",
-        "Status":"Closed",
-        "Last Updated_gmp":"3 Sept, 07:30"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"M R Maniveni Foods",
@@ -2202,6 +2221,25 @@
         "Date":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Manipal Payment",
+        "IPO Name":"Manipal Payment",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9339",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"9-11 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Marushika Technology",
@@ -2423,13 +2461,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"NSE",
         "IPO Name":"NSE",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b9200",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9-",
         "Est. Listing":"\u20b9- (0.00%)",
-        "Date":"21-23 Sept",
+        "Date":"21-23 Sept (T)",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 17:10"
     },
     {
         "IPO":"Narmadesh Brass",
@@ -2689,13 +2727,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Pranav Constructions",
         "IPO Name":"Pranav Constructions",
-        "IPO GMP*":"\u20b927",
+        "IPO GMP*":"\u20b931",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9124",
-        "Est. Listing":"\u20b9151 (21.77%)",
+        "Est. Listing":"\u20b9155 (25.00%)",
         "Date":"7-9 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":null,
@@ -2708,13 +2746,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Prasol Chemicals",
         "IPO Name":"Prasol Chemicals",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b914",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9676",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9690 (2.07%)",
         "Date":"8-10 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Priority Jewels",
@@ -2726,14 +2764,14 @@
         "Total (X)":"100.45",
         "Last Updated_sub":"17:54",
         "Normalized_IPO_Name":"Priority Jewels",
-        "IPO Name":"Priority Jewels",
-        "IPO GMP*":"\u20b931",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9200",
-        "Est. Listing":"\u20b9231 (15.50%)",
-        "Date":"28-1 Sept",
-        "Status":"Closed",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Propshare Celestia",
@@ -2790,7 +2828,7 @@
         "Est. Listing":"\u20b9577 (0.35%)",
         "Date":"31-2 Sept",
         "Status":"Closed",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Q&T Foods",
@@ -2821,6 +2859,25 @@
         "Total (X)":"102.42",
         "Last Updated_sub":"17:00",
         "Normalized_IPO_Name":"Q-Line Biotech",
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
+    },
+    {
+        "IPO":"Qualiance International",
+        "Type":"SME",
+        "Closing Date":"September 8, 2026",
+        "QIB  (X)":"4.10",
+        "NII  (X)":"13.76",
+        "Retail  (X)":"18.99",
+        "Total (X)":"13.62",
+        "Last Updated_sub":"17:35",
+        "Normalized_IPO_Name":"Qualiance International",
         "IPO Name":null,
         "IPO GMP*":null,
         "Trend":null,
@@ -2917,13 +2974,13 @@
         "Last Updated_sub":"17:49",
         "Normalized_IPO_Name":"Rays of Belief",
         "IPO Name":"Rays of Belief",
-        "IPO GMP*":"\u20b947",
-        "Trend":"\ud83d\udfe2",
+        "IPO GMP*":"\u20b915",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9239",
-        "Est. Listing":"\u20b9286 (19.67%)",
+        "Est. Listing":"\u20b9254 (6.28%)",
         "Date":"1-3 Sept",
-        "Status":"Open",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Status":"Closed",
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Recode Studios",
@@ -2943,6 +3000,25 @@
         "Date":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Rentomojo",
+        "IPO Name":"Rentomojo",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9404",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"9-11 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Riyaasat Lifestyle",
@@ -3401,6 +3477,25 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Steamhouse India",
+        "IPO Name":"Steamhouse India",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"9-11 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"4 Sept, 08:10"
+    },
+    {
         "IPO":"Striders Impex",
         "Type":"SME",
         "Closing Date":"March 2, 2026",
@@ -3721,7 +3816,7 @@
         "Est. Listing":"\u20b9158 (12.86%)",
         "Date":"10-15 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"3 Sept, 17:09"
+        "Last Updated_gmp":"4 Sept, 08:10"
     },
     {
         "IPO":"Vegorama Punjabi Angithi",
