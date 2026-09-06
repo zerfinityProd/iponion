@@ -2185,6 +2185,25 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Manika Plastech",
+        "IPO Name":"Manika Plastech",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"11-16 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"6 Sept, 09:50"
+    },
+    {
         "IPO":"Manilam Industries",
         "Type":"SME",
         "Closing Date":"February 24, 2026",
