@@ -29,13 +29,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"A-One Steels",
         "IPO Name":"A-One Steels",
-        "IPO GMP*":"\u20b955",
+        "IPO GMP*":"\u20b960",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9405",
-        "Est. Listing":"\u20b9460 (13.58%)",
+        "Est. Listing":"\u20b9465 (14.81%)",
         "Date":"24-28 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"ABH Healthcare",
@@ -169,6 +169,25 @@
         "Date":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Adroit Industries",
+        "IPO Name":"Adroit Industries",
+        "IPO GMP*":"\u20b937",
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b9134",
+        "Est. Listing":"\u20b9171 (27.61%)",
+        "Date":"23-25 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Advance Technoforge",
@@ -430,11 +449,11 @@
         "IPO Name":"ArMee Infotech",
         "IPO GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
+        "Price Band":"\u20b9375",
         "Est. Listing":"\u20b9- (0.00%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Ardee Industries",
@@ -1245,13 +1264,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Elevate Campuses",
         "IPO Name":"Elevate Campuses",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "IPO GMP*":"\u20b915",
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b9362",
+        "Est. Listing":"\u20b9- (4.14%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Elfin Agro",
@@ -1701,13 +1720,13 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"Hero Motors",
         "IPO Name":"Hero Motors",
-        "IPO GMP*":"\u20b96",
-        "Trend":"\ud83d\udd34",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b984",
-        "Est. Listing":"\u20b990 (7.14%)",
+        "Est. Listing":"\u20b9- (0.00%)",
         "Date":"16-18 Sept",
-        "Status":"Open",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Status":"Closed",
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Hexagon Nutrition",
@@ -1934,8 +1953,8 @@
         "Price Band":"\u20b993",
         "Est. Listing":"\u20b9123 (32.26%)",
         "Date":"16-18 Sept",
-        "Status":"Open",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Status":"Closed",
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Jivial Industries",
@@ -2467,7 +2486,7 @@
         "Est. Listing":"\u20b945 (4.65%)",
         "Date":"11-16 Sept",
         "Status":"Closed",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Manilam Industries",
@@ -2746,13 +2765,13 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"NSE",
         "IPO Name":"NSE",
-        "IPO GMP*":"\u20b9148",
+        "IPO GMP*":"\u20b990",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b91785",
-        "Est. Listing":"\u20b91933 (8.29%)",
+        "Est. Listing":"\u20b91875 (5.04%)",
         "Date":"17-21 Sept",
         "Status":"Open",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Narmadesh Brass",
@@ -3468,13 +3487,13 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"SS Retail",
         "IPO Name":"SS Retail",
-        "IPO GMP*":"\u20b9137",
+        "IPO GMP*":"\u20b9145",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9424",
-        "Est. Listing":"\u20b9561 (32.31%)",
+        "Est. Listing":"\u20b9569 (34.20%)",
         "Date":"16-18 Sept",
-        "Status":"Open",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Status":"Closed",
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Safety Controls",
@@ -3835,7 +3854,7 @@
         "Est. Listing":"\u20b9101 (2.02%)",
         "Date":"17-21 Sept",
         "Status":"Open",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Sotefin Bharat",
@@ -4266,13 +4285,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Varmora Granito",
         "IPO Name":"Varmora Granito",
-        "IPO GMP*":"\u20b910",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b915",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9148",
-        "Est. Listing":"\u20b9158 (6.76%)",
+        "Est. Listing":"\u20b9163 (10.14%)",
         "Date":"22-24 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Veegaland Developers",
@@ -4284,14 +4303,14 @@
         "Total (X)":"14.60",
         "Last Updated_sub":"17:58",
         "Normalized_IPO_Name":"Veegaland Developers",
-        "IPO Name":"Veegaland Developers",
-        "IPO GMP*":"\u20b99",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9140",
-        "Est. Listing":"\u20b9149 (6.43%)",
-        "Date":"10-15 Sept",
-        "Status":"Closed",
-        "Last Updated_gmp":"18 Sept, 07:20"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Vegorama Punjabi Angithi",
