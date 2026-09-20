@@ -450,7 +450,7 @@
         "IPO GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9375",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b9375 (0.00%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
         "Last Updated_gmp":"19 Sept, 17:10"
@@ -1267,7 +1267,7 @@
         "IPO GMP*":"\u20b915",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9362",
-        "Est. Listing":"\u20b9- (4.14%)",
+        "Est. Listing":"\u20b9377 (4.14%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
         "Last Updated_gmp":"19 Sept, 17:10"
@@ -1723,7 +1723,7 @@
         "IPO GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b984",
-        "Est. Listing":"\u20b9- (0.00%)",
+        "Est. Listing":"\u20b984 (0.00%)",
         "Date":"16-18 Sept",
         "Status":"Closed",
         "Last Updated_gmp":"19 Sept, 17:10"
@@ -4026,6 +4026,25 @@
         "Date":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Swastika Infra",
+        "IPO Name":"Swastika Infra",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9185",
+        "Est. Listing":"\u20b9185 (0.00%)",
+        "Date":"23-25 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"19 Sept, 17:10"
     },
     {
         "IPO":"Symbiotec Pharmalab",
