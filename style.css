@@ -1,0 +1,788 @@
+/* ==========================================================================
+   Iponion - Clean, Editorial IPO Publication
+   A minimalist, high-readability financial design (Not a dashboard)
+   ========================================================================== */
+
+:root {
+  /* Editorial Palette - Light */
+  --bg-color: #fafbfc;
+  --surface-color: #ffffff;
+  --surface-alt: #f4f6f8;
+  --border-color: #e5e9ee;
+  --border-light: #f0f3f6;
+
+  --text-primary: #1a202c;
+  --text-secondary: #4a5568;
+  --text-muted: #718096;
+  --text-light: #a0aec0;
+
+  /* Brand Emerald */
+  --brand: #228b22;
+  --brand-light: #e8f5e9;
+  --brand-dark: #1b5e20;
+
+  /* Table & Badges */
+  --row-hover: #f7fafc;
+  --row-top-highlight: #f0fdf4;
+  --row-top-border: #22c55e;
+
+  --gain-pos: #15803d;
+  --gain-pos-bg: #dcfce7;
+  --gain-neg: #b91c1c;
+  --gain-neg-bg: #fee2e2;
+  --gain-flat: #6b7280;
+  --gain-flat-bg: #f3f4f6;
+
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.03), 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+body.dark-mode {
+  /* Editorial Palette - Dark */
+  --bg-color: #0b0f17;
+  --surface-color: #121824;
+  --surface-alt: #172030;
+  --border-color: #222d3f;
+  --border-light: #1b2434;
+
+  --text-primary: #f0f4f8;
+  --text-secondary: #cbd5e1;
+  --text-muted: #8899a8;
+  --text-light: #526375;
+
+  /* Brand Emerald */
+  --brand: #34d399;
+  --brand-light: rgba(52, 211, 153, 0.12);
+  --brand-dark: #10b981;
+
+  /* Table & Badges */
+  --row-hover: #161f2e;
+  --row-top-highlight: rgba(34, 197, 94, 0.06);
+  --row-top-border: #34d399;
+
+  --gain-pos: #4ade80;
+  --gain-pos-bg: rgba(74, 222, 128, 0.14);
+  --gain-neg: #f87171;
+  --gain-neg-bg: rgba(248, 113, 113, 0.14);
+  --gain-flat: #94a3b8;
+  --gain-flat-bg: rgba(148, 163, 184, 0.12);
+
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* ==========================================================================
+   Base Reset & Core Typography
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+  transition: background-color 0.25s ease, color 0.25s ease;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* Page Container - Full Width */
+.wrap {
+  min-height: 100vh;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1.5rem 2.5rem 3.5rem 2.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ==========================================================================
+   Header & Brand Section
+   ========================================================================== */
+
+header {
+  text-align: center;
+  margin-bottom: 2.75rem;
+  position: relative;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border-color);
+  width: 100%;
+}
+
+/* Header Top Bar - Contains Theme Switcher */
+.header-top-bar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
+
+#theme-toggle {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  border-radius: 9999px;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--text-muted);
+  box-shadow: var(--shadow-subtle);
+  transition: all 0.25s ease;
+  backdrop-filter: blur(8px);
+}
+
+#theme-toggle:hover {
+  color: var(--text-primary);
+  background-color: var(--surface-alt);
+  border-color: var(--text-muted);
+  transform: scale(1.05);
+}
+
+.theme-icon {
+  display: block;
+  width: 18px;
+  height: 18px;
+}
+
+body.dark-mode .sun-icon {
+  display: block;
+}
+
+body.dark-mode .moon-icon {
+  display: none;
+}
+
+body:not(.dark-mode) .sun-icon {
+  display: none;
+}
+
+body:not(.dark-mode) .moon-icon {
+  display: block;
+}
+
+/* Logo Sizing and Hover */
+.logo-container {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  text-decoration: none;
+}
+
+.brand-svg-logo,
+.logo-container img {
+  height: 64px;
+  width: auto;
+  max-width: 320px;
+  display: block;
+  margin: 0 auto;
+  transition: transform 0.2s ease;
+}
+
+.logo-container:hover .brand-svg-logo,
+.logo-container:hover img {
+  transform: scale(1.02);
+}
+
+.logo-text {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 38px;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.logo-ipo {
+  fill: #00FF00;
+}
+
+.logo-nion {
+  fill: var(--text-primary);
+  transition: fill 0.25s ease;
+}
+
+/* LIVE Glowing Pill Badge */
+header h2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.78125rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #00FF00;
+  margin-bottom: 0.6rem;
+  padding: 0.28rem 0.85rem;
+  border-radius: 9999px;
+  background-color: rgba(0, 255, 0, 0.08);
+  border: 1px solid rgba(0, 255, 0, 0.35);
+  animation: live-glow 2.5s infinite ease-in-out;
+  transition: all 0.3s ease;
+}
+
+.live-pulse-dot {
+  width: 8px;
+  height: 8px;
+  background-color: #00FF00;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #00FF00;
+  animation: live-dot-pulse 2.5s infinite ease-in-out;
+}
+
+@keyframes live-glow {
+  0%, 100% {
+    box-shadow: 0 0 8px rgba(0, 255, 0, 0.2), inset 0 0 6px rgba(0, 255, 0, 0.05);
+    border-color: rgba(0, 255, 0, 0.3);
+    text-shadow: 0 0 6px rgba(0, 255, 0, 0.35);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.45), 0 0 35px rgba(0, 255, 0, 0.2), inset 0 0 10px rgba(0, 255, 0, 0.12);
+    border-color: rgba(0, 255, 0, 0.75);
+    text-shadow: 0 0 12px rgba(0, 255, 0, 0.8), 0 0 22px rgba(0, 255, 0, 0.4);
+  }
+}
+
+@keyframes live-dot-pulse {
+  0%, 100% {
+    opacity: 0.7;
+    transform: scale(0.95);
+    box-shadow: 0 0 6px #00FF00;
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.3);
+    box-shadow: 0 0 14px #00FF00, 0 0 22px rgba(0, 255, 0, 0.65);
+  }
+}
+
+header h3 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  letter-spacing: -0.01em;
+}
+
+/* ==========================================================================
+   Main Content & Section Layouts
+   ========================================================================== */
+
+main {
+  flex: 1;
+  width: 100%;
+}
+
+.ipo-section {
+  margin-bottom: 3.25rem;
+  width: 100%;
+}
+
+.ipo-section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.ipo-section-header h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.ipo-section-count {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+/* ==========================================================================
+   Tables - Full Width & Zero Horizontal Scroll
+   ========================================================================== */
+
+.table-wrapper {
+  width: 100%;
+  background-color: var(--surface-color);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  overflow-x: hidden; /* Zero horizontal scroll */
+  overflow-y: visible;
+  box-shadow: var(--shadow-subtle);
+}
+
+.closed-ipo-section .table-wrapper {
+  max-height: 520px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+  text-align: left;
+}
+
+thead {
+  background-color: var(--surface-alt);
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+th {
+  padding: 0.75rem 0.65rem;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border-color);
+  white-space: normal;
+  line-height: 1.25;
+}
+
+td {
+  padding: 0.75rem 0.65rem;
+  border-bottom: 1px solid var(--border-light);
+  color: var(--text-secondary);
+  font-size: 0.8125rem;
+  white-space: normal;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody tr {
+  transition: background-color 0.15s ease;
+}
+
+tbody tr:hover {
+  background-color: var(--row-hover);
+}
+
+/* Top 5 Highlight in Active */
+tbody tr.highlight-top-5 {
+  background-color: var(--row-top-highlight);
+}
+
+tbody tr.highlight-top-5 td:first-child {
+  border-left: 3px solid var(--row-top-border);
+  padding-left: calc(0.65rem - 3px);
+}
+
+/* Column Specific Widths & Formatting for Identical Grid Across Tables */
+.col-company {
+  width: 21%;
+  font-weight: 600;
+  color: var(--text-primary);
+  word-break: break-word;
+}
+
+.company-type-sub {
+  display: block;
+  font-size: 0.6875rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  margin-top: 0.12rem;
+}
+
+.col-dates {
+  width: 12%;
+  white-space: nowrap;
+}
+
+.col-price {
+  width: 9%;
+  font-weight: 500;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+
+.col-gmp {
+  width: 8%;
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+
+.col-trend {
+  width: 5%;
+  text-align: center;
+}
+
+.col-gain {
+  width: 13%;
+  white-space: nowrap;
+}
+
+.col-retail {
+  width: 8%;
+  white-space: nowrap;
+}
+
+.col-total {
+  width: 8%;
+  white-space: nowrap;
+}
+
+.col-status {
+  width: 7%;
+  white-space: nowrap;
+}
+
+.col-updated {
+  width: 9%;
+  white-space: nowrap;
+}
+
+.col-num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* Gain Pill */
+.gain-pill {
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.gain-pill.positive {
+  background-color: var(--gain-pos-bg);
+  color: var(--gain-pos);
+}
+
+.gain-pill.negative {
+  background-color: var(--gain-neg-bg);
+  color: var(--gain-neg);
+}
+
+.gain-pill.flat {
+  background-color: var(--gain-flat-bg);
+  color: var(--gain-flat);
+}
+
+/* Status Text */
+.status-tag {
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background-color: var(--surface-alt);
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+.status-tag.open {
+  color: var(--gain-pos);
+  background-color: var(--gain-pos-bg);
+  font-weight: 600;
+}
+
+/* Empty State */
+.empty-message {
+  padding: 2.5rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color);
+  text-align: center;
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+}
+
+footer a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+footer a:hover {
+  color: var(--brand);
+}
+
+.footer-divider {
+  margin: 0 0.35rem;
+  color: var(--border-color);
+  user-select: none;
+}
+
+/* ==========================================================================
+   COMPREHENSIVE RESPONSIVE MEDIA QUERIES
+   Explicit Breakpoints for Wide Desktops, Tablets, and Phones
+   ========================================================================== */
+
+/* --- 1. Extra Wide Displays (> 1400px) --- */
+@media (min-width: 1400px) {
+  .wrap {
+    padding: 2rem 3.5rem 4rem 3.5rem;
+  }
+  th, td {
+    padding: 0.85rem 0.85rem;
+    font-size: 0.875rem;
+  }
+}
+
+/* --- 2. Standard Laptops & Desktops (1025px - 1200px) --- */
+@media (max-width: 1200px) {
+  .wrap {
+    padding: 1.5rem 2rem 3.5rem 2rem;
+  }
+  th, td {
+    padding: 0.7rem 0.6rem;
+  }
+}
+
+/* --- 3. Small Laptops & Horizontal Tablets (861px - 1024px) --- */
+@media (max-width: 1024px) {
+  body {
+    font-size: 15px;
+  }
+  .wrap {
+    padding: 1.25rem 1.5rem 3rem 1.5rem;
+  }
+  .header-top-bar {
+    margin-bottom: 0.35rem;
+  }
+  .col-updated {
+    display: none; /* Hide low-priority timestamp to preserve table space */
+  }
+  th, td {
+    padding: 0.65rem 0.5rem;
+    font-size: 0.8125rem;
+  }
+}
+
+/* --- 4. Vertical Tablets & Phablets (641px - 860px) --- */
+@media (max-width: 860px) {
+  body {
+    font-size: 14.5px;
+  }
+  .wrap {
+    padding: 1.25rem 1.25rem 2.5rem 1.25rem;
+  }
+  header {
+    margin-bottom: 2.25rem;
+    padding-bottom: 1.5rem;
+  }
+  .header-top-bar {
+    justify-content: flex-end;
+    margin-bottom: 0.25rem;
+  }
+  #theme-toggle {
+    width: 36px;
+    height: 36px;
+  }
+  .brand-svg-logo,
+  .logo-container img {
+    height: 56px;
+    max-width: 270px;
+  }
+  .col-retail,
+  .col-trend {
+    display: none; /* Hide retail sub & trend icon on tablets */
+  }
+  th, td {
+    padding: 0.65rem 0.45rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* --- 5. Mobile Phones (481px - 640px) --- */
+@media (max-width: 640px) {
+  body {
+    font-size: 14px;
+  }
+  .wrap {
+    padding: 1rem 0.75rem 2.5rem 0.75rem;
+  }
+  header {
+    margin-bottom: 2rem;
+    padding-bottom: 1.25rem;
+  }
+  .header-top-bar {
+    margin-bottom: 0.25rem;
+  }
+  #theme-toggle {
+    width: 34px;
+    height: 34px;
+  }
+  .brand-svg-logo,
+  .logo-container img {
+    height: 50px;
+    max-width: 240px;
+  }
+  header h2 {
+    font-size: 0.72rem;
+    padding: 0.22rem 0.7rem;
+    letter-spacing: 0.15em;
+  }
+  header h3 {
+    font-size: 0.95rem;
+  }
+  .ipo-section {
+    margin-bottom: 2.25rem;
+  }
+  .ipo-section-header h3 {
+    font-size: 1.125rem;
+  }
+  .col-price {
+    display: none; /* Hide price band to give room to GMP & Gain */
+  }
+  th, td {
+    padding: 0.55rem 0.4rem;
+    font-size: 0.78rem;
+  }
+}
+
+/* --- 6. Compact Phones (< 480px, e.g., iPhone 13/14/15/16, Pixel, Galaxy) --- */
+@media (max-width: 480px) {
+  body {
+    font-size: 13.5px;
+  }
+  .wrap {
+    padding: 0.75rem 0.5rem 2rem 0.5rem;
+  }
+  header {
+    margin-bottom: 1.75rem;
+    padding-bottom: 1rem;
+  }
+  .header-top-bar {
+    margin-bottom: 0.15rem;
+  }
+  #theme-toggle {
+    width: 32px;
+    height: 32px;
+  }
+  .theme-icon {
+    width: 16px;
+    height: 16px;
+  }
+  .brand-svg-logo,
+  .logo-container img {
+    height: 42px;
+    max-width: 200px;
+  }
+  header h2 {
+    font-size: 0.6875rem;
+    padding: 0.2rem 0.65rem;
+    letter-spacing: 0.12em;
+  }
+  header h3 {
+    font-size: 0.8125rem;
+    line-height: 1.35;
+    padding: 0 0.5rem;
+  }
+  .col-total,
+  .col-status {
+    display: none !important; /* Retain core pillars: Company, Dates, GMP, Gain */
+  }
+  .gain-price {
+    display: none !important; /* Show clean percentage on compact screens e.g. (+3.42%) */
+  }
+  table {
+    table-layout: fixed;
+    width: 100%;
+  }
+  th, td {
+    padding: 0.5rem 0.28rem;
+    font-size: 0.75rem;
+  }
+  th {
+    font-size: 0.65rem;
+    letter-spacing: 0.03em;
+  }
+  .col-company {
+    width: 38%;
+    min-width: 0;
+    font-size: 0.8rem;
+  }
+  .col-dates {
+    width: 23%;
+    font-size: 0.72rem;
+  }
+  .col-gmp {
+    width: 18%;
+  }
+  .col-gain {
+    width: 21%;
+    text-align: right;
+  }
+  .gain-pill {
+    font-size: 0.7rem;
+    padding: 0.12rem 0.3rem;
+  }
+  .table-wrapper {
+    border-radius: 8px;
+  }
+  footer {
+    padding-top: 1.25rem;
+    font-size: 0.75rem;
+  }
+}
+
+/* --- 7. Extra Small Screens (< 360px) --- */
+@media (max-width: 360px) {
+  .wrap {
+    padding: 0.5rem 0.25rem 1.5rem 0.25rem;
+  }
+  .brand-svg-logo,
+  .logo-container img {
+    height: 38px;
+    max-width: 180px;
+  }
+  header h3 {
+    font-size: 0.75rem;
+  }
+  th, td {
+    padding: 0.45rem 0.18rem;
+    font-size: 0.6875rem;
+  }
+  .col-company {
+    width: 36%;
+    font-size: 0.72rem;
+  }
+  .col-dates {
+    width: 23%;
+    font-size: 0.65rem;
+  }
+  .col-gmp {
+    width: 18%;
+  }
+  .col-gain {
+    width: 23%;
+  }
+  .gain-pill {
+    font-size: 0.625rem;
+    padding: 0.1rem 0.2rem;
+  }
+}
