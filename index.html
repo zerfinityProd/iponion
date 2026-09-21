@@ -93,8 +93,10 @@
             // Data Fetching with Local & Remote Fallbacks
             async function fetchIPOData() {
                 const endpoints = [
-                    '../merged_ipo_data.json',
                     './merged_ipo_data.json',
+                    '../merged_ipo_data.json',
+                    'https://raw.githubusercontent.com/zerfinityProd/iponion/main/merged_ipo_data.json',
+                    'https://cdn.jsdelivr.net/gh/zerfinityProd/iponion@main/merged_ipo_data.json',
                     'https://zerfinityprod.github.io/iponion/merged_ipo_data.json'
                 ];
                 for (const url of endpoints) {
