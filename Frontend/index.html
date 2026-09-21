@@ -2,346 +2,291 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Unbiased IPO Insights.">
-    <meta name="theme-color" content="#282f2e">
+    <meta name="theme-color" content="#228b22">
     <title>Iponion - Unbiased IPO Insights</title>
-    <link rel="canonical" href="https://iponion.com/">
-    <link rel="icon" href="https://iponion.com/src/favicon.svg">
-    <link rel="stylesheet" href="./fonts.css">
-    <link rel="stylesheet" href="./style.css">
-    <style>
-        :root {
-            --bg-color: #ffffff;
-            --text-color: #333333;
-            --header-bg: #ffffff;
-            --table-bg: #ffffff;
-            --border-color: #ddd;
-            --highlight-bg: #e8f5e8;
-            --scroll-info-bg: #f0f0f0;
-        }
+    <link rel="icon" href="./assets/logo.svg">
 
-        body.dark-mode {
-            --bg-color: #121212;
-            --text-color: #ffffff;
-            --header-bg: #1e1e1e;
-            --table-bg: #1e1e1e;
-            --border-color: #333;
-            --highlight-bg: #2e4d2e;
-            --scroll-info-bg: #2a2a2a;
-        }
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-        body {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            transition: background-color 0.3s, color 0.3s;
-        }
-
-        header {
-            background-color: var(--header-bg);
-        }
-
-        .table-wrapper th,
-        .table-wrapper td {
-            background-color: var(--table-bg);
-            border-color: var(--border-color);
-        }
-
-        .highlight-top-5,
-        .highlight-active {
-            background-color: var(--highlight-bg);
-        }
-
-        .scroll-info {
-            background-color: var(--scroll-info-bg);
-        }
-
-        #theme-toggle {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            background: none;
-            border: none;
-            font-size: 24px;
-            cursor: pointer;
-            color: var(--text-color);
-            transition: color 0.3s;
-        }
-
-        #theme-toggle:hover {
-            opacity: 0.8;
-        }
-
-        .element-pdf-highlight {
-            outline: 3px solid #2196F3 !important;
-            outline-offset: 2px !important;
-            box-shadow: 0 0 0 2px rgba(33, 150, 243, 0.3),
-                0 0 8px rgba(33, 150, 243, 0.6) !important;
-            position: relative !important;
-            z-index: 999999 !important;
-        }
-
-        .element-pdf-label {
-            position: fixed !important;
-            background-color: #2196F3 !important;
-            color: white !important;
-            padding: 4px 8px !important;
-            border-radius: 4px !important;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-            font-size: 12px !important;
-            pointer-events: none !important;
-            z-index: 999999 !important;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
-            max-width: 300px !important;
-            white-space: nowrap !important;
-            overflow: hidden !important;
-            text-overflow: ellipsis !important;
-        }
-
-        .element-pdf-overlay {
-            position: fixed !important;
-            top: 0 !important;
-            left: 0 !important;
-            width: 100% !important;
-            height: 100% !important;
-            z-index: 999990 !important;
-            pointer-events: none !important;
-            background-color: transparent !important;
-            /* Ensure no dimming */
-        }
-
-        .element-pdf-selected {
-            position: relative !important;
-            outline: 3px solid #4CAF50 !important;
-            outline-offset: 2px !important;
-            box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.3),
-                0 0 8px rgba(76, 175, 80, 0.6) !important;
-            z-index: 999998 !important;
-        }
-
-        .element-pdf-selected-badge {
-            position: absolute !important;
-            top: 0 !important;
-            left: 0 !important;
-            background-color: #4CAF50 !important;
-            color: white !important;
-            padding: 2px 6px !important;
-            font-size: 10px !important;
-            border-radius: 3px !important;
-            z-index: 999999 !important;
-            pointer-events: none !important;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-        }
-
-        .element-pdf-controls {
-            position: fixed !important;
-            bottom: 20px !important;
-            left: 50% !important;
-            transform: translateX(-50%) !important;
-            background-color: #fff !important;
-            border-radius: 8px !important;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
-            padding: 12px !important;
-            z-index: 9999999 !important;
-            display: flex !important;
-            flex-direction: column !important;
-            min-width: 300px !important;
-        }
-
-        .element-pdf-controls-header {
-            display: flex !important;
-            justify-content: space-between !important;
-            align-items: center !important;
-            margin-bottom: 10px !important;
-            padding-bottom: 10px !important;
-            border-bottom: 1px solid #eee !important;
-        }
-
-        .element-pdf-controls-title {
-            font-weight: bold !important;
-            font-size: 14px !important;
-            color: #333 !important;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-        }
-
-        .element-pdf-controls-count {
-            font-size: 12px !important;
-            color: #666 !important;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-        }
-
-        .element-pdf-controls-buttons {
-            display: flex !important;
-            gap: 8px !important;
-            margin-top: 10px !important;
-        }
-
-        .element-pdf-controls-button {
-            padding: 8px 16px !important;
-            border-radius: 4px !important;
-            border: none !important;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-            font-size: 12px !important;
-            font-weight: 600 !important;
-            cursor: pointer !important;
-            transition: background-color 0.2s !important;
-            flex: 1 !important;
-        }
-
-        .element-pdf-controls-button-primary {
-            background-color: #2196F3 !important;
-            color: white !important;
-        }
-
-        .element-pdf-controls-button-primary:hover {
-            background-color: #1976D2 !important;
-        }
-
-        .element-pdf-controls-button-secondary {
-            background-color: #f5f5f5 !important;
-            color: #333 !important;
-        }
-
-        .element-pdf-controls-button-secondary:hover {
-            background-color: #e0e0e0 !important;
-        }
-
-        .element-pdf-controls-button-danger {
-            background-color: #f44336 !important;
-            color: white !important;
-        }
-
-        .element-pdf-controls-button-danger:hover {
-            background-color: #d32f2f !important;
-        }
-
-        .element-pdf-selected-list {
-            max-height: 150px !important;
-            overflow-y: auto !important;
-            margin: 10px 0 !important;
-            border: 1px solid #eee !important;
-            border-radius: 4px !important;
-            padding: 8px !important;
-        }
-
-        .element-pdf-selected-item {
-            display: flex !important;
-            justify-content: space-between !important;
-            align-items: center !important;
-            padding: 6px 8px !important;
-            border-bottom: 1px solid #f0f0f0 !important;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-            font-size: 12px !important;
-        }
-
-        .element-pdf-selected-item:last-child {
-            border-bottom: none !important;
-        }
-
-        .element-pdf-selected-item-text {
-            flex: 1 !important;
-            white-space: nowrap !important;
-            overflow: hidden !important;
-            text-overflow: ellipsis !important;
-        }
-
-        .element-pdf-selected-item-remove {
-            background: none !important;
-            border: none !important;
-            color: #f44336 !important;
-            cursor: pointer !important;
-            font-size: 16px !important;
-            padding: 0 4px !important;
-        }
-
-        .ipo-section {
-            margin-bottom: 20px;
-        }
-
-        .ipo-section h3 {
-            margin-top: 10px;
-            margin-bottom: 5px;
-            font-size: 20px;
-            color: #333;
-        }
-
-        .ipo-section table {
-            margin-bottom: 20px;
-        }
-
-        #ipo-table-container {
-            width: 100%;
-        }
-
-        .table-wrapper {
-            width: 100%;
-            max-height: 225px;
-            overflow-y: auto;
-            overflow-x: auto;
-        }
-
-        .closed-ipo-section .table-wrapper {
-            max-height: 360px;
-            overflow-y: auto;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-    </style>
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="./style.css?v=4">
 </head>
 
-<body class="home section" id="home">
+<body>
     <div class="wrap">
         <header>
-            <div>
-                <a href="https://iponion.in/" title="Iponion">
-                    <img src="assets/logo.png" alt="Iponion">
-                </a>
+            <div class="header-top-bar">
+                <button id="theme-toggle" title="Toggle Light / Dark Mode" aria-label="Toggle Theme">
+                    <svg class="theme-icon sun-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <svg class="theme-icon moon-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
             </div>
-            <h2>LIVE</h2>
+            <a href="./" class="logo-container" title="IPONION">
+                <svg class="brand-svg-logo" width="250" height="65" viewBox="0 0 250 65" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="IPONION">
+                    <rect x="6" y="32" width="11" height="18" rx="2.5" fill="#00FF00" opacity="0.45"/>
+                    <rect x="21" y="20" width="11" height="30" rx="2.5" fill="#00FF00" opacity="0.75"/>
+                    <rect x="36" y="8" width="11" height="42" rx="2.5" fill="#00FF00"/>
+                    <text x="60" y="42" class="logo-text"><tspan class="logo-ipo">IPO</tspan><tspan class="logo-nion">NION</tspan></text>
+                </svg>
+            </a>
+            <div>
+                <h2><span class="live-pulse-dot"></span>LIVE</h2>
+            </div>
             <h3>Unbiased IPO Insights for Smart Investors</h3>
-            <button id="theme-toggle" title="Toggle Dark Mode">🌙</button>
         </header>
-        <main id="main">
 
-            <div id="ipo-table-container"></div>
+        <main id="main">
+            <div id="ipo-table-container">
+                <div class="empty-message">Loading IPO insights...</div>
+            </div>
         </main>
+
         <footer>
-            <a href="mailto:service@zerfinity.com">service@zerfinity.com</a>
+            <span>By <a href="https://www.zerfinity.com" target="_blank" rel="noopener noreferrer">Zerfinity</a></span> <span class="footer-divider">||</span> <a href="mailto:service@zerfinity.com">service@zerfinity.com</a>
         </footer>
     </div>
+
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-            // Theme toggle
+            // Theme Toggle
             const themeToggle = document.getElementById('theme-toggle');
             const body = document.body;
-            const savedTheme = localStorage.getItem('theme');
 
-            if (savedTheme === 'dark') {
-                body.classList.add('dark-mode');
-                themeToggle.textContent = '☀️';
-            } else {
-                themeToggle.textContent = '🌙';
+            function applyTheme(theme) {
+                if (theme === 'dark') {
+                    body.classList.add('dark-mode');
+                } else {
+                    body.classList.remove('dark-mode');
+                }
             }
 
+            const savedTheme = localStorage.getItem('iponion-theme') || 
+                (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            applyTheme(savedTheme);
+
             themeToggle.addEventListener('click', () => {
-                body.classList.toggle('dark-mode');
                 const isDark = body.classList.contains('dark-mode');
-                themeToggle.textContent = isDark ? '☀️' : '🌙';
-                localStorage.setItem('theme', isDark ? 'dark' : 'light');
+                const nextTheme = isDark ? 'light' : 'dark';
+                applyTheme(nextTheme);
+                localStorage.setItem('iponion-theme', nextTheme);
             });
 
-            fetch('https://zerfinityprod.github.io/iponion/merged_ipo_data.json')
-                .then(response => response.json())
+            // Data Fetching with Local & Remote Fallbacks
+            async function fetchIPOData() {
+                const endpoints = [
+                    '../merged_ipo_data.json',
+                    './merged_ipo_data.json',
+                    'https://zerfinityprod.github.io/iponion/merged_ipo_data.json'
+                ];
+                for (const url of endpoints) {
+                    try {
+                        const res = await fetch(url);
+                        if (res.ok) {
+                            return await res.json();
+                        }
+                    } catch (e) {
+                        // try next endpoint
+                    }
+                }
+                throw new Error('All data endpoints failed');
+            }
+
+            // Helpers
+            const getGMP = ipo => {
+                const val = ipo['IPO GMP'] ?? ipo['IPO GMP*'] ?? ipo['GMP'];
+                return Number(val) || 0;
+            };
+
+            const getApps = ipo => Number(ipo['Total (X)']) || 0;
+
+            const getName = ipo => ipo['IPO'] || ipo['IPO Name'] || ipo['Normalized_IPO_Name'] || '-';
+
+            const getType = ipo => ipo['Type'] || ipo['Type_sub'] || '';
+
+            function parseGainPercentage(estListing) {
+                if (!estListing) return null;
+                const match = estListing.match(/\(([\d.]+)%\)/);
+                return match ? parseFloat(match[1]) : null;
+            }
+
+            // Create Clean Table
+            function createSection(ipos, title, isTop5Highlight = false) {
+                const section = document.createElement('section');
+                section.className = 'ipo-section';
+                if (title.toLowerCase().includes('closed')) {
+                    section.classList.add('closed-ipo-section');
+                }
+
+                const header = document.createElement('div');
+                header.className = 'ipo-section-header';
+                header.innerHTML = `
+                    <h3>${title}</h3>
+                    <span class="ipo-section-count">${ipos.length} ${ipos.length === 1 ? 'record' : 'records'}</span>
+                `;
+                section.appendChild(header);
+
+                if (ipos.length === 0) {
+                    const empty = document.createElement('div');
+                    empty.className = 'empty-message';
+                    empty.textContent = 'No IPOs currently available.';
+                    section.appendChild(empty);
+                    return section;
+                }
+
+                const wrapper = document.createElement('div');
+                wrapper.className = 'table-wrapper';
+
+                const table = document.createElement('table');
+                const thead = document.createElement('thead');
+                const tbody = document.createElement('tbody');
+
+                const isUpcoming = title.toLowerCase().includes('upcoming');
+
+                // Standard unified column definitions across all tables for consistent grid alignment
+                const cols = [
+                    { key: 'company', label: 'IPO Name', align: 'left' },
+                    { key: 'dates', label: 'Dates', align: 'left' },
+                    { key: 'price', label: 'Price Band', align: 'right' },
+                    { key: 'gmp', label: 'IPO GMP', align: 'right' },
+                    { key: 'trend', label: 'Trend', align: 'center' },
+                    { key: 'gain', label: 'Est. Gain', align: 'right' },
+                    { key: 'retail', label: 'Retail (X)', align: 'right' },
+                    { key: 'total', label: 'Total (X)', align: 'right' },
+                    { key: 'status', label: 'Status', align: 'left' },
+                    { key: 'updated', label: 'Last Updated', align: 'left' }
+                ];
+
+                // Render Header Row
+                const hRow = document.createElement('tr');
+                cols.forEach(col => {
+                    const th = document.createElement('th');
+                    th.textContent = col.label;
+                    th.className = `col-${col.key}`;
+                    if (col.align === 'right') th.classList.add('col-num');
+                    if (col.align === 'center') th.style.textAlign = 'center';
+                    hRow.appendChild(th);
+                });
+                thead.appendChild(hRow);
+                table.appendChild(thead);
+
+                // Render Body Rows
+                ipos.forEach((ipo, index) => {
+                    const row = document.createElement('tr');
+                    if (isTop5Highlight && index < 5) {
+                        row.classList.add('highlight-top-5');
+                    }
+
+                    const name = getName(ipo);
+                    const type = getType(ipo);
+                    const dateText = ipo['Date'] || (ipo['Opening Date'] && ipo['Closing Date'] ? `${ipo['Opening Date']} – ${ipo['Closing Date']}` : (ipo['Opening Date'] || ipo['Closing Date'] || '-'));
+                    const price = ipo['Price Band'] || '-';
+                    const gmp = getGMP(ipo);
+                    const trend = ipo['Trend'] || '🟡';
+                    const estListing = ipo['Est. Listing'] || '-';
+                    const retail = ipo['Retail  (X)'] || ipo['Retail (X)'] || '-';
+                    const total = Number(ipo['Total (X)']) || 0;
+                    const status = ipo['Status'] || (isUpcoming ? 'Upcoming' : 'Open');
+                    const updated = ipo['Last Updated_gmp'] || ipo['Last Updated'] || ipo['Last Updated_sub'] || '-';
+
+                    // Formatted Gain
+                    const gainPercent = parseGainPercentage(estListing);
+                    let gainHtml = estListing;
+                    if (gainPercent !== null) {
+                        const cls = gainPercent > 0 ? 'positive' : (gainPercent === 0 ? 'flat' : 'negative');
+                        const sign = gainPercent > 0 ? '+' : '';
+                        const estPrice = estListing.split('(')[0].trim();
+                        gainHtml = `<span class="gain-pill ${cls}"><span class="gain-price">${estPrice} </span>(${sign}${gainPercent}%)</span>`;
+                    }
+
+                    // Formatted Status
+                    const isStatusOpen = String(status).toLowerCase() === 'open' || String(status).toLowerCase() === 'active';
+                    const statusHtml = `<span class="status-tag ${isStatusOpen ? 'open' : ''}">${status}</span>`;
+
+                    cols.forEach(col => {
+                        const td = document.createElement('td');
+                        td.className = `col-${col.key}`;
+                        if (col.align === 'right') td.classList.add('col-num');
+
+                        switch(col.key) {
+                            case 'company':
+                                td.innerHTML = `${name}${type ? `<span class="company-type-sub">${type}</span>` : ''}`;
+                                break;
+                            case 'dates':
+                                td.textContent = dateText;
+                                break;
+                            case 'price':
+                                td.textContent = price;
+                                break;
+                            case 'gmp':
+                                td.textContent = `₹${gmp}`;
+                                break;
+                            case 'trend':
+                                td.style.textAlign = 'center';
+                                td.textContent = trend;
+                                break;
+                            case 'gain':
+                                td.innerHTML = gainHtml;
+                                break;
+                            case 'retail':
+                                td.textContent = retail !== '-' ? `${retail}x` : '-';
+                                break;
+                            case 'total':
+                                td.style.fontWeight = '600';
+                                td.textContent = total > 0 ? `${total.toFixed(2)}x` : '-';
+                                break;
+                            case 'status':
+                                td.innerHTML = statusHtml;
+                                break;
+                            case 'updated':
+                                td.style.fontSize = '0.75rem';
+                                td.style.color = 'var(--text-muted)';
+                                td.textContent = updated;
+                                break;
+                        }
+                        row.appendChild(td);
+                    });
+
+                    tbody.appendChild(row);
+                });
+
+                table.appendChild(tbody);
+                wrapper.appendChild(table);
+                section.appendChild(wrapper);
+                return section;
+            }
+
+            // Load and Process Data
+            fetchIPOData()
                 .then(data => {
-                    if (data.length === 0) {
+                    const tableContainer = document.getElementById('ipo-table-container');
+                    tableContainer.innerHTML = '';
+
+                    if (!data || data.length === 0) {
+                        tableContainer.innerHTML = '<div class="empty-message">No IPO data found.</div>';
                         return;
                     }
 
                     const today = new Date();
 
-                    // Filter active, upcoming, and closed IPOs
                     const activeIPOs = data.filter(ipo => {
                         if (ipo['Status']) {
                             const st = String(ipo['Status']).trim().toLowerCase();
@@ -351,6 +296,7 @@
                         const closing = new Date(ipo['Closing Date']);
                         return !isNaN(opening) && !isNaN(closing) && opening <= today && today <= closing;
                     });
+
                     const upcomingIPOs = data.filter(ipo => {
                         if (ipo['Status']) {
                             const st = String(ipo['Status']).trim().toLowerCase();
@@ -359,6 +305,7 @@
                         const opening = new Date(ipo['Opening Date']);
                         return !isNaN(opening) && opening > today;
                     });
+
                     const closedIPOs = data.filter(ipo => {
                         if (ipo['Status']) {
                             const st = String(ipo['Status']).trim().toLowerCase();
@@ -369,22 +316,14 @@
                         return !isNaN(closing) && (closing < today || (!isNaN(opening) && opening <= today && closing < today));
                     });
 
-                    // Helper to get numeric value for sorting
-                    const getGMP = ipo => {
-                        const value = ipo['IPO GMP'] ?? ipo['IPO GMP*'] ?? ipo['GMP'];
-                        return Number(value) || 0;
-                    };
-                    const getApps = ipo => Number(ipo['Total (X)']) || 0;
-
-                    // Sort active IPOs by GMP descending, then by Applications descending
+                    // Sort active by GMP desc, then total sub desc
                     activeIPOs.sort((a, b) => {
-                        const gmpA = getGMP(a);
-                        const gmpB = getGMP(b);
-                        if (gmpB !== gmpA) return gmpB - gmpA;
+                        const gmpDiff = getGMP(b) - getGMP(a);
+                        if (gmpDiff !== 0) return gmpDiff;
                         return getApps(b) - getApps(a);
                     });
 
-                    // Sort upcoming IPOs by Date ascending, then by GMP descending, then by Applications descending
+                    // Sort upcoming by Date asc, then GMP desc
                     upcomingIPOs.sort((a, b) => {
                         const dateA = new Date(a['Opening Date'] || a['Closing Date']);
                         const dateB = new Date(b['Opening Date'] || b['Closing Date']);
@@ -392,13 +331,10 @@
                             if (dateA < dateB) return -1;
                             if (dateA > dateB) return 1;
                         }
-                        const gmpA = getGMP(a);
-                        const gmpB = getGMP(b);
-                        if (gmpB !== gmpA) return gmpB - gmpA;
-                        return getApps(b) - getApps(a);
+                        return getGMP(b) - getGMP(a);
                     });
 
-                    // Sort closed IPOs by Closing Date descending, then by GMP descending, then by Applications descending
+                    // Sort closed by Closing Date desc, then GMP desc
                     closedIPOs.sort((a, b) => {
                         const dateA = new Date(a['Closing Date'] || a['Opening Date']);
                         const dateB = new Date(b['Closing Date'] || b['Opening Date']);
@@ -406,150 +342,18 @@
                             if (dateB > dateA) return 1;
                             if (dateA > dateB) return -1;
                         }
-                        const gmpA = getGMP(a);
-                        const gmpB = getGMP(b);
-                        if (gmpB !== gmpA) return gmpB - gmpA;
-                        return getApps(b) - getApps(a);
+                        return getGMP(b) - getGMP(a);
                     });
 
-                    const tableContainer = document.getElementById('ipo-table-container');
-
-                    // Function to create table
-                    function createTable(ipos, title) {
-                        const section = document.createElement('div');
-                        section.classList.add('ipo-section');
-
-                        const heading = document.createElement('h3');
-                        heading.textContent = title;
-                        section.appendChild(heading);
-
-                        let scrollInfo = null;
-                        if (title === 'Closed IPOs') {
-                            scrollInfo = document.createElement('div');
-                            scrollInfo.classList.add('scroll-info');
-                            scrollInfo.textContent = 'Scroll X: 0% | Y: 0%';
-                            section.appendChild(scrollInfo);
-                        }
-
-                        if (ipos.length === 0) {
-                            const noData = document.createElement('p');
-                            noData.textContent = 'No IPOs available.';
-                            section.appendChild(noData);
-                            return section;
-                        }
-
-                        const table = document.createElement('table');
-                        const thead = document.createElement('thead');
-                        const tbody = document.createElement('tbody');
-
-                        let columns;
-                        if (title === 'Upcoming IPOs') {
-                            columns = [
-                                "IPO",
-                                "Type_sub",
-                                "Date",
-                                "Closing Date",
-                                "Price Band",
-                                "Status",
-                                "Last Updated"
-                            ];
-                        } else {
-                            columns = [
-                                "IPO",
-                                "Type_sub",
-                                "Date",
-                                "Closing Date",
-                                "QIB  (X)",
-                                "NII  (X)",
-                                "Retail  (X)",
-                                "Total (X)",
-                                "IPO GMP",
-                                "Trend",
-                                "Price Band",
-                                "Est. Listing",
-                                "Status",
-                                "Last Updated"
-                            ];
-                        }
-
-                        // Create table header
-                        const headerRow = document.createElement('tr');
-                        columns.forEach(colName => {
-                            const th = document.createElement('th');
-                            th.textContent = colName;
-                            headerRow.appendChild(th);
-                        });
-                        thead.appendChild(headerRow);
-                        table.appendChild(thead);
-
-                        // Create table body
-                        ipos.forEach((ipo, index) => {
-                            const row = document.createElement('tr');
-
-                            // Add highlight class to top 5 rows in active
-                            if (title === 'Active IPOs' && index < 5) {
-                                row.classList.add('highlight-top-5');
-                            }
-
-                            // Add highlight class for active IPOs
-                            if (title === 'Active IPOs') {
-                                row.classList.add('highlight-active');
-                            }
-
-                            columns.forEach(colName => {
-                                const td = document.createElement('td');
-                                let val = ipo[colName];
-                                if (val === undefined || val === null || val === '') {
-                                    if (colName === "Date") val = ipo['Opening Date'] || ipo['Date'] || '-';
-                                    else if (colName === "Last Updated") val = ipo['Last Updated'] || ipo['Last Updated_sub'] || ipo['Last Updated_gmp'] || '-';
-                                    else if (colName === "IPO GMP") val = ipo['IPO GMP'] ?? ipo['IPO GMP*'] ?? ipo['GMP'] ?? '-';
-                                    else val = '-';
-                                }
-                                td.textContent = val;
-                                row.appendChild(td);
-                            });
-                            tbody.appendChild(row);
-                        });
-                        table.appendChild(tbody);
-
-                        // Wrap table for scroll behavior on closed IPOs
-                        const tableWrapper = document.createElement('div');
-                        tableWrapper.classList.add('table-wrapper');
-                        tableWrapper.appendChild(table);
-
-                        if (scrollInfo) {
-                            tableWrapper.addEventListener('scroll', () => {
-                                const scrollLeft = tableWrapper.scrollLeft;
-                                const maxScrollLeft = Math.max(tableWrapper.scrollWidth - tableWrapper.clientWidth, 1);
-                                const scrollTop = tableWrapper.scrollTop;
-                                const maxScrollTop = Math.max(tableWrapper.scrollHeight - tableWrapper.clientHeight, 1);
-                                const percentX = Math.round((scrollLeft / maxScrollLeft) * 100);
-                                const percentY = Math.round((scrollTop / maxScrollTop) * 100);
-                                scrollInfo.textContent = `Scroll X: ${percentX}% | Y: ${percentY}%`;
-                            });
-                        }
-
-                        section.appendChild(tableWrapper);
-                        return section;
-                    }
-
-                    // Create and append active IPOs table
-                    const activeTable = createTable(activeIPOs, 'Active IPOs');
-                    tableContainer.appendChild(activeTable);
-
-                    // Create and append upcoming IPOs table
-                    const upcomingTable = createTable(upcomingIPOs, 'Upcoming IPOs');
-                    tableContainer.appendChild(upcomingTable);
-
-                    // Create and append closed IPOs table
-                    const closedTable = createTable(closedIPOs, 'Closed IPOs');
-                    closedTable.classList.add('closed-ipo-section');
-                    tableContainer.appendChild(closedTable);
+                    // Render the 3 tables directly
+                    tableContainer.appendChild(createSection(activeIPOs, 'Active IPOs', true));
+                    tableContainer.appendChild(createSection(upcomingIPOs, 'Upcoming IPOs', false));
+                    tableContainer.appendChild(createSection(closedIPOs, 'Closed IPOs', false));
                 })
-                .catch(error => {
-                    console.error('Error fetching IPO data:', error);
-                    const tableContainer = document.getElementById('ipo-table-container');
-                    tableContainer.textContent = 'Failed to load IPO data.';
+                .catch(err => {
+                    console.error('Error loading IPO data:', err);
+                    document.getElementById('ipo-table-container').innerHTML = 
+                        '<div class="empty-message">Failed to load IPO data. Please refresh the page.</div>';
                 });
         });
     </script>
