@@ -35,7 +35,7 @@
         "Est. Listing":"\u20b9465 (14.81%)",
         "Date":"24-28 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"ABH Healthcare",
@@ -133,6 +133,25 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Acevector",
+        "IPO Name":"Acevector",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Listing":"\u20b9- (0.00%)",
+        "Date":"25-29 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"22 Sept, 16:17"
+    },
+    {
         "IPO":"Adisoft Technologies",
         "Type":"SME",
         "Closing Date":"April 27, 2026",
@@ -187,7 +206,7 @@
         "Est. Listing":"\u20b9166 (23.88%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Advance Technoforge",
@@ -342,6 +361,25 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":"Anand Seamless",
+        "Type":"SME",
+        "Closing Date":"September 24, 2026",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"1.13",
+        "Retail  (X)":"0.05",
+        "Total (X)":"0.59",
+        "Last Updated_sub":"17:50",
+        "Normalized_IPO_Name":"Anand Seamless",
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
+    },
+    {
         "IPO":"Anawil Wire & Engineering",
         "Type":"SME",
         "Closing Date":"August 5, 2026",
@@ -447,13 +485,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"ArMee Infotech",
         "IPO Name":"ArMee Infotech",
-        "IPO GMP*":"\u20b91",
+        "IPO GMP*":"\u20b912",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9375",
-        "Est. Listing":"\u20b9376 (0.27%)",
+        "Est. Listing":"\u20b9387 (3.20%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Ardee Industries",
@@ -668,11 +706,11 @@
         "IPO":"Axiom Gas Engineering",
         "Type":"SME",
         "Closing Date":"September 22, 2026",
-        "QIB  (X)":"0.80",
-        "NII  (X)":"0.68",
-        "Retail  (X)":"1.03",
-        "Total (X)":"0.85",
-        "Last Updated_sub":"17:54",
+        "QIB  (X)":"1.10",
+        "NII  (X)":"0.98",
+        "Retail  (X)":"1.86",
+        "Total (X)":"1.39",
+        "Last Updated_sub":"17:50",
         "Normalized_IPO_Name":"Axiom Gas Engineering",
         "IPO Name":null,
         "IPO GMP*":null,
@@ -1270,7 +1308,7 @@
         "Est. Listing":"\u20b9378 (4.42%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Elfin Agro",
@@ -1314,11 +1352,11 @@
         "IPO":"FX Multitech",
         "Type":"SME",
         "Closing Date":"September 23, 2026",
-        "QIB  (X)":"0.00",
-        "NII  (X)":"1.19",
-        "Retail  (X)":"0.07",
-        "Total (X)":"0.29",
-        "Last Updated_sub":"17:54",
+        "QIB  (X)":"0.01",
+        "NII  (X)":"1.29",
+        "Retail  (X)":"0.20",
+        "Total (X)":"0.38",
+        "Last Updated_sub":"17:50",
         "Normalized_IPO_Name":"FX Multitech",
         "IPO Name":null,
         "IPO GMP*":null,
@@ -1577,6 +1615,25 @@
         "Last Updated_gmp":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"German Green Steel",
+        "IPO Name":"German Green Steel",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9139",
+        "Est. Listing":"\u20b9139 (0.00%)",
+        "Date":"25-29 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"22 Sept, 16:17"
+    },
+    {
         "IPO":"Glass Wall Systems",
         "Type":"Mainboard",
         "Closing Date":"September 10, 2026",
@@ -1745,7 +1802,7 @@
         "Est. Listing":"\u20b984 (0.00%)",
         "Date":"16-18 Sept",
         "Status":"Closed",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Hexagon Nutrition",
@@ -1776,6 +1833,25 @@
         "Total (X)":"193.91",
         "Last Updated_sub":"17:00",
         "Normalized_IPO_Name":"Highness Microelectronics",
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
+    },
+    {
+        "IPO":"Himalaya Nutravedics",
+        "Type":"SME",
+        "Closing Date":"September 24, 2026",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"0.14",
+        "Retail  (X)":"0.16",
+        "Total (X)":"0.11",
+        "Last Updated_sub":"17:50",
+        "Normalized_IPO_Name":"Himalaya Nutravedics",
         "IPO Name":null,
         "IPO GMP*":null,
         "Trend":null,
@@ -1973,7 +2049,7 @@
         "Est. Listing":"\u20b9123 (32.26%)",
         "Date":"16-18 Sept",
         "Status":"Closed",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Jivial Industries",
@@ -2498,14 +2574,14 @@
         "Total (X)":"29.46",
         "Last Updated_sub":"17:39",
         "Normalized_IPO_Name":"Manika Plastech",
-        "IPO Name":"Manika Plastech",
-        "IPO GMP*":"\u20b91",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b943",
-        "Est. Listing":"\u20b944 (2.33%)",
-        "Date":"11-16 Sept",
-        "Status":"Closed",
-        "Last Updated_gmp":"21 Sept, 07:20"
+        "IPO Name":null,
+        "IPO GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Listing":null,
+        "Date":null,
+        "Status":null,
+        "Last Updated_gmp":null
     },
     {
         "IPO":"Manilam Industries",
@@ -2727,13 +2803,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Moneyview",
         "IPO Name":"Moneyview",
-        "IPO GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
+        "IPO GMP*":"\u20b95",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b934",
-        "Est. Listing":"\u20b934 (0.00%)",
+        "Est. Listing":"\u20b939 (14.71%)",
         "Date":"24-28 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Mopshop Distribution",
@@ -2803,13 +2879,13 @@
         "Last Updated_sub":"17:54",
         "Normalized_IPO_Name":"NSE",
         "IPO Name":"NSE",
-        "IPO GMP*":"\u20b961",
+        "IPO GMP*":"\u20b965",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b91785",
-        "Est. Listing":"\u20b91846 (3.42%)",
+        "Est. Listing":"\u20b91850 (3.64%)",
         "Date":"17-21 Sept",
-        "Status":"Open",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Status":"Closed",
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Narmadesh Brass",
@@ -2943,6 +3019,25 @@
         "Date":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Orient Cables",
+        "IPO Name":"Orient Cables",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9272",
+        "Est. Listing":"\u20b9272 (0.00%)",
+        "Date":"25-29 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"PAN HR Solutions",
@@ -3461,11 +3556,11 @@
         "IPO":"Robokidz Eduventures",
         "Type":"SME",
         "Closing Date":"September 23, 2026",
-        "QIB  (X)":"0.07",
-        "NII  (X)":"8.63",
-        "Retail  (X)":"14.81",
-        "Total (X)":"9.29",
-        "Last Updated_sub":"17:54",
+        "QIB  (X)":"0.97",
+        "NII  (X)":"108.84",
+        "Retail  (X)":"98.07",
+        "Total (X)":"72.74",
+        "Last Updated_sub":"17:50",
         "Normalized_IPO_Name":"Robokidz Eduventures",
         "IPO Name":null,
         "IPO GMP*":null,
@@ -3475,6 +3570,25 @@
         "Date":null,
         "Status":null,
         "Last Updated_gmp":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated_sub":null,
+        "Normalized_IPO_Name":"Runwal Enterprises",
+        "IPO Name":"Runwal Enterprises",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9305",
+        "Est. Listing":"\u20b9305 (0.00%)",
+        "Date":"25-29 Sept",
+        "Status":"Upcoming",
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"SBI Funds Management",
@@ -3544,13 +3658,13 @@
         "Last Updated_sub":"17:43",
         "Normalized_IPO_Name":"SS Retail",
         "IPO Name":"SS Retail",
-        "IPO GMP*":"\u20b9156",
+        "IPO GMP*":"\u20b9140",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9424",
-        "Est. Listing":"\u20b9580 (36.79%)",
+        "Est. Listing":"\u20b9564 (33.02%)",
         "Date":"16-18 Sept",
         "Status":"Closed",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Safety Controls",
@@ -3910,8 +4024,8 @@
         "Price Band":"\u20b999",
         "Est. Listing":"\u20b999  (0.00%)",
         "Date":"17-21 Sept",
-        "Status":"Open",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Status":"Closed",
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Sotefin Bharat",
@@ -4095,13 +4209,13 @@
         "Last Updated_sub":null,
         "Normalized_IPO_Name":"Swastika Infra",
         "IPO Name":"Swastika Infra",
-        "IPO GMP*":"\u20b93",
+        "IPO GMP*":"\u20b98",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9185",
-        "Est. Listing":"\u20b9188 (1.62%)",
+        "Est. Listing":"\u20b9193 (4.32%)",
         "Date":"23-25 Sept",
         "Status":"Upcoming",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Symbiotec Pharmalab",
@@ -4351,23 +4465,23 @@
         "Last Updated_gmp":null
     },
     {
-        "IPO":null,
-        "Type":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated_sub":null,
+        "IPO":"Varmora Granito",
+        "Type":"Mainboard",
+        "Closing Date":"September 24, 2026",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"0.05",
+        "Retail  (X)":"0.21",
+        "Total (X)":"0.11",
+        "Last Updated_sub":"17:50",
         "Normalized_IPO_Name":"Varmora Granito",
         "IPO Name":"Varmora Granito",
-        "IPO GMP*":"\u20b910",
+        "IPO GMP*":"\u20b95",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9148",
-        "Est. Listing":"\u20b9158 (6.76%)",
+        "Est. Listing":"\u20b9153 (3.38%)",
         "Date":"22-24 Sept",
-        "Status":"Upcoming",
-        "Last Updated_gmp":"21 Sept, 17:33"
+        "Status":"Open",
+        "Last Updated_gmp":"22 Sept, 16:17"
     },
     {
         "IPO":"Veegaland Developers",
@@ -4469,10 +4583,10 @@
         "Type":"SME",
         "Closing Date":"September 23, 2026",
         "QIB  (X)":"0.00",
-        "NII  (X)":"0.26",
-        "Retail  (X)":"0.05",
-        "Total (X)":"0.08",
-        "Last Updated_sub":"17:54",
+        "NII  (X)":"0.35",
+        "Retail  (X)":"0.20",
+        "Total (X)":"0.17",
+        "Last Updated_sub":"17:50",
         "Normalized_IPO_Name":"Vivekanand Cotspin",
         "IPO Name":null,
         "IPO GMP*":null,
