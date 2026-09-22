@@ -92,8 +92,9 @@
                 localStorage.setItem('iponion-theme', nextTheme);
             });
 
-            // Data Fetching with Local & Remote Fallbacks
+            // Data Fetching with Local & Remote Fallbacks and Cache Busting
             async function fetchIPOData() {
+                const cacheBuster = `?_t=${Date.now()}`;
                 const endpoints = [
                     './merged_ipo_data.json',
                     '../merged_ipo_data.json',
@@ -103,7 +104,8 @@
                 ];
                 for (const url of endpoints) {
                     try {
-                        const res = await fetch(url);
+                        const targetUrl = url.includes('?') ? `${url}&_t=${Date.now()}` : `${url}${cacheBuster}`;
+                        const res = await fetch(targetUrl, { cache: 'no-cache' });
                         if (res.ok) {
                             return await res.json();
                         }
