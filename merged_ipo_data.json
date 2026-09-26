@@ -28,10 +28,10 @@
         "Last Updated":"16:51",
         "Normalized_IPO_Name":"A-One Steels",
         "IPO Name":"A-One Steels",
-        "IPO GMP*":"\u20b949",
+        "IPO GMP*":"\u20b951",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9405",
-        "Est. Listing":"\u20b9454 (12.10%)",
+        "Est. Listing":"\u20b9456 (12.59%)",
         "Date":"24-28 Sep",
         "Status":"Open"
     },
@@ -190,12 +190,12 @@
         "Last Updated":"16:51",
         "Normalized_IPO_Name":"Adroit Industries",
         "IPO Name":"Adroit Industries",
-        "IPO GMP*":"\u20b934",
+        "IPO GMP*":"\u20b947",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9134",
-        "Est. Listing":"\u20b9168 (25.37%)",
+        "Est. Listing":"\u20b9181 (35.07%)",
         "Date":"23-25 Sep",
-        "Status":"Open"
+        "Status":"Closed"
     },
     {
         "IPO":"Advance Technoforge",
@@ -460,12 +460,12 @@
         "Last Updated":"16:51",
         "Normalized_IPO_Name":"ArMee Infotech",
         "IPO Name":"ArMee Infotech",
-        "IPO GMP*":"\u20b920",
+        "IPO GMP*":"\u20b98",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9375",
-        "Est. Listing":"\u20b9395 (5.33%)",
+        "Est. Listing":"\u20b9383 (2.13%)",
         "Date":"23-25 Sep",
-        "Status":"Open"
+        "Status":"Closed"
     },
     {
         "IPO":"Ardee Industries",
@@ -1288,12 +1288,12 @@
         "Last Updated":"16:51",
         "Normalized_IPO_Name":"Elevate Campuses",
         "IPO Name":"Elevate Campuses",
-        "IPO GMP*":"\u20b93",
+        "IPO GMP*":"\u20b94",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9362",
-        "Est. Listing":"\u20b9364 (0.83%)",
+        "Est. Listing":"\u20b9366 (1.10%)",
         "Date":"23-25 Sep",
-        "Status":"Open"
+        "Status":"Closed"
     },
     {
         "IPO":"Elfin Agro",
@@ -2862,6 +2862,24 @@
         "Status":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Nityas Gems",
+        "IPO Name":"Nityas Gems",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b975",
+        "Est. Listing":"\u20b975 (0.00%)",
+        "Date":"30-5 Oct",
+        "Status":"Upcoming"
+    },
+    {
         "IPO":"Novus Loyalty",
         "Type":"SME",
         "Closing Date":"March 20, 2026",
@@ -2980,10 +2998,10 @@
         "Last Updated":"16:51",
         "Normalized_IPO_Name":"Orient Cables",
         "IPO Name":"Orient Cables",
-        "IPO GMP*":"\u20b9113",
+        "IPO GMP*":"\u20b980",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9272",
-        "Est. Listing":"\u20b9385 (41.54%)",
+        "Est. Listing":"\u20b9352 (29.41%)",
         "Date":"25-29 Sep",
         "Status":"Open"
     },
@@ -3646,10 +3664,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"SRIT India",
         "IPO Name":"SRIT India",
-        "IPO GMP*":"\u20b922",
+        "IPO GMP*":"\u20b932",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9130",
-        "Est. Listing":"\u20b9152 (16.92%)",
+        "Est. Listing":"\u20b9162 (24.62%)",
         "Date":"28-30 Sep",
         "Status":"Upcoming"
     },
@@ -4222,12 +4240,12 @@
         "Last Updated":"16:51",
         "Normalized_IPO_Name":"Swastika Infra",
         "IPO Name":"Swastika Infra",
-        "IPO GMP*":"\u20b98",
+        "IPO GMP*":"\u20b95",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9185",
-        "Est. Listing":"\u20b9193 (4.32%)",
+        "Est. Listing":"\u20b9190 (2.43%)",
         "Date":"23-25 Sep",
-        "Status":"Open"
+        "Status":"Closed"
     },
     {
         "IPO":"Symbiotec Pharmalab",
@@ -4588,6 +4606,24 @@
         "Est. Listing":null,
         "Date":null,
         "Status":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Vishal Nirmiti",
+        "IPO Name":"Vishal Nirmiti",
+        "IPO GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9220",
+        "Est. Listing":"\u20b9220 (0.00%)",
+        "Date":"30-5 Oct",
+        "Status":"Upcoming"
     },
     {
         "IPO":"Vivekanand Cotspin",
