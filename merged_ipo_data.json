@@ -1,7 +1,7 @@
 [
     {
         "IPO":"",
-        "Type_sub":"",
+        "Type":"",
         "Closing Date":"",
         "QIB  (X)":"",
         "NII  (X)":"",
@@ -14,12 +14,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"A-One Steels",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 28, 2026",
         "QIB  (X)":"7.69",
         "NII  (X)":"25.80",
@@ -32,12 +31,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"ABH Healthcare",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 27, 2026",
         "QIB  (X)":"8.37",
         "NII  (X)":"0.29",
@@ -50,12 +48,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Aastha Spintex",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 1, 2026",
         "QIB  (X)":"3.59",
         "NII  (X)":"8.29",
@@ -68,12 +65,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Accord Transformer",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 25, 2026",
         "QIB  (X)":"153.01",
         "NII  (X)":"606.02",
@@ -86,12 +82,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Accretion Nutraveda",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 30, 2026",
         "QIB  (X)":"1.01",
         "NII  (X)":"2.08",
@@ -104,12 +99,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Acetech E-Commerce",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 4, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"1.56",
@@ -122,12 +116,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Acevector",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"3.42",
         "NII  (X)":"8.53",
@@ -135,17 +128,33 @@
         "Total (X)":"5.07",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Acevector",
-        "Company":"Acevector(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"AcevectorMainboard",
+        "Company":"Acevector(C)Mainboard",
         "GMP*":"\u20b91",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b932",
         "Est. Gain":"\u20b933 (3.12%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"Mainboard"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"Acme India Industries",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 6, 2026",
         "QIB  (X)":"5.70",
         "NII  (X)":"0.49",
@@ -153,17 +162,33 @@
         "Total (X)":"1.97",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Acme India Industries",
-        "Company":"Acme India Industries(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Acme India IndustriesSME",
+        "Company":"Acme India Industries(O)SME",
         "GMP*":"\u20b925",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9196",
         "Est. Gain":"\u20b9221 (12.76%)",
-        "Date":"30-6 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-6 Oct"
     },
     {
         "IPO":"Acme Universal",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 30, 2026",
         "QIB  (X)":"5.70",
         "NII  (X)":"0.02",
@@ -171,17 +196,33 @@
         "Total (X)":"1.84",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Acme Universal",
-        "Company":"Acme Universal(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Acme UniversalSME",
+        "Company":"Acme Universal(C)SME",
         "GMP*":"\u20b911",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b971",
         "Est. Gain":"\u20b982 (15.49%)",
-        "Date":"28-30 Sep",
-        "Type_gmp":"SME"
+        "Date":"28-30 Sep"
     },
     {
         "IPO":"Adisoft Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"April 27, 2026",
         "QIB  (X)":"98.23",
         "NII  (X)":"120.16",
@@ -194,12 +235,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Adon Agro Commodities",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 1, 2026",
         "QIB  (X)":"22.47",
         "NII  (X)":"1.41",
@@ -212,12 +252,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Adroit Industries",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"195.04",
         "NII  (X)":"331.87",
@@ -230,12 +269,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Advance Technoforge",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 29, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.43",
@@ -248,12 +286,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Advit Jewels",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"June 25, 2026",
         "QIB  (X)":"174.98",
         "NII  (X)":"536.38",
@@ -266,12 +303,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Aegeus Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 6, 2026",
         "QIB  (X)":"23.88",
         "NII  (X)":"48.05",
@@ -284,12 +320,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Alpine Texworld",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 16, 2026",
         "QIB  (X)":"1.09",
         "NII  (X)":"1.09",
@@ -302,12 +337,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Amagi Media Labs",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"January 16, 2026",
         "QIB  (X)":"33.13",
         "NII  (X)":"38.26",
@@ -320,12 +354,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Amba Auto Sales",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"April 29, 2026",
         "QIB  (X)":"1.75",
         "NII  (X)":"1.47",
@@ -338,12 +371,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Amir Chand",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 27, 2026",
         "QIB  (X)":"1.18",
         "NII  (X)":"13.4",
@@ -356,12 +388,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Amtech Esters",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"15.07",
         "NII  (X)":"32.32",
@@ -374,12 +405,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Anand Seamless",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 24, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"1.96",
@@ -392,12 +422,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Anawil Wire & Engineering",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 5, 2026",
         "QIB  (X)":"164.56",
         "NII  (X)":"233.36",
@@ -410,12 +439,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Annu Projects",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 28, 2026",
         "QIB  (X)":"1.72",
         "NII  (X)":"3.55",
@@ -428,12 +456,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Anubhav Plast",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 23, 2026",
         "QIB  (X)":"1.23",
         "NII  (X)":"2.49",
@@ -446,12 +473,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Apana Logistics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 9, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"0.28",
@@ -464,12 +490,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Apsis Aerocom",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 13, 2026",
         "QIB  (X)":"99.96",
         "NII  (X)":"236.61",
@@ -482,12 +507,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"ArMee Infotech",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"3.20",
         "NII  (X)":"2.24",
@@ -500,12 +524,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Ardee Industries",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 7, 2026",
         "QIB  (X)":"202.26",
         "NII  (X)":"266.75",
@@ -518,12 +541,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Aritas Vinyl",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 20, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"1.24",
@@ -536,12 +558,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Armour Security",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 19, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"1.08",
@@ -554,12 +575,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Ashutosh Fibre",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 2, 2026",
         "QIB  (X)":"143.93",
         "NII  (X)":"200.85",
@@ -572,12 +592,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Asset Reconstruction",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"52.65",
         "NII  (X)":"15.69",
@@ -590,12 +609,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Atharva Polyplast",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 2, 2026",
         "QIB  (X)":"3.58",
         "NII  (X)":"18.97",
@@ -608,12 +626,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Augmont Enterprises",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 25, 2026",
         "QIB  (X)":"238.46",
         "NII  (X)":"127.63",
@@ -626,12 +643,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Aureate Tradde",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 2, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.45",
@@ -644,12 +660,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Autofurnish",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 25, 2026",
         "QIB  (X)":"0..00",
         "NII  (X)":"1.17",
@@ -662,12 +677,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Avana Electrosystems",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 14, 2026",
         "QIB  (X)":"54.97",
         "NII  (X)":"219.02",
@@ -680,12 +694,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Avience Biomedicals",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 22, 2026",
         "QIB  (X)":"196.77",
         "NII  (X)":"597.23",
@@ -698,12 +711,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Axiom Gas Engineering",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 22, 2026",
         "QIB  (X)":"1.10",
         "NII  (X)":"0.98",
@@ -716,12 +728,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Aye Finance",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"February 11, 2026",
         "QIB  (X)":"1.62",
         "NII  (X)":"0.05",
@@ -734,12 +745,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Bagmane REIT",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"May 7, 2026",
         "QIB  (X)":"26.58",
         "NII  (X)":"22.82",
@@ -752,12 +762,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Behari Lal Engineering",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 14, 2026",
         "QIB  (X)":"222.04",
         "NII  (X)":"167.95",
@@ -770,12 +779,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Bench Mark Infotech",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"88.62",
         "NII  (X)":"136.92",
@@ -783,17 +791,33 @@
         "Total (X)":"103.12",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Bench Mark Infotech",
-        "Company":"Bench Mark Infotech(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Bench Mark InfotechSME",
+        "Company":"Bench Mark Infotech(C)SME",
         "GMP*":"\u20b926",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9110",
         "Est. Gain":"\u20b9136 (23.64%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"SME"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"Bharat Coking Coal",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"January 13, 2026",
         "QIB  (X)":"310.81",
         "NII  (X)":"240.49",
@@ -806,12 +830,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Bio Medica Laboratories",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 25, 2026",
         "QIB  (X)":"15.94",
         "NII  (X)":"1.3",
@@ -824,12 +847,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Biopol Chemicals",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 10, 2026",
         "QIB  (X)":"21.05",
         "NII  (X)":"24.49",
@@ -842,12 +864,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Black Opal Consultants",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 1, 2026",
         "QIB  (X)":"59.77",
         "NII  (X)":"124.29",
@@ -855,17 +876,33 @@
         "Total (X)":"73.80",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Black Opal Consultants",
-        "Company":"Black Opal Consultants(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Black Opal ConsultantsSME",
+        "Company":"Black Opal Consultants(C)SME",
         "GMP*":"\u20b966",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9197",
         "Est. Gain":"\u20b9263 (33.50%)",
-        "Date":"29-1 Oct",
-        "Type_gmp":"SME"
+        "Date":"29-1 Oct"
     },
     {
         "IPO":"Brandman Retail",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 6, 2026",
         "QIB  (X)":"85.24",
         "NII  (X)":"202.98",
@@ -878,12 +915,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"CKK Retail Mart",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 3, 2026",
         "QIB  (X)":"1.12",
         "NII  (X)":"1.52",
@@ -896,12 +932,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"CMR Green Technologies",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"June 5, 2026",
         "QIB  (X)":"270.46",
         "NII  (X)":"172.35",
@@ -914,12 +949,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"CSM Technologies",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"June 29, 2026",
         "QIB  (X)":"1.02",
         "NII  (X)":"1.54",
@@ -932,12 +966,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Caliber Mining",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 21, 2026",
         "QIB  (X)":"253.88",
         "NII  (X)":"281.99",
@@ -950,12 +983,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Central Mine Planning",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 24, 2026",
         "QIB  (X)":"3.48",
         "NII  (X)":"0.35",
@@ -968,12 +1000,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Century Business Media",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 16, 2026",
         "QIB  (X)":"47.53",
         "NII  (X)":"113.88",
@@ -986,12 +1017,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Citius Transnet InvIT",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"April 21, 2026",
         "QIB  (X)":"23.21",
         "NII  (X)":"17.09",
@@ -1004,12 +1034,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Clay Craft",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"119.19",
         "NII  (X)":"153.95",
@@ -1022,12 +1051,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Clean Max Enviro",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"February 25, 2026",
         "QIB  (X)":"2.99",
         "NII  (X)":"0.57",
@@ -1040,12 +1068,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Complete Sports & Management",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 1, 2026",
         "QIB  (X)":"7.34",
         "NII  (X)":"2.66",
@@ -1058,12 +1085,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Coreintegra Consulting",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"1.05",
         "NII  (X)":"1.46",
@@ -1076,12 +1102,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Crazy Snacks",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 30, 2026",
         "QIB  (X)":"4.75",
         "NII  (X)":"1.08",
@@ -1094,12 +1119,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Credent Connect N Care",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 17, 2026",
         "QIB  (X)":"130.4",
         "NII  (X)":"216.97",
@@ -1112,12 +1136,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Cube Highways Trust InvIT",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 24, 2026",
         "QIB  (X)":"13.2",
         "NII  (X)":"4.74",
@@ -1130,12 +1153,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Deepa Jewellers",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 3, 2026",
         "QIB  (X)":"4.12",
         "NII  (X)":"17.45",
@@ -1148,12 +1170,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Defrail Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 13, 2026",
         "QIB  (X)":"71.09",
         "NII  (X)":"160.95",
@@ -1166,12 +1187,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Devson Catalyst",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 13, 2026",
         "QIB  (X)":"168.56",
         "NII  (X)":"261.22",
@@ -1184,12 +1204,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Dhanwel Hybrid Seeds",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 21, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"0.24",
@@ -1202,12 +1221,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Dhaval Packaging",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 3, 2026",
         "QIB  (X)":"56.38",
         "NII  (X)":"75.35",
@@ -1220,12 +1238,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Dhoot Transmission",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 12, 2026",
         "QIB  (X)":"209.02",
         "NII  (X)":"53.13",
@@ -1238,12 +1255,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Digilogic Systems",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 22, 2026",
         "QIB  (X)":"1.6",
         "NII  (X)":"0.42",
@@ -1256,12 +1272,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Diksha Polymers",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"2.63",
@@ -1274,12 +1289,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Dove Soft",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"1.19",
@@ -1287,17 +1301,33 @@
         "Total (X)":"0.86",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Dove Soft",
-        "Company":"Dove Soft(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Dove SoftSME",
+        "Company":"Dove Soft(O)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9111",
         "Est. Gain":"\u20b9111 (0.00%)",
-        "Date":"30-5 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-5 Oct"
     },
     {
         "IPO":"Dudani Retail",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"0.52",
@@ -1305,17 +1335,33 @@
         "Total (X)":"1.42",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Dudani Retail",
-        "Company":"Dudani Retail(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Dudani RetailSME",
+        "Company":"Dudani Retail(C)SME",
         "GMP*":"\u20b91",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b929",
         "Est. Gain":"\u20b930 (3.45%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"SME"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"ENS Enterprises",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 18, 2026",
         "QIB  (X)":"9.44",
         "NII  (X)":"22.89",
@@ -1328,12 +1374,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"ESDS Software",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 1, 2026",
         "QIB  (X)":"274.97",
         "NII  (X)":"202.87",
@@ -1346,12 +1391,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Elevate Campuses",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"2.66",
         "NII  (X)":"0.87",
@@ -1364,12 +1408,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Elfin Agro",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 9, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"2.12",
@@ -1382,12 +1425,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Emiac Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"April 8, 2026",
         "QIB  (X)":"1.02",
         "NII  (X)":"4.96",
@@ -1400,12 +1442,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Eventions",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"26.18",
         "NII  (X)":"0.06",
@@ -1413,17 +1454,33 @@
         "Total (X)":"1.79",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Eventions",
-        "Company":"Eventions(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"EventionsSME",
+        "Company":"Eventions(O)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9118",
         "Est. Gain":"\u20b9118 (0.00%)",
-        "Date":"30-5 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-5 Oct"
     },
     {
         "IPO":"EverestIMS Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"0.87",
         "NII  (X)":"1.50",
@@ -1431,17 +1488,33 @@
         "Total (X)":"1.70",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"EverestIMS Technologies",
-        "Company":"EverestIMS Technologies(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"EverestIMS TechnologiesSME",
+        "Company":"EverestIMS Technologies(O)SME",
         "GMP*":"\u20b928",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b985",
         "Est. Gain":"\u20b9113 (32.94%)",
-        "Date":"29-5 Oct",
-        "Type_gmp":"SME"
+        "Date":"29-5 Oct"
     },
     {
         "IPO":"FX Multitech",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 23, 2026",
         "QIB  (X)":"20.95",
         "NII  (X)":"25.98",
@@ -1454,12 +1527,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Farm Peace",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 3, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"1.73",
@@ -1472,12 +1544,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Fascinate Textiles",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 19, 2026",
         "QIB  (X)":"22.74",
         "NII  (X)":"1.06",
@@ -1490,12 +1561,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Fly-Hi Maritime",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 3, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"0.58",
@@ -1508,12 +1578,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Fractal Analytics",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"February 11, 2026",
         "QIB  (X)":"4.41",
         "NII  (X)":"1.11",
@@ -1526,12 +1595,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Fractal Industries",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 18, 2026",
         "QIB  (X)":"5.95",
         "NII  (X)":"7.91",
@@ -1544,12 +1612,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Fusion Klassroom",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 4, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"1.47",
@@ -1562,12 +1629,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"G.V. Electricals",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 7, 2026",
         "QIB  (X)":"91.55",
         "NII  (X)":"272.79",
@@ -1580,12 +1646,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"GRE Renew Enertech",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 16, 2026",
         "QIB  (X)":"14.69",
         "NII  (X)":"24.67",
@@ -1598,12 +1663,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"GSP Crop Science",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 18, 2026",
         "QIB  (X)":"2.66",
         "NII  (X)":"3.14",
@@ -1616,12 +1680,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Gabion Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 8, 2026",
         "QIB  (X)":"271.13",
         "NII  (X)":"1,467.78",
@@ -1634,12 +1697,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Gaja Alternative",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 21, 2026",
         "QIB  (X)":"45.87",
         "NII  (X)":"65.63",
@@ -1652,12 +1714,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Gaudium IVF",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"February 24, 2026",
         "QIB  (X)":"1.62",
         "NII  (X)":"14.05",
@@ -1670,12 +1731,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Genxai Analytics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 9, 2026",
         "QIB  (X)":"17.58",
         "NII  (X)":"30.91",
@@ -1688,12 +1748,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"German Green Steel",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"21.91",
         "NII  (X)":"56.77",
@@ -1701,17 +1760,33 @@
         "Total (X)":"30.42",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"German Green Steel",
-        "Company":"German Green Steel(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"German Green SteelMainboard",
+        "Company":"German Green Steel(C)Mainboard",
         "GMP*":"\u20b914",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9139",
         "Est. Gain":"\u20b9153 (10.07%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"Mainboard"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"Glass Wall Systems",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 10, 2026",
         "QIB  (X)":"167.93",
         "NII  (X)":"79.71",
@@ -1724,12 +1799,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Goldline Pharmaceutical",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 14, 2026",
         "QIB  (X)":"180.22",
         "NII  (X)":"1,662.04",
@@ -1742,12 +1816,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Green Asia Impex",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 1, 2026",
         "QIB  (X)":"2.06",
         "NII  (X)":"0.64",
@@ -1755,17 +1828,33 @@
         "Total (X)":"1.04",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Green Asia Impex",
-        "Company":"Green Asia Impex(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Green Asia ImpexSME",
+        "Company":"Green Asia Impex(C)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b990",
         "Est. Gain":"\u20b990 (0.00%)",
-        "Date":"24-1 Oct",
-        "Type_gmp":"SME"
+        "Date":"24-1 Oct"
     },
     {
         "IPO":"Grover Jewells",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 6, 2026",
         "QIB  (X)":"11.32",
         "NII  (X)":"37.57",
@@ -1778,12 +1867,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Gulf Lloyds",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 22, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"2.86",
@@ -1796,12 +1884,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"H.R. Hygiene Products",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 31, 2026",
         "QIB  (X)":"2.81",
         "NII  (X)":"11.83",
@@ -1814,12 +1901,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Hannah Joseph Hospital",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 28, 2026",
         "QIB  (X)":"1.08",
         "NII  (X)":"1.98",
@@ -1832,12 +1918,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Happy Steels",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 13, 2026",
         "QIB  (X)":"59.01",
         "NII  (X)":"113.6",
@@ -1850,12 +1935,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Harikanta Overseas",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 27, 2026",
         "QIB  (X)":"21.33",
         "NII  (X)":"0.7",
@@ -1868,12 +1952,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Hero Motors",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 18, 2026",
         "QIB  (X)":"1.59",
         "NII  (X)":"10.47",
@@ -1886,12 +1969,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Hexagon Nutrition",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"June 9, 2026",
         "QIB  (X)":"19.77",
         "NII  (X)":"161.49",
@@ -1904,12 +1986,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Highness Microelectronics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 27, 2026",
         "QIB  (X)":"81.95",
         "NII  (X)":"362.12",
@@ -1922,12 +2003,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Himalaya Nutravedics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 24, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"3.58",
@@ -1940,12 +2020,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Himalayan Solar",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"1.66",
         "NII  (X)":"0.94",
@@ -1953,17 +2032,33 @@
         "Total (X)":"1.19",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Himalayan Solar",
-        "Company":"Himalayan Solar(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Himalayan SolarSME",
+        "Company":"Himalayan Solar(C)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9103",
         "Est. Gain":"\u20b9103 (0.00%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"SME"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"Horizon Industrial Parks",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 19, 2026",
         "QIB  (X)":"1.94",
         "NII  (X)":"1.03",
@@ -1976,12 +2071,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Horizon Reclaim",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 16, 2026",
         "QIB  (X)":"186.72",
         "NII  (X)":"450.74",
@@ -1994,12 +2088,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Hy-Tech Engineers",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 27, 2026",
         "QIB  (X)":"249.71",
         "NII  (X)":"412.95",
@@ -2012,12 +2105,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"IC Electricals",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 7, 2026",
         "QIB  (X)":"241.75",
         "NII  (X)":"764.38",
@@ -2030,12 +2122,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"INDO SMC",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 16, 2026",
         "QIB  (X)":"94.94",
         "NII  (X)":"164.59",
@@ -2048,12 +2139,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Indo-MIM",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 27, 2026",
         "QIB  (X)":"204.47",
         "NII  (X)":"50.65",
@@ -2066,12 +2156,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Infrax Renewable",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"1.39",
@@ -2084,12 +2173,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Injecto Polymers",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 16, 2026",
         "QIB  (X)":"1.57",
         "NII  (X)":"1.05",
@@ -2102,12 +2190,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Innovision",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 17, 2026",
         "QIB  (X)":"14.3",
         "NII  (X)":"8.6",
@@ -2120,12 +2207,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Jindal Supreme",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 18, 2026",
         "QIB  (X)":"126.41",
         "NII  (X)":"326.84",
@@ -2138,12 +2224,28 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Jio PlatformMainboard",
+        "Company":"Jio Platform(U)Mainboard",
+        "GMP*":"\u20b9150",
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b9-",
+        "Est. Gain":"\u20b9- (0.00%)",
+        "Date":"21-23 Oct*"
     },
     {
         "IPO":"Jivial Industries",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 25, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"1.57",
@@ -2156,12 +2258,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Juniper Green Energy",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 3, 2026",
         "QIB  (X)":"26.22",
         "NII  (X)":"1.92",
@@ -2174,12 +2275,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"KRM Ayurveda",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 23, 2026",
         "QIB  (X)":"63.31",
         "NII  (X)":"135.37",
@@ -2192,12 +2292,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kanishk Aluminium",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 30, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.23",
@@ -2210,12 +2309,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kanohar Electricals",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 10, 2026",
         "QIB  (X)":"215.37",
         "NII  (X)":"87.74",
@@ -2228,12 +2326,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Karamtara Engineering",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"168.19",
         "NII  (X)":"51.17",
@@ -2246,12 +2343,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kasturi Metal Composite",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 29, 2026",
         "QIB  (X)":"4",
         "NII  (X)":"38.88",
@@ -2264,12 +2360,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kheria Autocomp",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 21, 2026",
         "QIB  (X)":"1.05",
         "NII  (X)":"2.97",
@@ -2282,12 +2377,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kiaasa Retail",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 25, 2026",
         "QIB  (X)":"14.98",
         "NII  (X)":"1.16",
@@ -2300,12 +2394,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kissht",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"May 5, 2026",
         "QIB  (X)":"25.97",
         "NII  (X)":"6.9",
@@ -2318,12 +2411,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Knack Packaging",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 3, 2026",
         "QIB  (X)":"160.22",
         "NII  (X)":"146.64",
@@ -2336,12 +2428,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kratikal Tech",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 2, 2026",
         "QIB  (X)":"145.82",
         "NII  (X)":"324.64",
@@ -2354,12 +2445,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kusumgar",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 10, 2026",
         "QIB  (X)":"299.51",
         "NII  (X)":"174.28",
@@ -2372,12 +2462,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Kwick Forensic Solutions",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 31, 2026",
         "QIB  (X)":"224.32",
         "NII  (X)":"318.11",
@@ -2390,12 +2479,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"LAPL Automotive",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 10, 2026",
         "QIB  (X)":"200.23",
         "NII  (X)":"433.25",
@@ -2408,12 +2496,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"LCC Projects",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"78.73",
         "NII  (X)":"64.91",
@@ -2426,12 +2513,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"LEAP India",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 11, 2026",
         "QIB  (X)":"17.73",
         "NII  (X)":"13.31",
@@ -2444,12 +2530,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Lalithaa Jewellery Mart",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 19, 2026",
         "QIB  (X)":"153.8",
         "NII  (X)":"78.17",
@@ -2462,12 +2547,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Laser Power & Infra",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 13, 2026",
         "QIB  (X)":"97.25",
         "NII  (X)":"45.69",
@@ -2480,12 +2564,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Leapfrog Engineering",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"20.32",
         "NII  (X)":"5.1",
@@ -2498,12 +2581,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Liotech Industries",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 19, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.85",
@@ -2516,12 +2598,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Liqvd Digital",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"20.99",
@@ -2534,12 +2615,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Lohia Corp",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 27, 2026",
         "QIB  (X)":"9.11",
         "NII  (X)":"6.82",
@@ -2552,12 +2632,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Lumino Industries",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 31, 2026",
         "QIB  (X)":"232.79",
         "NII  (X)":"185.02",
@@ -2570,12 +2649,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"M R Maniveni Foods",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 26, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"1.88",
@@ -2588,12 +2666,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"MV Electrosystems",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 3, 2026",
         "QIB  (X)":"96.13",
         "NII  (X)":"363.27",
@@ -2606,12 +2683,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Madhur Knit Crafts",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 27, 2026",
         "QIB  (X)":"1.01",
         "NII  (X)":"0.74",
@@ -2624,12 +2700,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Maharaja & Speedex India",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 15, 2026",
         "QIB  (X)":"48.82",
         "NII  (X)":"40.32",
@@ -2642,12 +2717,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Manika Plastech",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 16, 2026",
         "QIB  (X)":"11.22",
         "NII  (X)":"66.58",
@@ -2660,12 +2734,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Manilam Industries",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 24, 2026",
         "QIB  (X)":"2.24",
         "NII  (X)":"12.49",
@@ -2678,12 +2751,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Manipal Health",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 31, 2026",
         "QIB  (X)":"8.54",
         "NII  (X)":"1.06",
@@ -2696,12 +2768,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Manipal Payment",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"1.26",
         "NII  (X)":"1.22",
@@ -2714,12 +2785,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Marushika Technology",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 16, 2026",
         "QIB  (X)":"2.92",
         "NII  (X)":"41",
@@ -2732,12 +2802,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Mehul Telecom",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"April 21, 2026",
         "QIB  (X)":"32.5",
         "NII  (X)":"79.38",
@@ -2750,12 +2819,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Merritronix",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 3, 2026",
         "QIB  (X)":"224.91",
         "NII  (X)":"476.59",
@@ -2768,12 +2836,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Metalic Technoforge",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 23, 2026",
         "QIB  (X)":"4.58",
         "NII  (X)":"17.07",
@@ -2786,12 +2853,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Milky Mist",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 13, 2026",
         "QIB  (X)":"164.03",
         "NII  (X)":"36.75",
@@ -2804,12 +2870,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Millworks Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 16, 2026",
         "QIB  (X)":"194.05",
         "NII  (X)":"260.37",
@@ -2822,12 +2887,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Mobilise App",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 25, 2026",
         "QIB  (X)":"49.16",
         "NII  (X)":"175.72",
@@ -2840,12 +2904,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Molbio Diagnostics",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 12, 2026",
         "QIB  (X)":"186.39",
         "NII  (X)":"49.8",
@@ -2858,12 +2921,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Moneyview",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 28, 2026",
         "QIB  (X)":"230.54",
         "NII  (X)":"120.37",
@@ -2876,12 +2938,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Mopshop Distribution",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 21, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.27",
@@ -2894,12 +2955,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Msafe Equipments",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 30, 2026",
         "QIB  (X)":"117.97",
         "NII  (X)":"308.23",
@@ -2912,12 +2972,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"NFP Sampoorna Foods",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 20, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"0.34",
@@ -2930,12 +2989,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"NSE",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 21, 2026",
         "QIB  (X)":"12.68",
         "NII  (X)":"6.54",
@@ -2948,12 +3006,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Narmadesh Brass",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 16, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"1.92",
@@ -2966,12 +3023,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Nityas Gems",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"0.38",
         "NII  (X)":"0.27",
@@ -2979,17 +3035,33 @@
         "Total (X)":"0.69",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Nityas Gems",
-        "Company":"Nityas Gems(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Nityas GemsMainboard",
+        "Company":"Nityas Gems(O)Mainboard",
         "GMP*":"\u20b93",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b975",
         "Est. Gain":"\u20b978 (4.00%)",
-        "Date":"30-5 Oct",
-        "Type_gmp":"Mainboard"
+        "Date":"30-5 Oct"
     },
     {
         "IPO":"Novus Loyalty",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 20, 2026",
         "QIB  (X)":"1.38",
         "NII  (X)":"1.17",
@@ -3002,12 +3074,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Om Galaxy",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 15, 2026",
         "QIB  (X)":"5.17",
         "NII  (X)":"1.04",
@@ -3020,12 +3091,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Om Power Transmission",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"April 13, 2026",
         "QIB  (X)":"3.65",
         "NII  (X)":"7.06",
@@ -3038,12 +3108,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Omara Ventures",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"1.07",
@@ -3051,17 +3120,33 @@
         "Total (X)":"0.69",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Omara Ventures",
-        "Company":"Omara Ventures(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Omara VenturesSME",
+        "Company":"Omara Ventures(O)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9311",
         "Est. Gain":"\u20b9311 (0.00%)",
-        "Date":"30-5 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-5 Oct"
     },
     {
         "IPO":"Omnitech Engineering",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"February 27, 2026",
         "QIB  (X)":"3",
         "NII  (X)":"0.77",
@@ -3074,12 +3159,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Oneindig Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 3, 2026",
         "QIB  (X)":"1.05",
         "NII  (X)":"2.4",
@@ -3092,12 +3176,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Optimystix Entertainment",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 11, 2026",
         "QIB  (X)":"1.84",
         "NII  (X)":"1.85",
@@ -3110,12 +3193,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Orient Cables",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"192.68",
         "NII  (X)":"121.90",
@@ -3123,17 +3205,33 @@
         "Total (X)":"97.28",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Orient Cables",
-        "Company":"Orient Cables(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Orient CablesMainboard",
+        "Company":"Orient Cables(C)Mainboard",
         "GMP*":"\u20b9107",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9272",
         "Est. Gain":"\u20b9379 (39.34%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"Mainboard"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"PAN HR Solutions",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 10, 2026",
         "QIB  (X)":"6.57",
         "NII  (X)":"25.41",
@@ -3146,12 +3244,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"PNGS Reva Diamond",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"February 26, 2026",
         "QIB  (X)":"1.1",
         "NII  (X)":"1.62",
@@ -3164,12 +3261,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Paluck Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 1, 2026",
         "QIB  (X)":"83.89",
         "NII  (X)":"286.73",
@@ -3182,12 +3278,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Panchatv Bharat",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 15, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"0.39",
@@ -3200,12 +3295,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Papadmalji Agro",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 1, 2026",
         "QIB  (X)":"86.85",
         "NII  (X)":"1.32",
@@ -3213,17 +3307,33 @@
         "Total (X)":"2.54",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Papadmalji Agro",
-        "Company":"Papadmalji Agro(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Papadmalji AgroSME",
+        "Company":"Papadmalji Agro(C)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b972",
         "Est. Gain":"\u20b972 (0.00%)",
-        "Date":"29-1 Oct",
-        "Type_gmp":"SME"
+        "Date":"29-1 Oct"
     },
     {
         "IPO":"Paramount Syntex",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 6, 2026",
         "QIB  (X)":"119.29",
         "NII  (X)":"0.02",
@@ -3231,17 +3341,33 @@
         "Total (X)":"1.35",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Paramount Syntex",
-        "Company":"Paramount Syntex(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Paramount SyntexSME",
+        "Company":"Paramount Syntex(O)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9127",
         "Est. Gain":"\u20b9127 (0.00%)",
-        "Date":"30-6 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-6 Oct"
     },
     {
         "IPO":"Peshwa Wheat",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 28, 2026",
         "QIB  (X)":"177.12",
         "NII  (X)":"0.35",
@@ -3254,12 +3380,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Phychem Technologies",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 2, 2026",
         "QIB  (X)":"4.31",
         "NII  (X)":"42.41",
@@ -3272,12 +3397,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Pind Hospitality",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 30, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"1.15",
@@ -3285,17 +3409,33 @@
         "Total (X)":"2.71",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Pind Hospitality",
-        "Company":"Pind Hospitality(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Pind HospitalitySME",
+        "Company":"Pind Hospitality(C)SME",
         "GMP*":"\u20b91",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b999",
         "Est. Gain":"\u20b9100 (1.01%)",
-        "Date":"28-30 Sep",
-        "Type_gmp":"SME"
+        "Date":"28-30 Sep"
     },
     {
         "IPO":"Pooja Logistics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"2.50",
         "NII  (X)":"4.81",
@@ -3308,12 +3448,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Poojaa Precision",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 30, 2026",
         "QIB  (X)":"206.46",
         "NII  (X)":"463.43",
@@ -3326,12 +3465,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Powerica",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 27, 2026",
         "QIB  (X)":"4.74",
         "NII  (X)":"0.47",
@@ -3344,12 +3482,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Pramodini Medicare",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 14, 2026",
         "QIB  (X)":"3.66",
         "NII  (X)":"4.96",
@@ -3362,12 +3499,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Pranav Constructions",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 9, 2026",
         "QIB  (X)":"268.54",
         "NII  (X)":"217.73",
@@ -3380,12 +3516,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Prasol Chemicals",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 10, 2026",
         "QIB  (X)":"7.59",
         "NII  (X)":"1.89",
@@ -3398,12 +3533,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Priority Jewels",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 1, 2026",
         "QIB  (X)":"39.87",
         "NII  (X)":"166.49",
@@ -3416,12 +3550,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Propshare Celestia",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"April 16, 2026",
         "QIB  (X)":"0.17",
         "NII  (X)":"4.81",
@@ -3434,12 +3567,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Propshop Events",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 29, 2026",
         "QIB  (X)":"1.37",
         "NII  (X)":"1.38",
@@ -3452,12 +3584,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Purple Style Labs",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 2, 2026",
         "QIB  (X)":"1.50",
         "NII  (X)":"0.89",
@@ -3470,12 +3601,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Q&T Foods",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 14, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.2",
@@ -3488,12 +3618,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Q-Line Biotech",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 25, 2026",
         "QIB  (X)":"123.94",
         "NII  (X)":"145.98",
@@ -3506,12 +3635,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Qualiance International",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 8, 2026",
         "QIB  (X)":"299.60",
         "NII  (X)":"699.59",
@@ -3524,12 +3652,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Quanto Agroworld",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 17, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"1.66",
@@ -3542,30 +3669,28 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":null,
-        "Type_sub":null,
+        "Type":null,
         "Closing Date":null,
         "QIB  (X)":null,
         "NII  (X)":null,
         "Retail  (X)":null,
         "Total (X)":null,
         "Last Updated":null,
-        "Normalized_IPO_Name":"R.K.Fashion",
-        "Company":"R.K.Fashion(U)",
+        "Normalized_IPO_Name":"R.K.FashionSME",
+        "Company":"R.K.Fashion(U)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b982",
         "Est. Gain":"\u20b982 (0.00%)",
-        "Date":"5-7 Oct",
-        "Type_gmp":"SME"
+        "Date":"5-7 Oct"
     },
     {
         "IPO":"RFBL Flexi Pack",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 14, 2026",
         "QIB  (X)":"124.39",
         "NII  (X)":"24.12",
@@ -3578,12 +3703,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Raajmarg Infra InvIT",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 13, 2026",
         "QIB  (X)":"19.14",
         "NII  (X)":"7.26",
@@ -3596,12 +3720,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Rajnandini Fashion",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 29, 2026",
         "QIB  (X)":"122.04",
         "NII  (X)":"393.63",
@@ -3614,12 +3737,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Rajputana Stainless",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 11, 2026",
         "QIB  (X)":"2.51",
         "NII  (X)":"2.59",
@@ -3632,12 +3754,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Raksan Transformers",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 15, 2026",
         "QIB  (X)":"70.51",
         "NII  (X)":"60.46",
@@ -3650,12 +3771,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Rays of Belief",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 3, 2026",
         "QIB  (X)":"9.06",
         "NII  (X)":"279.11",
@@ -3668,12 +3788,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Recode Studios",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 7, 2026",
         "QIB  (X)":"137.99",
         "NII  (X)":"404.76",
@@ -3686,12 +3805,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Rentomojo",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"177.29",
         "NII  (X)":"67.93",
@@ -3704,12 +3822,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Riyaasat Lifestyle",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 25, 2026",
         "QIB  (X)":"20.33",
         "NII  (X)":"0.09",
@@ -3722,12 +3839,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Robokidz Eduventures",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 23, 2026",
         "QIB  (X)":"306.73",
         "NII  (X)":"1,307.47",
@@ -3740,12 +3856,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Roopa Screen",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 28, 2026",
         "QIB  (X)":"44.81",
         "NII  (X)":"421.94",
@@ -3758,12 +3873,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Runwal Enterprises",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"4.10",
         "NII  (X)":"4.14",
@@ -3771,17 +3885,33 @@
         "Total (X)":"2.64",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Runwal Enterprises",
-        "Company":"Runwal Enterprises(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Runwal EnterprisesMainboard",
+        "Company":"Runwal Enterprises(C)Mainboard",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b9305",
         "Est. Gain":"\u20b9305 (0.00%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"Mainboard"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"S.K.Offset",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"2.61",
         "NII  (X)":"0.80",
@@ -3794,12 +3924,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"SBI Funds Management",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 16, 2026",
         "QIB  (X)":"140.11",
         "NII  (X)":"22.51",
@@ -3812,12 +3941,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"SEDEMAC Mechatronics",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 6, 2026",
         "QIB  (X)":"8.46",
         "NII  (X)":"0.77",
@@ -3830,12 +3958,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"SJP Ultrasonic",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"0.85",
@@ -3843,17 +3970,33 @@
         "Total (X)":"0.54",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"SJP Ultrasonic",
-        "Company":"SJP Ultrasonic(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"SJP UltrasonicSME",
+        "Company":"SJP Ultrasonic(O)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b967",
         "Est. Gain":"\u20b967 (0.00%)",
-        "Date":"30-5 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-5 Oct"
     },
     {
         "IPO":"SMR Jewels",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 3, 2026",
         "QIB  (X)":"5.41",
         "NII  (X)":"1",
@@ -3866,12 +4009,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"SRIT India",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 30, 2026",
         "QIB  (X)":"91.84",
         "NII  (X)":"312.99",
@@ -3879,17 +4021,33 @@
         "Total (X)":"125.16",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"SRIT India",
-        "Company":"SRIT India(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"SRIT IndiaMainboard",
+        "Company":"SRIT India(C)Mainboard",
         "GMP*":"\u20b948",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9130",
         "Est. Gain":"\u20b9178 (36.92%)",
-        "Date":"28-30 Sep",
-        "Type_gmp":"Mainboard"
+        "Date":"28-30 Sep"
     },
     {
         "IPO":"SS Retail",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 18, 2026",
         "QIB  (X)":"214.22",
         "NII  (X)":"150.33",
@@ -3902,12 +4060,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Safety Controls",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"April 8, 2026",
         "QIB  (X)":"1.31",
         "NII  (X)":"2.45",
@@ -3920,12 +4077,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Sai Parenteral\u2019s",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"March 27, 2026",
         "QIB  (X)":"1.73",
         "NII  (X)":"2.45",
@@ -3938,12 +4094,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Sai Urja",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 29, 2026",
         "QIB  (X)":"2.80",
         "NII  (X)":"9.90",
@@ -3951,17 +4106,33 @@
         "Total (X)":"4.95",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Sai Urja",
-        "Company":"Sai Urja(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Sai UrjaSME",
+        "Company":"Sai Urja(C)SME",
         "GMP*":"\u20b98",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9113",
         "Est. Gain":"\u20b9121 (7.08%)",
-        "Date":"25-29 Sep",
-        "Type_gmp":"SME"
+        "Date":"25-29 Sep"
     },
     {
         "IPO":"Sampark India Logistics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 2, 2026",
         "QIB  (X)":"1.55",
         "NII  (X)":"10.11",
@@ -3974,12 +4145,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Seemax Resources",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 2, 2026",
         "QIB  (X)":"17.19",
         "NII  (X)":"4.08",
@@ -3992,12 +4162,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shadowfax",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"January 22, 2026",
         "QIB  (X)":"4",
         "NII  (X)":"0.88",
@@ -4010,12 +4179,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shah Investor's",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 30, 2026",
         "QIB  (X)":"28.05",
         "NII  (X)":"95.54",
@@ -4023,17 +4191,33 @@
         "Total (X)":"38.12",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Shah Investor's",
-        "Company":"Shah Investor's(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Shah Investor'sMainboard",
+        "Company":"Shah Investor's(C)Mainboard",
         "GMP*":"\u20b912",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9167",
         "Est. Gain":"\u20b9179 (7.19%)",
-        "Date":"28-30 Sep",
-        "Type_gmp":"Mainboard"
+        "Date":"28-30 Sep"
     },
     {
         "IPO":"Shakti Polytarp",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 17, 2026",
         "QIB  (X)":"49.22",
         "NII  (X)":"5.43",
@@ -4046,12 +4230,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Sham Foam",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 13, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"2.17",
@@ -4064,12 +4247,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shankesh Jewellers",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 20, 2026",
         "QIB  (X)":"1.32",
         "NII  (X)":"5.68",
@@ -4082,12 +4264,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shanti Inorganics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 2, 2026",
         "QIB  (X)":"130.97",
         "NII  (X)":"195.53",
@@ -4100,12 +4281,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shayona Engineering",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 27, 2026",
         "QIB  (X)":"3.33",
         "NII  (X)":"9.3",
@@ -4118,12 +4298,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shiprocket",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 14, 2026",
         "QIB  (X)":"125.2",
         "NII  (X)":"92.58",
@@ -4136,12 +4315,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shivchem Agro",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 30, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"1.00",
@@ -4149,17 +4327,33 @@
         "Total (X)":"2.20",
         "Last Updated":"17:48",
         "Normalized_IPO_Name":"Shivchem Agro",
-        "Company":"Shivchem Agro(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Shivchem AgroSME",
+        "Company":"Shivchem Agro(C)SME",
         "GMP*":"\u20b91",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b962",
         "Est. Gain":"\u20b963 (1.61%)",
-        "Date":"28-30 Sep",
-        "Type_gmp":"SME"
+        "Date":"28-30 Sep"
     },
     {
         "IPO":"Shree Balaji (Mala) Textiles",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 24, 2026",
         "QIB  (X)":"113.55",
         "NII  (X)":"249.47",
@@ -4172,12 +4366,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shree Ram Twistex",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"February 25, 2026",
         "QIB  (X)":"3.94",
         "NII  (X)":"220.3",
@@ -4190,12 +4383,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Shree TNB Polymers",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"0.75",
         "NII  (X)":"1.60",
@@ -4203,17 +4395,33 @@
         "Total (X)":"0.98",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Shree TNB Polymers",
-        "Company":"Shree TNB Polymers(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Shree TNB PolymersSME",
+        "Company":"Shree TNB Polymers(C)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b952",
         "Est. Gain":"\u20b952 (0.00%)",
-        "Date":"28-5 Oct",
-        "Type_gmp":"SME"
+        "Date":"28-5 Oct"
     },
     {
         "IPO":"Shreedhar Spinners",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 25, 2026",
         "QIB  (X)":"2.51",
         "NII  (X)":"14.58",
@@ -4226,12 +4434,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Silverstorm Parks",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 28, 2026",
         "QIB  (X)":"1.81",
         "NII  (X)":"3.19",
@@ -4244,12 +4451,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Simca Advertising",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 12, 2026",
         "QIB  (X)":"101.08",
         "NII  (X)":"81.54",
@@ -4262,12 +4468,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Skytech Infinite Platform",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 18, 2026",
         "QIB  (X)":"1.06",
         "NII  (X)":"0.72",
@@ -4280,12 +4485,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Skyways Air",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 27, 2026",
         "QIB  (X)":"139.69",
         "NII  (X)":"87.24",
@@ -4298,12 +4502,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Sollfege Smart Electronics",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.0",
@@ -4311,17 +4514,33 @@
         "Total (X)":"1.86",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Sollfege Smart Electronics",
-        "Company":"Sollfege Smart Electronics(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Sollfege Smart ElectronicsSME",
+        "Company":"Sollfege Smart Electronics(O)SME",
         "GMP*":"\u20b90",
         "Trend":"\ud83d\udfe1",
         "Price Band":"\u20b955",
         "Est. Gain":"\u20b955 (0.00%)",
-        "Date":"30-5 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-5 Oct"
     },
     {
         "IPO":"Sonaselection India",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 21, 2026",
         "QIB  (X)":"1.16",
         "NII  (X)":"1.99",
@@ -4334,12 +4553,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Sotefin Bharat",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 20, 2026",
         "QIB  (X)":"2.82",
         "NII  (X)":"6.05",
@@ -4352,12 +4570,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Speciality Medicines",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 24, 2026",
         "QIB  (X)":"96.24",
         "NII  (X)":"1.88",
@@ -4370,12 +4587,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"SpectraA Technology",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 21, 2026",
         "QIB  (X)":"184.55",
         "NII  (X)":"441.66",
@@ -4388,12 +4604,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Srinibas Pradhan",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 10, 2026",
         "QIB  (X)":"1.13",
         "NII  (X)":"1.57",
@@ -4406,12 +4621,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Steamhouse India",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"46.19",
         "NII  (X)":"46.60",
@@ -4424,12 +4638,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Striders Impex",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 2, 2026",
         "QIB  (X)":"2.03",
         "NII  (X)":"1.58",
@@ -4442,12 +4655,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Sumax Engineering",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 28, 2026",
         "QIB  (X)":"121.28",
         "NII  (X)":"270.67",
@@ -4460,12 +4672,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Sunshine Pictures",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 20, 2026",
         "QIB  (X)":"123.52",
         "NII  (X)":"197.04",
@@ -4478,12 +4689,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Susan Electricals",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 15, 2026",
         "QIB  (X)":"142.65",
         "NII  (X)":"336",
@@ -4496,12 +4706,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Swastika Infra",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"3.31",
         "NII  (X)":"19.30",
@@ -4514,12 +4723,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Symbiotec Pharmalab",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 27, 2026",
         "QIB  (X)":"181.20",
         "NII  (X)":"77.56",
@@ -4532,12 +4740,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"TNA Solutions",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 6, 2026",
         "QIB  (X)":"4.77",
         "NII  (X)":"0.12",
@@ -4545,17 +4752,33 @@
         "Total (X)":"1.71",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"TNA Solutions",
-        "Company":"TNA Solutions(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"TNA SolutionsSME",
+        "Company":"TNA Solutions(O)SME",
         "GMP*":"\u20b96",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b970",
         "Est. Gain":"\u20b976 (8.57%)",
-        "Date":"30-6 Oct",
-        "Type_gmp":"SME"
+        "Date":"30-6 Oct"
     },
     {
         "IPO":"Teamtech Formwork",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 21, 2026",
         "QIB  (X)":"3.58",
         "NII  (X)":"12.05",
@@ -4568,12 +4791,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Technocraft Ventures",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 11, 2026",
         "QIB  (X)":"42.26",
         "NII  (X)":"65.06",
@@ -4586,12 +4808,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Technocrats Plasma",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"August 18, 2026",
         "QIB  (X)":"169.54",
         "NII  (X)":"311.97",
@@ -4604,12 +4825,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Teja Engineering",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 2, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"1.81",
@@ -4622,12 +4842,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Tempsens Instruments",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"August 24, 2026",
         "QIB  (X)":"302.88",
         "NII  (X)":"314.44",
@@ -4640,12 +4859,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Tipco Engineering",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 25, 2026",
         "QIB  (X)":"3.2",
         "NII  (X)":"2.12",
@@ -4658,12 +4876,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Turtlemint Fintech",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"June 23, 2026",
         "QIB  (X)":"1.63",
         "NII  (X)":"0.55",
@@ -4676,12 +4893,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"UHM Vacation",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 8, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"0.86",
@@ -4694,12 +4910,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Unitec Fibres",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 25, 2026",
         "QIB  (X)":"5.30",
         "NII  (X)":"4.74",
@@ -4712,12 +4927,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Utkal Speciality Industries",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 12, 2026",
         "QIB  (X)":"1.12",
         "NII  (X)":"0.89",
@@ -4730,12 +4944,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vahh Chemicals",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"June 8, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"74.08",
@@ -4748,12 +4961,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Value 360 Communications",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 6, 2026",
         "QIB  (X)":"17",
         "NII  (X)":"1.24",
@@ -4766,12 +4978,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vama Wovenfab",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 17, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"2.22",
@@ -4784,12 +4995,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vans Electroengineerings",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"October 1, 2026",
         "QIB  (X)":"281.65",
         "NII  (X)":"1,031.87",
@@ -4797,17 +5007,33 @@
         "Total (X)":"628.73",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Vans Electroengineerings",
-        "Company":"Vans Electroengineerings(C)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Vans ElectroengineeringsSME",
+        "Company":"Vans Electroengineerings(C)SME",
         "GMP*":"\u20b970",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9118",
         "Est. Gain":"\u20b9188 (59.32%)",
-        "Date":"29-1 Oct",
-        "Type_gmp":"SME"
+        "Date":"29-1 Oct"
     },
     {
         "IPO":"Varmora Granito",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 24, 2026",
         "QIB  (X)":"3.10",
         "NII  (X)":"0.94",
@@ -4820,12 +5046,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Veegaland Developers",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"September 15, 2026",
         "QIB  (X)":"19.13",
         "NII  (X)":"19.41",
@@ -4838,12 +5063,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vegorama Punjabi Angithi",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 22, 2026",
         "QIB  (X)":"26.46",
         "NII  (X)":"63.93",
@@ -4856,12 +5080,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Victory Electric Vehicles",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 9, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.91",
@@ -4874,12 +5097,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vinit Mobile",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"July 2, 2026",
         "QIB  (X)":"1",
         "NII  (X)":"0.8",
@@ -4892,12 +5114,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vinod Texworld",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 11, 2026",
         "QIB  (X)":"0.00",
         "NII  (X)":"0.30",
@@ -4910,12 +5131,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vishal Nirmiti",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"October 5, 2026",
         "QIB  (X)":"1.00",
         "NII  (X)":"0.84",
@@ -4923,17 +5143,33 @@
         "Total (X)":"0.60",
         "Last Updated":"17:39",
         "Normalized_IPO_Name":"Vishal Nirmiti",
-        "Company":"Vishal Nirmiti(O)",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Vishal NirmitiMainboard",
+        "Company":"Vishal Nirmiti(O)Mainboard",
         "GMP*":"\u20b920",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9220",
         "Est. Gain":"\u20b9240 (9.09%)",
-        "Date":"30-5 Oct",
-        "Type_gmp":"Mainboard"
+        "Date":"30-5 Oct"
     },
     {
         "IPO":"Vivekanand Cotspin",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"September 23, 2026",
         "QIB  (X)":"1.26",
         "NII  (X)":"2.41",
@@ -4946,12 +5182,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Vivid Electromech",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"March 30, 2026",
         "QIB  (X)":"1.95",
         "NII  (X)":"1.5",
@@ -4964,12 +5199,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Waterways Leisure Tourism",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"June 25, 2026",
         "QIB  (X)":"0.72",
         "NII  (X)":"1.23",
@@ -4982,12 +5216,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Xtranet Technologies",
-        "Type_sub":"Mainboard",
+        "Type":"Mainboard",
         "Closing Date":"July 27, 2026",
         "QIB  (X)":"7.13",
         "NII  (X)":"26.65",
@@ -5000,12 +5233,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Yaap Digital",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 27, 2026",
         "QIB  (X)":"8.29",
         "NII  (X)":"5.05",
@@ -5018,12 +5250,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Yaashvi Jewellers",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"May 27, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"3.4",
@@ -5036,12 +5267,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Yajur Fibres",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"January 9, 2026",
         "QIB  (X)":"1.03",
         "NII  (X)":"0.91",
@@ -5054,12 +5284,11 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     },
     {
         "IPO":"Yashhtej Industries",
-        "Type_sub":"SME",
+        "Type":"SME",
         "Closing Date":"February 20, 2026",
         "QIB  (X)":"0",
         "NII  (X)":"0.39",
@@ -5072,7 +5301,6 @@
         "Trend":null,
         "Price Band":null,
         "Est. Gain":null,
-        "Date":null,
-        "Type_gmp":null
+        "Date":null
     }
 ]
