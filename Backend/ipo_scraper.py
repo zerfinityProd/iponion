@@ -164,20 +164,6 @@ def main():
     print("Merging dataframes...")
     merged_df = pd.merge(sub_df, gmp_df, on='Normalized_IPO_Name', how='outer', suffixes=('_sub', '_gmp'))
     
-    # Filter out entries with missing subscription data
-    if 'Total' in merged_df.columns:
-        merged_df.dropna(subset=['Total'], inplace=True)
-        print("Filtered out entries with missing subscription data.")
-    else:
-        print("Warning: 'Total' column not found after merge. Skipping filtering for missing subscription data.")
-
-    # Filter out records where 'IPO GMP' is null
-    if 'IPO GMP' in merged_df.columns:
-        merged_df.dropna(subset=['IPO GMP'], inplace=True)
-        print("Filtered out entries with missing IPO GMP data.")
-    else:
-        print("Warning: 'IPO GMP' column not found after merge. Skipping filtering for missing GMP data.")
-
     print("\n--- Merged IPO Data ---")
     print(merged_df.to_string()) # Use to_string() to avoid truncation
 
