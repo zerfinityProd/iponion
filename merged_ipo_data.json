@@ -1727,10 +1727,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"HD Fire ProtectUpcoming",
         "Company":"HD Fire ProtectUpcoming",
-        "GMP*":"\u20b960",
-        "Trend":"\ud83d\udfe2",
+        "GMP*":"\u20b955",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9271",
-        "Est. Gain":"\u20b9331 (22.14%)",
+        "Est. Gain":"\u20b9326 (20.29%)",
         "Date":"13-15 Oct"
     },
     {
@@ -2050,8 +2050,8 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Jio PlatformsUpcoming",
         "Company":"Jio PlatformsUpcoming",
-        "GMP*":"\u20b9185",
-        "Trend":"\ud83d\udfe2",
+        "GMP*":"\u20b9155",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9-",
         "Est. Gain":"\u20b9- (0.00%)",
         "Date":"21-23 Oct*"
@@ -2848,12 +2848,12 @@
         "Total (X)":"2.26",
         "Last Updated":"17:37",
         "Normalized_IPO_Name":"Nityas Gems",
-        "Company":"Nityas GemsClosed",
-        "GMP*":"\u20b91",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b975",
-        "Est. Gain":"\u20b976 (1.33%)",
-        "Date":"30-5 Oct"
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
     },
     {
         "IPO":"Novus Loyalty",
@@ -4684,12 +4684,12 @@
         "Total (X)":"1.79",
         "Last Updated":"17:37",
         "Normalized_IPO_Name":"Vishal Nirmiti",
-        "Company":"Vishal NirmitiClosed",
-        "GMP*":"\u20b92",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9220",
-        "Est. Gain":"\u20b9222 (0.91%)",
-        "Date":"30-5 Oct"
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
     },
     {
         "IPO":"Vivekanand Cotspin",
