@@ -816,6 +816,23 @@
         "Date":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Bonfiglioli TransmissionsUpcoming",
+        "Company":"Bonfiglioli TransmissionsUpcoming",
+        "GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Gain":"\u20b9- (0.00%)",
+        "Date":"15-19 Oct"
+    },
+    {
         "IPO":"Brandman Retail",
         "Type":"SME",
         "Closing Date":"February 6, 2026",
@@ -4843,5 +4860,22 @@
         "Price Band":null,
         "Est. Gain":null,
         "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Zetwerk ManufacturingUpcoming",
+        "Company":"Zetwerk ManufacturingUpcoming",
+        "GMP*":"\u20b90",
+        "Trend":"\ud83d\udfe1",
+        "Price Band":"\u20b9-",
+        "Est. Gain":"\u20b9- (0.00%)",
+        "Date":"15-19 Oct"
     }
 ]
