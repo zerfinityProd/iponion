@@ -816,23 +816,6 @@
         "Date":null
     },
     {
-        "IPO":null,
-        "Type":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated":null,
-        "Normalized_IPO_Name":"Bonfiglioli TransmissionsUpcoming",
-        "Company":"Bonfiglioli TransmissionsUpcoming",
-        "GMP*":"\u20b970",
-        "Trend":"\ud83d\udfe2",
-        "Price Band":"\u20b9-",
-        "Est. Gain":"\u20b9- (0.00%)",
-        "Date":"15-19 Oct"
-    },
-    {
         "IPO":"Brandman Retail",
         "Type":"SME",
         "Closing Date":"February 6, 2026",
@@ -1479,23 +1462,6 @@
         "Date":null
     },
     {
-        "IPO":null,
-        "Type":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated":null,
-        "Normalized_IPO_Name":"Fusion CXUpcoming",
-        "Company":"Fusion CXUpcoming",
-        "GMP*":"\u20b955",
-        "Trend":"\ud83d\udfe2",
-        "Price Band":"\u20b9289",
-        "Est. Gain":"\u20b9344 (19.03%)",
-        "Date":"14-16 Oct"
-    },
-    {
         "IPO":"Fusion Klassroom",
         "Type":"SME",
         "Closing Date":"August 4, 2026",
@@ -1761,10 +1727,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"HD Fire ProtectUpcoming",
         "Company":"HD Fire ProtectUpcoming",
-        "GMP*":"\u20b975",
-        "Trend":"\ud83d\udfe2",
+        "GMP*":"\u20b955",
+        "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9271",
-        "Est. Gain":"\u20b9346 (27.67%)",
+        "Est. Gain":"\u20b9326 (20.29%)",
         "Date":"13-15 Oct"
     },
     {
@@ -2084,10 +2050,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Jio PlatformsUpcoming",
         "Company":"Jio PlatformsUpcoming",
-        "GMP*":"\u20b9170",
+        "GMP*":"\u20b9155",
         "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b91,119*",
-        "Est. Gain":"\u20b91,289 (15.19%)",
+        "Price Band":"\u20b9-",
+        "Est. Gain":"\u20b9- (0.00%)",
         "Date":"21-23 Oct*"
     },
     {
@@ -3774,23 +3740,6 @@
         "Date":null
     },
     {
-        "IPO":null,
-        "Type":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated":null,
-        "Normalized_IPO_Name":"Sahajanand MedicalUpcoming",
-        "Company":"Sahajanand MedicalUpcoming",
-        "GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
-        "Est. Gain":"\u20b9- (0.00%)",
-        "Date":"15-19 Oct"
-    },
-    {
         "IPO":"Sai Parenteral\u2019s",
         "Type":"Mainboard",
         "Closing Date":"March 27, 2026",
@@ -4488,23 +4437,6 @@
         "Date":null
     },
     {
-        "IPO":null,
-        "Type":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated":null,
-        "Normalized_IPO_Name":"Tonbo ImagingUpcoming",
-        "Company":"Tonbo ImagingUpcoming",
-        "GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
-        "Est. Gain":"\u20b9- (0.00%)",
-        "Date":"TBA"
-    },
-    {
         "IPO":"Turtlemint Fintech",
         "Type":"Mainboard",
         "Closing Date":"June 23, 2026",
@@ -4894,22 +4826,5 @@
         "Price Band":null,
         "Est. Gain":null,
         "Date":null
-    },
-    {
-        "IPO":null,
-        "Type":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated":null,
-        "Normalized_IPO_Name":"Zetwerk ManufacturingUpcoming",
-        "Company":"Zetwerk ManufacturingUpcoming",
-        "GMP*":"\u20b90",
-        "Trend":"\ud83d\udfe1",
-        "Price Band":"\u20b9-",
-        "Est. Gain":"\u20b9- (0.00%)",
-        "Date":"15-19 Oct"
     }
 ]
