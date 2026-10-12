@@ -1489,10 +1489,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Fusion CXUpcoming",
         "Company":"Fusion CXUpcoming",
-        "GMP*":"\u20b917",
+        "GMP*":"\u20b913",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9289",
-        "Est. Gain":"\u20b9306 (5.88%)",
+        "Est. Gain":"\u20b9302 (4.50%)",
         "Date":"15-19 Oct"
     },
     {
@@ -1761,10 +1761,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"HD Fire ProtectUpcoming",
         "Company":"HD Fire ProtectUpcoming",
-        "GMP*":"\u20b985",
+        "GMP*":"\u20b975",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9271",
-        "Est. Gain":"\u20b9356 (31.37%)",
+        "Est. Gain":"\u20b9346 (26.68%)",
         "Date":"13-15 Oct"
     },
     {
@@ -3784,10 +3784,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Sahajanand MedicalUpcoming",
         "Company":"Sahajanand MedicalUpcoming",
-        "GMP*":"\u20b935",
-        "Trend":"\ud83d\udd34",
+        "GMP*":"\u20b946",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9344",
-        "Est. Gain":"\u20b9379 (10.17%)",
+        "Est. Gain":"\u20b9390 (13.37%)",
         "Date":"15-19 Oct"
     },
     {
@@ -4498,10 +4498,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Tonbo ImagingUpcoming",
         "Company":"Tonbo ImagingUpcoming",
-        "GMP*":"\u20b9420",
+        "GMP*":"\u20b9375",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9700",
-        "Est. Gain":"\u20b91120 (60.00%)",
+        "Est. Gain":"\u20b91075 (53.57%)",
         "Date":"15-19 Oct"
     },
     {
@@ -4906,10 +4906,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"ZetwerkUpcoming",
         "Company":"ZetwerkUpcoming",
-        "GMP*":"\u20b912",
+        "GMP*":"\u20b913",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9151",
-        "Est. Gain":"\u20b9163 (7.95%)",
+        "Est. Gain":"\u20b9164 (8.61%)",
         "Date":"15-19 Oct"
     }
 ]
