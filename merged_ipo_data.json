@@ -816,6 +816,23 @@
         "Date":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Bonfiglioli TransmissionsUpcoming",
+        "Company":"Bonfiglioli TransmissionsUpcoming",
+        "GMP*":"\u20b9150",
+        "Trend":"\ud83d\udd34",
+        "Price Band":"\u20b9586",
+        "Est. Gain":"\u20b9736 (25.60%)",
+        "Date":"15-19 Oct"
+    },
+    {
         "IPO":"Brandman Retail",
         "Type":"SME",
         "Closing Date":"February 6, 2026",
@@ -1462,6 +1479,23 @@
         "Date":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Fusion CXUpcoming",
+        "Company":"Fusion CXUpcoming",
+        "GMP*":"\u20b913",
+        "Trend":"\ud83d\udd34",
+        "Price Band":"\u20b9289",
+        "Est. Gain":"\u20b9302 (4.50%)",
+        "Date":"15-19 Oct"
+    },
+    {
         "IPO":"Fusion Klassroom",
         "Type":"SME",
         "Closing Date":"August 4, 2026",
@@ -1727,10 +1761,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"HD Fire ProtectUpcoming",
         "Company":"HD Fire ProtectUpcoming",
-        "GMP*":"\u20b955",
-        "Trend":"\ud83d\udd34",
+        "GMP*":"\u20b975",
+        "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9271",
-        "Est. Gain":"\u20b9326 (20.29%)",
+        "Est. Gain":"\u20b9346 (26.68%)",
         "Date":"13-15 Oct"
     },
     {
@@ -2050,10 +2084,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Jio PlatformsUpcoming",
         "Company":"Jio PlatformsUpcoming",
-        "GMP*":"\u20b9155",
-        "Trend":"\ud83d\udd34",
-        "Price Band":"\u20b9-",
-        "Est. Gain":"\u20b9- (0.00%)",
+        "GMP*":"\u20b9182",
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b91,119",
+        "Est. Gain":"\u20b91301 (16.26%)",
         "Date":"21-23 Oct*"
     },
     {
@@ -3740,6 +3774,23 @@
         "Date":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Sahajanand MedicalUpcoming",
+        "Company":"Sahajanand MedicalUpcoming",
+        "GMP*":"\u20b946",
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b9344",
+        "Est. Gain":"\u20b9390 (13.37%)",
+        "Date":"15-19 Oct"
+    },
+    {
         "IPO":"Sai Parenteral\u2019s",
         "Type":"Mainboard",
         "Closing Date":"March 27, 2026",
@@ -4437,6 +4488,23 @@
         "Date":null
     },
     {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"Tonbo ImagingUpcoming",
+        "Company":"Tonbo ImagingUpcoming",
+        "GMP*":"\u20b9375",
+        "Trend":"\ud83d\udfe2",
+        "Price Band":"\u20b9700",
+        "Est. Gain":"\u20b91075 (53.57%)",
+        "Date":"15-19 Oct"
+    },
+    {
         "IPO":"Turtlemint Fintech",
         "Type":"Mainboard",
         "Closing Date":"June 23, 2026",
@@ -4826,5 +4894,22 @@
         "Price Band":null,
         "Est. Gain":null,
         "Date":null
+    },
+    {
+        "IPO":null,
+        "Type":null,
+        "Closing Date":null,
+        "QIB  (X)":null,
+        "NII  (X)":null,
+        "Retail  (X)":null,
+        "Total (X)":null,
+        "Last Updated":null,
+        "Normalized_IPO_Name":"ZetwerkUpcoming",
+        "Company":"ZetwerkUpcoming",
+        "GMP*":"\u20b913",
+        "Trend":"\ud83d\udd34",
+        "Price Band":"\u20b9151",
+        "Est. Gain":"\u20b9164 (8.61%)",
+        "Date":"15-19 Oct"
     }
 ]
