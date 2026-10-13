@@ -826,10 +826,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Bonfiglioli TransmissionsUpcoming",
         "Company":"Bonfiglioli TransmissionsUpcoming",
-        "GMP*":"\u20b9150",
+        "GMP*":"\u20b9155",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9586",
-        "Est. Gain":"\u20b9736 (25.60%)",
+        "Est. Gain":"\u20b9741 (26.45%)",
         "Date":"15-19 Oct"
     },
     {
@@ -1489,11 +1489,11 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Fusion CXUpcoming",
         "Company":"Fusion CXUpcoming",
-        "GMP*":"\u20b913",
+        "GMP*":"\u20b925",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9289",
-        "Est. Gain":"\u20b9302 (4.50%)",
-        "Date":"15-19 Oct"
+        "Est. Gain":"\u20b9314(8.65%)",
+        "Date":"14-16 Oct"
     },
     {
         "IPO":"Fusion Klassroom",
@@ -1751,20 +1751,20 @@
         "Date":null
     },
     {
-        "IPO":null,
-        "Type":null,
-        "Closing Date":null,
-        "QIB  (X)":null,
-        "NII  (X)":null,
-        "Retail  (X)":null,
-        "Total (X)":null,
-        "Last Updated":null,
-        "Normalized_IPO_Name":"HD Fire ProtectUpcoming",
-        "Company":"HD Fire ProtectUpcoming",
-        "GMP*":"\u20b975",
+        "IPO":"HD Fire Protect",
+        "Type":"Mainboard",
+        "Closing Date":"October 15, 2026",
+        "QIB  (X)":"1.03",
+        "NII  (X)":"9.47",
+        "Retail  (X)":"3.36",
+        "Total (X)":"4.00",
+        "Last Updated":"15:47",
+        "Normalized_IPO_Name":"HD Fire Protect",
+        "Company":"HD Fire Protect(O)",
+        "GMP*":"\u20b986",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9271",
-        "Est. Gain":"\u20b9346 (26.68%)",
+        "Est. Gain":"\u20b9357 (31.73%)",
         "Date":"13-15 Oct"
     },
     {
@@ -2084,10 +2084,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Jio PlatformsUpcoming",
         "Company":"Jio PlatformsUpcoming",
-        "GMP*":"\u20b9182",
+        "GMP*":"\u20b9200",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b91,119",
-        "Est. Gain":"\u20b91301 (16.26%)",
+        "Est. Gain":"\u20b91319 (17.87%)",
         "Date":"21-23 Oct*"
     },
     {
@@ -3784,10 +3784,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Sahajanand MedicalUpcoming",
         "Company":"Sahajanand MedicalUpcoming",
-        "GMP*":"\u20b946",
+        "GMP*":"\u20b942",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9344",
-        "Est. Gain":"\u20b9390 (13.37%)",
+        "Est. Gain":"\u20b9386 (12.21%)",
         "Date":"15-19 Oct"
     },
     {
@@ -4498,10 +4498,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"Tonbo ImagingUpcoming",
         "Company":"Tonbo ImagingUpcoming",
-        "GMP*":"\u20b9375",
+        "GMP*":"\u20b9460",
         "Trend":"\ud83d\udfe2",
         "Price Band":"\u20b9700",
-        "Est. Gain":"\u20b91075 (53.57%)",
+        "Est. Gain":"\u20b91160 (65.71%)",
         "Date":"15-19 Oct"
     },
     {
@@ -4582,6 +4582,23 @@
         "Total (X)":"87.17",
         "Last Updated":"17:00",
         "Normalized_IPO_Name":"Vahh Chemicals",
+        "Company":null,
+        "GMP*":null,
+        "Trend":null,
+        "Price Band":null,
+        "Est. Gain":null,
+        "Date":null
+    },
+    {
+        "IPO":"Vaibhav Vyapaar",
+        "Type":"SME",
+        "Closing Date":"October 15, 2026",
+        "QIB  (X)":"0.00",
+        "NII  (X)":"0.11",
+        "Retail  (X)":"0.16",
+        "Total (X)":"0.11",
+        "Last Updated":"15:47",
+        "Normalized_IPO_Name":"Vaibhav Vyapaar",
         "Company":null,
         "GMP*":null,
         "Trend":null,
@@ -4906,10 +4923,10 @@
         "Last Updated":null,
         "Normalized_IPO_Name":"ZetwerkUpcoming",
         "Company":"ZetwerkUpcoming",
-        "GMP*":"\u20b913",
+        "GMP*":"\u20b920",
         "Trend":"\ud83d\udd34",
         "Price Band":"\u20b9151",
-        "Est. Gain":"\u20b9164 (8.61%)",
+        "Est. Gain":"\u20b9171 (13.25%)",
         "Date":"15-19 Oct"
     }
 ]
